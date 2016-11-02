@@ -1,0 +1,12 @@
+Changes - 9th April 2008
+------------------------
+
+Pre release alpha 0.10
+
+=====================
+
+_ fixed Uniplus 1.4 kernel boot bug
+
+_ fixed speed (was 2.5 MHz instead of 5...)
+
+_ still a bug in display acceleration

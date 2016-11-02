@@ -1,0 +1,65 @@
+Changes - 19th December 2015
+----------------------------
+
+uBee512 v5.7.0
+
+New for this release:
+* Added support for Greybeard's CF8 mode when using IDE HDDs.
+* Added ability to use dynamically named RAW FDD and HDD images.
+* Added hard disk format HD2: (8MB) 246 cylinders, 2 heads, 32 sect/track.
+* Added hard disk format HD3: (32MB) 490 cylinders, 4 heads, 32 sect/track.
+* Added new RAW disk formats SS40S (S4S) and DS40S (D4S). These are single
+  density formats, 40T 128 b/s, 18 s/t. Also added to 'libdskrc.sample'
+* Added --sram option to set SRAM size for ROM model emulation.
+* Added '+regs' and '+memr' arguments to --debug option.
+* Added debug reporting of memory contents pointed to by 16 bit registers,
+  this is enabled by default but may be switched off with --debug=-memr
+* Added Windows 8.1 (W8.1) and Windows 10 (W10) to system detection.
+* Added 17 new/altered game entries to 'games.ini.sample'.
+
+Changes:
+* Changes to Serial port calculations to allow 4 and 6.750 MHz clocks.
+* Changes to --baud options to allow 38400 baud.
+* Reporting Z80 register values in disassembly is now optional, default is
+  on but may be switched off with --debug=-regs.
+* Built using latest z80ex 1.1.21 changes that fixes the version function
+  and makes use of some new call-back settings in the API.
+* Compiled up against the LibDsk-1.3.8 library which now provides IMD image
+  support.  See the LibDsk ChangeLog.  IMD support in LibDsk is new so has
+  not seen much testing to date but appears to work for read and write on
+  compressed IMD images.  Do not use on archived images (only on copies). 
+  If there are issues please use the ubee512-5.6.0 release.
+
+  To use IMD images specify the --format option to force LibDsk to handle
+  the disk image:
+
+  ubee512 --format=ds80 -a filename.imd
+
+* Changes made to the quickstart.txt file.
+
+Fixed:
+* Fixed the Premium Plus model to ignore the ROM2/ROM3 selection bits.
+* Fixed the 64k DRAM model DRAM bank select bits to act the same as on a
+  real 64k DRAM Microbee.  Thanks to wizged for research on a real 64k.
+* Fixed --snd-mute option, probably broken since 5.0.0.
+* Fixed (changes) to --sound=off option, releases before 5.0.0 had disabled
+  the SDL sound system but since 5.0.0 does nothing, the 'off' argument is
+  deprecated but if used will now have the same effect as --snd-mute=on.
+* Fixed disk read/write related bugs that prevented 128 byte sectors
+  working.  Also same bug had affected 1024 byte sectors but not noticed in
+  general use.  Physical shift values will now work upto integer size.
+* Fixed a problem when writing to CRTC 6545 display start high and low
+  registers 12 and 13 was not refreshing the display.  This had been a long
+  standing issue with some programs that changed these registers such as the
+  Net ROM under the IC model where rubbish characters remained on the top
+  line.
+* Fixed --bpr, --db-bpr options as had failed to take a single argument.
+* Fixed --db-bp-port, -db-bpclr-port and --db-bpr-port 'p,n' range values.
+* Fixed a segmentation fault in disk_create() when searching for a '.'
+  which is now ignored if next to a slash character on either side.
+* Fixed crash when doing a Power-cycle.
+* Fixed Tapfile DGOS name display to use space characters if white space
+  and to mask off high bit.
+* Fixed --debug option to use 'tstates' (and not 'tstate') argument as
+  described in help for the --debug option.
+* Minor changes to some functions in options.c to eliminate build warnings.

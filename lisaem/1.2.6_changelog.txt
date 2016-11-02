@@ -1,0 +1,17 @@
+Changes - 13th December 2007
+----------------------------
+
+--- 1.2.6
+fixed win32 rawbitmap issues, this should speed up the display
+ quite a bit.  
+Linux rawbitmaps don't work yet, just show a blank
+ white display.
+
+fixed bugs on skinless on OS X.  
+Issue with wxBitmap, it needed
+ to be filled in before using. Some update to wxWidgets changed
+ the default from the default being white, to an alpha background
+ causing the whole display to fail to update at all since the data inside the wxBitmap was invisible.
+
+bug report:
+ - libexpat was accidentally turned on in the OS X version of LisaEm, this is not needed by LisaEm's use of wxWidgets, it will be removed via  --without-expat in wxWidgets' configure script.

@@ -1,0 +1,9 @@
+Changes - 21st June 2016
+------------------------
+
+New in This Version:
+Enabled magnified sprites (Jawbreaker, Stray Cat, F-Zeru, Triumph). 
+Fixed sprite collision detection, especially in BASIC games. 
+Added collision detection even on transparent sprites. 
+Now stopping collision detection when Y=216 in SCREEN 4-8. 
+Now setting lower VDPStatus bits to the last tested sprite. 

@@ -1,0 +1,46 @@
+Changes - 8th December 2001
+---------------------------
+
+Changes from 0.9.3
+------------------
+
+Linux
+=====
+- Removed some debug printing for Model 1 games
+
+Win32
+=====
+- Relinked with static multithreaded MSVCRT for better compatibility
+- Includes CVS SDL with support for 4 joypads
+- Now includes the faster V60 core like 0.9.3 Linux and MacOS (damn
+  misnamed files)
+- Kaillera support for Outrunners
+
+Common
+======
+- Rewritten memory handling system gives a speedup in all games
+- 2 player support in Outrunners
+- As a result of all the speedups, I've dropped the minimum requirement from
+  450 to 350 MHz for x86 PCs.  Outrunners and other demanding games are now
+  very playable (45+ FPS) without sound on my P2-400 test machine.
+- V60 CPU core fixes from Luca Elia of MAMEdev.  We're unaware of any
+  obvious things corrected by these, but hey :)
+
+Known problems (do not waste time on the boards asking about these)
+--------------
+* Rad Mobile flashes "Motor Trouble" or similar.  To fix, hit Insert to enter
+  the test menu, press Home to highlight "Game and System Setting", press
+  Insert to enter that screen, then press 1 until Cabinet Type is
+  highlighted.  Press space to change it to "upright", then press Insert.
+  Press Home until "Quit" is highlighted, exit test mode, then press Esc to
+  make sure the settings are saved to your harddisk.
+* Star Wars Arcade shows an error on startup.
+* Outrunners sound when you go off the road is annoying.
+* Controls do not work if you change the cabinet type from the default.  This 
+  also happens on the real PCB because 2 player cabinets have a different 
+  input daughtercard than 4 player ones.  Thus, you must use the US ROM sets 
+  to play GA2 or Spiderman with 4 players.  Also, you must not change the US
+  sets to "2 player" in the test menu.
+* Sound is not correct in Hard Dunk.
+* The pitch (field for those who don't speak futbol) is not drawn properly
+  in SVF.

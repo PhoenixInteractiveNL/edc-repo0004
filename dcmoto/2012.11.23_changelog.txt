@@ -1,0 +1,9 @@
+Changes - 23rd November 2012
+----------------------------
+
+Version 2012.11
+Emulation test for SD card devices : MO5SD (on the tape port) and MO6SD/TO8SD (on the joystick port).
+Accented characters are now valid with keyboard simulation.
+Mouse click bug fixed for all computers.
+Mouse emulation bug fixed for MO5NR, MO6 and PC128 computers.
+Minor bug fixes.

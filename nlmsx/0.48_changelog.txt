@@ -1,0 +1,7 @@
+Changes - 12th June 2003
+------------------------
+
+v0.48 changes:
+* solved a crash when sound is disabled, 
+* updated the GUI, eg. inserting cartridges is much easier now, 
+* fixed some problems with the MoonSound, thanks to Herman Oudejans and Arjan Bakker. 
