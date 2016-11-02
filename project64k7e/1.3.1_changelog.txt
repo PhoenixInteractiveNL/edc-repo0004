@@ -1,0 +1,4 @@
+Changes - 31st December 2012
+----------------------------
+
+- Fixed loads some DLLs 

@@ -1,0 +1,7 @@
+Changes - 2nd January 2014
+--------------------------
+
+v1.1a
+- Added back the game options that were removed in the previous version due to compilation issues (Cheats & options, dump texture cache, reload LUA script)
+- Fixed texture replacement that was also removed.
+- Diferent alpha filtering code that should improve the extra lines in some textures.

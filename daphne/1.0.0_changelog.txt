@@ -1,0 +1,9 @@
+Changes - 2nd April 2009
+------------------------
+
+v1.0.0
+- Fixed OpenGL offset test, and added a check for the bottom row also.
+- Fixed sound shutdown bug (possibly crash when shutting down daphne).
+- Fixed laireuro driver so that overlay is displayed properly in OpenGL mode.
+- Stats are now sent after a game has run, not before. This is because the delay in sending stats was throwing off one of the timers.
+- Fixed a bunch of unit tests that weren't passing.

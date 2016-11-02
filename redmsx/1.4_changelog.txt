@@ -1,0 +1,9 @@
+Changes - 26th March 2005
+-------------------------
+
+RedMSX 1.4:
+ * Initial tape emulation (no zip support yet, and some games dont load)
+ * Support to more mappers!
+ * Disable sprites collision
+ * Disable sprite rendering
+ * Support to SEGA lightgun adapted... so now you can play DUCK HUNT on RedMSX!

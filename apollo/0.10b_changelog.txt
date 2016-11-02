@@ -1,0 +1,16 @@
+Changes - 23rd November 2001
+----------------------------
+
+4KB EEPROM needs to be selected for some games before you even attempt to use then.
+If you realize a game isn't functioning appropriately, try to enable 4KB EEPROM.
+Certain games like Perfect Dark, Yoshi Story, and others will not function correctly
+without this.  If you select it once, you will not have to select it again.  The size
+will be automatically determined based on the filesize of the EEPROM save image.  A
+few other notes is that the emulator will be unplayable with games that utilize the
+TLB heavily.  I have no TLB caching-type mechanisms employed.  Thus, GoldenEye,
+Conker's Bad Fur Day, and a few others are unplayable (too slow).  I have a nasty
+FPU bug which I haven't gotten around to fixing yet.  This makes Turok2, ExciteBike64,
+and a few other games unplayable.  This is not a complete release, I don't have the
+time to work on Apollo until after Christmas.  So I figured I would make one last
+release before then.  Apollo still isn't technically public, but I swore to someone
+I would release once I got those certain games working.  I honor my word.

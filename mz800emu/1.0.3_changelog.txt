@@ -1,0 +1,19 @@
+Changes - 1st March 2016
+------------------------
+
+	Released version 1.0.3
+
+	- bugfix: in the Pezik ramdisk
+	- added breakpoints and memory dump viewer
+	- added Quick Disk emulation
+
+	- added an additional Sharp ROM's, possible to switch between:
+
+		Standard MZ-800 ROM
+		JSS v1.08C - for MR-1R18 compatibile ramdisk
+		JSS v1.06A - for the Pezik (0x0e8 - 0x0ef) ramdisk
+		WILLY English
+		WILLY German
+		WILLY Japanese
+
+	- many litle improvements and bugfixes

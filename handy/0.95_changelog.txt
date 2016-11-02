@@ -1,0 +1,14 @@
+Changes - 19th February 2007
+----------------------------
+
+V0.95
+  * Interrupt system re-written to make it edge triggered, see Shadow
+    of the beast to see the improvement, also fixes lockups in a number
+    of other games (Loopz/Championship Rally/Fidelity Chess)
+  * Command line filename input supported: handy.exe <filename>
+  * Pressing ESC will now exit if you started with command line as above
+  * For all you folks using front-ends, you can now start directly into
+    full-screen mode, the last used mode will be remembered exactly, so
+    setup your desired mode, ALT-F4 to exit, then use your command line
+  * When in command line mode, all screen switching is disabled
+  * Bug fix to ram.cpp & cart.cpp

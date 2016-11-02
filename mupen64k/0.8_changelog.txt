@@ -1,0 +1,12 @@
+Changes - 28th December 2011
+----------------------------
+
+-Removed useless files
+-New Kailleraclient 
+-Removed oldkaillera and supraclient
+-Glitch64 Added
+-New Glide64 added
+-Project64 1.6.1 plugin updates
+-New Icon
+-New website
+-Implemented Manifest in .exe
