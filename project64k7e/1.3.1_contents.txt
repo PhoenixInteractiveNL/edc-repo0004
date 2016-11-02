@@ -1,0 +1,34 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-12-30 20:40:51 ....A            8      3416641  Config\Project64.cache
+2001-12-24 21:20:50 ....A       213514               Project64.chm
+2012-03-21 18:33:33 ....A      3656465               Config\Project64.cht
+2009-02-15 00:23:34 ....A       348672               Plugin\Aristotle's Mudlord and Rice Video 6.1.9.dll
+2003-04-25 13:30:16 ....A        22016               Plugin\AudioHLE.dll
+2012-03-20 11:40:34 ....A       368640               Plugin\DarkMan's DInput 4.0.dll
+2011-04-06 07:49:47 ....A        65024               glide3x.dll
+2009-04-29 03:55:20 ....A       651264               Plugin\Glide64 Napalm Public Release 1.22.dll
+2009-03-19 07:44:00 ....A       618496               Plugin\GlideHQ.dll
+2001-12-01 03:54:32 ....A        26624               Plugin\Jabo_DInput.dll
+2005-03-26 05:39:54 ....A        68608               Plugin\Jabo_DInput_1.6.dll
+2012-03-20 11:42:18 ....A       402944               Plugin\Jabo_Direct3D6.dll
+2012-03-20 11:42:44 ....A       488960               Plugin\Jabo_Direct3D8.dll
+2005-03-20 15:10:50 ....A        54784               Plugin\Jabo_DSound.dll
+2012-01-11 17:38:39 ....A       108032               kailleraclient.dll
+2011-08-13 07:45:26 ....A       967680               Plugin\netplay_input_plugin 0.2.dll
+2011-04-03 11:33:42 ....A        37888               Plugin\NRage_DInput8 1.6.dll
+2001-12-09 13:52:18 ....A        79360               Plugin\RSP.dll
+2012-11-02 05:56:06 ....A       526336               Project64K7E.exe
+2010-07-14 13:19:21 ....A        42245               Plugin\Glide64.ini
+2012-11-02 06:12:31 ....A          168               n02.ini
+2012-12-30 20:41:47 ....A        72657               Config\Project64.lng
+2012-12-30 20:41:59 ....A       376939               Config\Project64.rdb
+2012-11-02 05:54:33 ....A       144814               Config\Project64.rdx
+2012-03-21 08:14:54 ....A         2338               Cheats 'Have All' type On.reg
+2012-11-02 06:14:55 ....A         7364               ReadMe.txt
+2012-12-30 23:51:39 ....A        45835               Project64 RDB.zip
+2012-03-20 07:24:52 ....A            0            0  Plugin\Aristotle Video.ini
+2012-03-20 07:24:52 D....            0            0  Plugin
+2012-03-20 07:24:52 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2012-12-30 23:51:39            9397675      3416641  28 files, 2 folders

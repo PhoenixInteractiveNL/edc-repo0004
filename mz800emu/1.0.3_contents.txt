@@ -1,0 +1,73 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-03-01 14:31:30 ....A           75     11491444  mz800emu-1.0.3-win32\MZ-800.bat
+2016-03-01 14:31:30 ....A         1517               mz800emu-1.0.3-win32\runtime\gtk-3\share\glib-2.0\schemas\gschemas.compiled
+2016-03-01 14:31:28 ....A         1396               mz800emu-1.0.3-win32\ui_resources\mz800emu.css
+2016-03-01 14:31:30 ....A     22350075               mz800emu-1.0.3-win32\runtime\gtk-3\icudata51.dll
+2016-03-01 14:31:28 ....A       279151               mz800emu-1.0.3-win32\runtime\gtk-3\icule51.dll
+2016-03-01 14:31:28 ....A      1266077               mz800emu-1.0.3-win32\runtime\gtk-3\icuuc51.dll
+2016-03-01 14:31:30 ....A       134221               mz800emu-1.0.3-win32\runtime\gtk-3\libatk-1.0-0.dll
+2016-03-01 14:31:28 ....A       648818               mz800emu-1.0.3-win32\runtime\gtk-3\libcairo-2.dll
+2016-03-01 14:31:28 ....A        52776               mz800emu-1.0.3-win32\runtime\gtk-3\libcairo-gobject-2.dll
+2016-03-01 14:31:28 ....A      1230052               mz800emu-1.0.3-win32\runtime\gtk-3\libcrypto-8.dll
+2016-03-01 14:31:28 ....A        52640               mz800emu-1.0.3-win32\runtime\gtk-3\libffi-6.dll
+2016-03-01 14:31:30 ....A       241850               mz800emu-1.0.3-win32\runtime\gtk-3\libfontconfig-1.dll
+2016-03-01 14:31:28 ....A       501844               mz800emu-1.0.3-win32\runtime\gtk-3\libfreetype-6.dll
+2016-03-01 14:31:28 ....A       117730               mz800emu-1.0.3-win32\runtime\gtk-3\libgcc_s_sjlj-1.dll
+2016-03-01 14:31:30 ....A       532757               mz800emu-1.0.3-win32\runtime\gtk-3\libgdk-3-0.dll
+2016-03-01 14:31:30 ....A       272344               mz800emu-1.0.3-win32\runtime\gtk-3\libgdk_pixbuf-2.0-0.dll
+2016-03-01 14:31:30 ....A      1117960               mz800emu-1.0.3-win32\runtime\gtk-3\libgio-2.0-0.dll
+2016-03-01 14:31:30 ....A      1156969               mz800emu-1.0.3-win32\runtime\gtk-3\libglib-2.0-0.dll
+2016-03-01 14:31:28 ....A        45432               mz800emu-1.0.3-win32\runtime\gtk-3\libgmodule-2.0-0.dll
+2016-03-01 14:31:30 ....A       295689               mz800emu-1.0.3-win32\runtime\gtk-3\libgobject-2.0-0.dll
+2016-03-01 14:31:28 ....A       144845               mz800emu-1.0.3-win32\runtime\gtk-3\libgraphite2.dll
+2016-03-01 14:31:30 ....A      4324123               mz800emu-1.0.3-win32\runtime\gtk-3\libgtk-3-0.dll
+2016-03-01 14:31:30 ....A       565562               mz800emu-1.0.3-win32\runtime\gtk-3\libharfbuzz-0.dll
+2016-03-01 14:31:28 ....A       130306               mz800emu-1.0.3-win32\runtime\gtk-3\libintl-8.dll
+2016-03-01 14:31:28 ....A       279279               mz800emu-1.0.3-win32\runtime\gtk-3\libjasper-1.dll
+2016-03-01 14:31:30 ....A       218650               mz800emu-1.0.3-win32\runtime\gtk-3\libjpeg-8.dll
+2016-03-01 14:31:28 ....A       157616               mz800emu-1.0.3-win32\runtime\gtk-3\liblzma-5.dll
+2016-03-01 14:31:30 ....A       283317               mz800emu-1.0.3-win32\runtime\gtk-3\libpango-1.0-0.dll
+2016-03-01 14:31:30 ....A        82011               mz800emu-1.0.3-win32\runtime\gtk-3\libpangocairo-1.0-0.dll
+2016-03-01 14:31:28 ....A       107305               mz800emu-1.0.3-win32\runtime\gtk-3\libpangoft2-1.0-0.dll
+2016-03-01 14:31:28 ....A        93919               mz800emu-1.0.3-win32\runtime\gtk-3\libpangowin32-1.0-0.dll
+2016-03-01 14:31:30 ....A       629673               mz800emu-1.0.3-win32\runtime\gtk-3\libpixman-1-0.dll
+2016-03-01 14:31:28 ....A       173623               mz800emu-1.0.3-win32\runtime\gtk-3\libpng15-15.dll
+2016-03-01 14:31:28 ....A       288330               mz800emu-1.0.3-win32\runtime\gtk-3\libssl-8.dll
+2016-03-01 14:31:28 ....A       847985               mz800emu-1.0.3-win32\runtime\gtk-3\libstdc++-6.dll
+2016-03-01 14:31:28 ....A       442783               mz800emu-1.0.3-win32\runtime\gtk-3\libtiff-5.dll
+2016-03-01 14:31:30 ....A      1169897               mz800emu-1.0.3-win32\runtime\gtk-3\libxml2-2.dll
+2016-03-01 14:31:30 ....A      1007104               mz800emu-1.0.3-win32\runtime\sdl-2\SDL2.dll
+2016-03-01 14:31:28 ....A       106234               mz800emu-1.0.3-win32\runtime\gtk-3\zlib1.dll
+2016-03-01 14:31:30 ....A        43077               mz800emu-1.0.3-win32\runtime\gtk-3\gdk-pixbuf-query-loaders.exe
+2016-03-01 14:31:28 ....A        40292               mz800emu-1.0.3-win32\runtime\gtk-3\gspawn-win32-helper-console.exe
+2016-03-01 14:31:30 ....A        40292               mz800emu-1.0.3-win32\runtime\gtk-3\gspawn-win32-helper.exe
+2016-03-01 14:31:28 ....A      1102221               mz800emu-1.0.3-win32\mz800emu.exe
+2016-03-01 14:31:28 ....A        85952               mz800emu-1.0.3-win32\ui_resources\mz800emu.glade
+2016-03-01 14:31:28 ....A        26162               mz800emu-1.0.3-win32\ui_resources\mz800emu_cmt.glade
+2016-03-01 14:31:28 ....A       204896               mz800emu-1.0.3-win32\ui_resources\mz800emu_debugger.glade
+2016-03-01 14:31:28 ....A        79340               mz800emu-1.0.3-win32\mz800emu.ico
+2016-03-01 14:31:30 ....A         9302               mz800emu-1.0.3-win32\runtime\gtk-3\share\locale\pt_BR\LC_MESSAGES\atk10.mo
+2016-03-01 14:31:30 ....A        22800               mz800emu-1.0.3-win32\runtime\gtk-3\share\locale\pt_BR\LC_MESSAGES\gdk-pixbuf.mo
+2016-03-01 14:31:30 ....A        95606               mz800emu-1.0.3-win32\runtime\gtk-3\share\locale\pt_BR\LC_MESSAGES\glib20.mo
+2016-03-01 14:31:30 ....A       180905               mz800emu-1.0.3-win32\runtime\gtk-3\share\locale\pt_BR\LC_MESSAGES\gtk30-properties.mo
+2016-03-01 14:31:28 ....A       142176               mz800emu-1.0.3-win32\ui_resources\mz800emu_logo.png
+2016-03-01 14:31:28 ....A         1277               mz800emu-1.0.3-win32\Documentation\Changelog_EN.txt
+2016-03-01 14:31:28 ....A          990               mz800emu-1.0.3-win32\Documentation\Readme_CZ.txt
+2016-03-01 14:31:28 ....A          950               mz800emu-1.0.3-win32\Documentation\Readme_EN.txt
+2016-03-01 14:31:28 ....A          716               mz800emu-1.0.3-win32\Documentation\Runtime_libs_CZ.txt
+2016-03-01 14:31:28 ....A          188               mz800emu-1.0.3-win32\Documentation\Runtime_libs_EN.txt
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\gtk-3\share\glib-2.0\schemas
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\ui_resources
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\gtk-3
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\gtk-3\share\locale\pt_BR\LC_MESSAGES
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\gtk-3\share\glib-2.0
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\sdl-2
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\gtk-3\share\locale\pt_BR
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\gtk-3\share\locale
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\Documentation
+2016-03-01 14:31:28 D....            0            0  mz800emu-1.0.3-win32\runtime\gtk-3\share
+------------------- ----- ------------ ------------  ------------------------
+2016-03-01 14:31:30           43429077     11491444  57 files, 12 folders

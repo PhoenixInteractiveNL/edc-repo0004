@@ -1,0 +1,31 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-05-09 06:07:36 ....A       345988       860812  Plugin\DarkMan_DInput.chm
+2001-10-05 16:48:24 ....A        57856               Plugin\1964ogl.dll
+2004-01-13 12:01:56 ....A        86016               Plugin\AziSndLLE.dll
+2000-10-29 01:29:14 ....A        40960               Plugin\Basic Audio Plugin.dll
+2000-12-02 04:32:12 ....A        36864               Plugin\Basic Keyboard Plugin.dll
+2000-10-21 00:49:10 ....A        36864               Plugin\CFB.dll
+2004-05-09 06:03:40 ....A       167936               Plugin\DarkMan_DInput.dll
+2000-11-04 02:12:18 ....A        36864               Plugin\No Sound.dll
+2001-11-23 07:57:18 ....A        32768               Plugin\OGLPlugin.dll
+2004-05-22 14:24:28 ....A       761856               Plugin\RiceVideo5.6.0.dll
+2001-05-21 12:21:16 ....A          512               Save\MARIOKART64.eep
+2001-11-23 08:11:46 ....A         2048               Save\Perfect Dark.eep
+2001-05-23 12:26:34 ....A          512               Save\SUPER MARIO 64.eep
+2001-11-23 08:12:42 ....A         2048               Save\YOSHI STORY.eep
+2004-06-11 12:55:12 ....A       290816               Apollo.exe
+2001-11-23 08:21:02 ....A       131072               Save\ZELDA MAJORA'S MASK.fla
+2004-05-20 01:23:18 ....A        21977               Plugin\RiceVideo5.6.0.ini
+2001-05-21 12:21:16 ....A        32768               Save\MARIOKART64.mpk
+2001-11-23 08:11:46 ....A        32818               Save\Perfect Dark.mpk
+2001-11-23 08:12:42 ....A        32818               Save\YOSHI STORY.mpk
+2001-11-23 08:21:02 ....A        32818               Save\ZELDA MAJORA'S MASK.mpk
+2001-05-23 12:28:08 ....A        32768               Save\THE LEGEND OF ZELDA.srm
+2001-10-01 14:41:42 ....A         5331               Plugin\readme.txt
+2004-06-13 10:00:00 ....A        12381               readme.txt
+2004-05-20 03:17:06 ....A          860               Plugin\RiceVideo5.6.0-Readme.txt
+2004-05-20 03:17:06 D....            0            0  Plugin
+2004-05-20 03:17:06 D....            0            0  Save
+------------------- ----- ------------ ------------  ------------------------
+2004-06-13 10:00:00            2235519       860812  25 files, 2 folders
