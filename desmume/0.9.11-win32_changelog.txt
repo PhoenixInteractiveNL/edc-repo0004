@@ -1,0 +1,64 @@
+0.9.10 -> 0.9.11 (r4908-r5146)
+
+In this version, we have focused on the Cocoa frontend, but there have been some good core fixes over so long.
+Notably, the save-related issues resulting in the advice "dont use 0.9.10" have been resolved.
+
+General/Core:
+ bug: fix large numbers of games not being able to save anymore
+ bug: fix some missing sound effects due to wrong volumes in some boot scenarios and other things
+ bug: fix freezes due to tiny looping sounds
+ bug: fix many big endian issues
+ bug: fix some apparently rarely-used CPU instructions, no known consequences
+ bug: fix (block) reading of some GPU registers
+ bug: fix action replay code type 0xE
+ bug: fix reading of last 4 bytes of rom
+ bug: large improvements to stability of GDB stub
+ bug: support w-buffer support in OpenGL renderers
+ bug: fix unpredictable crashes in some 3d scenes from w=0
+ enh: better loading of roms (bad patches) with wrong size info in header
+ enh: warn user sometimes when 'stream rom from disk' will create malfunctions
+ enh: add xBRZ filters
+ enh: add "TXT Hack" for software rasterizer to improve text rendering in some games
+ 
+Windows:
+ bug: fix 5x filters
+ enh: support import of action replay save files (.dss)
+ enh: add antialiasing option for OpenGL renderers
+ enh: don't malfunction if saveram is unavailable or read-only
+
+Cocoa:
+ bug: 16-bit to 32-bit color space conversions no longer darken video or images
+ bug: fix intermittent issues with loading user defaults on app startup
+ bug: fix rendering inaccuracies of the video preview in the app display preferences
+ bug: fix various UI font rendering and text alignment issues on OS X Yosemite
+ bug: fix crackly sound from N-sync and Z-sync methods
+ enh: make N-sync method the default sound sync method since it has much lower latency than P-sync method
+ enh: add support for gdbstub (Tools > Show GDB Stub Control) (only available on custom builds using the dev+ build target)
+ enh: optimize input handling to use less CPU
+ enh: add support for App Nap when the app is in an idle state (only supported on OS X Mavericks and later)
+ enh: add Execution Control panel (Emulation > Show Execution Control), now with frame advance and frame jump controls
+ enh: auto frame skip is now smoother
+ enh: further improve execution timing accuracy
+ enh: improve overall video performance
+ enh: render video through a 3-stage filtering pipeline, (Video Source)-->(Pixel Scaler)-->(Video Output)
+ enh: add the following video source filters - Deposterize
+ enh: add the following video output filters - Bicubic B-Spline, Bicubic Mitchell-Netravali, Lanczos2, Lanczos3
+ enh: add ability to run all existing pixel scalers on either the CPU or the GPU
+ enh: add ability to toggle the main and touch display positions (View > Toggle All Displays)
+ enh: add preliminary support for replay playback and recording
+ enh: add support for turbo and autohold
+ enh: add support for the entire suite of slot-2 devices (Emulation > Show SLOT-2 Manager)
+ enh: add support for using the host machine's audio input device for emulating the NDS microphone (Emulation > Show Microphone Settings)
+ enh: change the sine wave tone generator's range from 100Hz-5000Hz to 40Hz-4000Hz
+ enh: reorganize the menu options to more logical locations
+ enh: greatly improve the File Migration Assistant (now renamed Game Data Migration Assistant) and ROM Info panel with a more modern and space efficient look and feel
+ enh: miscellaneous user interface improvements
+
+Linux:
+ bug: fix screen gap bug
+ bug: workaround for std::bad_alloc exceptions compiler bugs
+ enh: add experimental AV recording
+ enh: generally improve main loop throttling and skipping
+ enh: massive improvements to HUD and menu layout
+ enh: add window sizing options and sound interpolation options
+ enh: add Lid button; disallow U+D, L+R; manual option saving

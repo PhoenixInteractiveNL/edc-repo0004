@@ -1,0 +1,327 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-05-15 21:49:08 ....A        21348      2065270  gdsp_infos\dsphack.zip
+2005-05-09 21:57:26 ....A        27599               gdsp_infos\gcdspsuite-0.0.1-20050509.zip
+2005-05-15 21:43:44 ....A       385714               gdsp_infos\gcdspsuite-0.0.2-20050512.zip
+2005-05-09 21:57:28 ....A       468853               gdsp_infos\GDSP-0.0.3-20050509.zip
+2005-05-15 21:43:26 ....A       474271               gdsp_infos\GDSP-0.0.4-20050512.zip
+2005-03-13 20:29:56 ....A         8192               gdsp_infos\gc_dsp_rom.bin
+2005-05-09 13:04:54 ....A         3029               src\cpu\asm_x86.h
+2005-05-09 13:00:44 ....A         1349               src\hardware\audio_interface.h
+2005-07-17 14:21:30 ....A           73               src_gx_plugin\gxGCEmuOGL\bp_regs.h
+2005-07-17 14:28:28 ....A          139               src_gx_plugin\old_src\gxD3D\src\graphics_processor\bp_regs.h
+2005-07-17 14:28:48 ....A          139               src_gx_plugin\old_src\gxOGL\src\graphics_processor\bp_regs.h
+2005-07-17 14:28:24 ....A          198               src_gx_plugin\old_src\gxD3D\src\byteswap.h
+2005-07-17 14:21:30 ....A           24               src_gx_plugin\gxGCEmuOGL\cfg.h
+2005-05-29 19:14:32 ....A         1432               src\hardware\command_processor_interface.h
+2005-06-04 01:18:26 ....A         2174               src\config.h
+2005-07-17 14:28:24 ....A           16               src_gx_plugin\old_src\gxD3D\src\config.h
+2005-07-17 14:28:44 ....A         1386               src_gx_plugin\old_src\gxOGL\src\config.h
+2005-07-17 14:21:30 ....A           50               src_gx_plugin\gxGCEmuOGL\cp_regs.h
+2005-07-17 14:28:28 ....A          147               src_gx_plugin\old_src\gxD3D\src\graphics_processor\cp_regs.h
+2005-07-17 14:28:48 ....A          147               src_gx_plugin\old_src\gxOGL\src\graphics_processor\cp_regs.h
+2005-07-17 14:28:24 ....A          457               src_gx_plugin\old_src\gxD3D\src\d3d_fun.h
+2005-03-22 16:51:18 ....A           42               inc\dbg.h
+2005-05-24 12:30:58 ....A         9168               src\cpu\disasm\disasm.h
+2004-08-19 20:01:48 ....A          243               src\cpu\disasm_x86.h
+2005-07-17 14:28:28 ....A           74               src_gx_plugin\old_src\gxD3D\src\graphics_processor\display_message.h
+2005-07-17 14:28:48 ....A           74               src_gx_plugin\old_src\gxOGL\src\graphics_processor\display_message.h
+2004-08-25 10:51:58 ....A       108023               src\cpu\disasm\dis_tables.h
+2005-05-09 12:48:38 ....A         1064               src\dol_loader.h
+2005-05-24 12:30:58 ....A         1426               src\hardware\dsp_interface.h
+2005-05-09 13:01:34 ....A         2750               src\hardware\dsp_interface_defines.h
+2005-02-23 09:23:58 ....A          325               inc\dtypes.h
+2005-05-24 12:30:58 ....A         1432               src\hardware\dvd_interface.h
+2005-05-24 12:30:58 ....A       103794               src\elf.h
+2005-05-09 12:49:08 ....A         1095               src\elf_file.h
+2005-05-24 12:30:58 ....A         1938               src\elf_loader.h
+2005-05-09 12:49:42 ....A         1296               src\elf_types.h
+2005-07-17 14:21:30 ....A         4462               src_gx_plugin\gxGCEmuOGL\externals.h
+2005-05-24 12:30:58 ....A         1393               src\hardware\external_interface.h
+2005-02-13 09:23:10 ....A         1473               src\hardware\external_interface_defines.h
+2005-07-17 14:21:30 ....A          158               src_gx_plugin\gxGCEmuOGL\fps.h
+2005-07-17 14:21:32 ....A           50               src_gx_plugin\gxGCEmuOGL\fragment_shader_gen.h
+2005-07-17 14:28:50 ....A           93               src_gx_plugin\old_src\gxOGL\src\graphics_processor\fragment_shader_gen.h
+2004-06-29 16:37:42 ....A          744               src\gcm\GCMApploader.h
+2004-06-29 16:37:42 ....A         1187               src\gcm\GCMDiskHeader.h
+2004-06-29 16:37:42 ....A         1018               src\gcm\GCMDiskHeaderInfo.h
+2004-06-29 16:37:42 ....A         1947               src\gcm\GCMDol.h
+2004-06-29 16:37:42 ....A         2840               src\gcm\GCMextras.h
+2004-06-29 16:37:42 ....A         3144               src\gcm\GCMutils.h
+2005-05-24 12:30:58 ....A         1098               src\gcm_loader.h
+2005-05-24 12:30:58 ....A         1189               src\gcm_wrapper.h
+2005-05-09 13:45:08 ....A         1077               src\dsp\gdsp_ifx.h
+2005-05-09 13:45:52 ....A         1351               src\dsp\gdsp_interface.h
+2005-05-24 12:31:00 ....A         2164               src\dsp\gdsp_interpreter.h
+2005-05-24 12:30:58 ....A         1177               src\dsp\gdsp_memory.h
+2005-05-24 12:30:58 ....A         1430               src\dsp\gdsp_opcodes.h
+2005-05-09 13:47:42 ....A         1261               src\dsp\gdsp_registers.h
+2005-03-28 10:38:20 ....A          577               inc\gdsp_tool.h
+2005-07-17 14:21:32 ....A       251007               src_gx_plugin\gxGCEmuOGL\Glext.h
+2005-07-17 14:21:32 ....A         7612               src_gx_plugin\gxGCEmuOGL\gl_ext.h
+2005-07-17 14:28:28 ....A          102               src_gx_plugin\old_src\gxD3D\src\graphics_processor\gp_defs.h
+2005-07-17 14:28:50 ....A          102               src_gx_plugin\old_src\gxOGL\src\graphics_processor\gp_defs.h
+2005-07-17 14:28:26 ....A          235               src_gx_plugin\old_src\gxD3D\src\gxD3D.h
+2005-07-17 14:28:44 ....A          235               src_gx_plugin\old_src\gxOGL\src\gxOGL.h
+2005-07-17 14:21:32 ....A          329               src_gx_plugin\gxGCEmuOGL\gx_cache.h
+2005-07-17 14:28:30 ....A          400               src_gx_plugin\old_src\gxD3D\src\graphics_processor\gx_cache.h
+2005-07-17 14:28:50 ....A          400               src_gx_plugin\old_src\gxOGL\src\graphics_processor\gx_cache.h
+2005-07-17 14:21:34 ....A          155               src_gx_plugin\gxGCEmuOGL\gx_fifo_interface.h
+2005-07-17 14:28:24 ....A          192               src_gx_plugin\old_src\gxD3D\src\gx_fifo_interface.h
+2005-07-17 14:28:44 ....A          192               src_gx_plugin\old_src\gxOGL\src\gx_fifo_interface.h
+2005-06-02 22:18:14 ....A         3856               src\plugins\gx_plugin.h
+2005-05-09 13:02:14 ....A         1920               src\hardware\hw_io.h
+2004-06-29 16:37:42 ....A         1026               src\info.h
+2005-05-09 12:50:32 ....A         1070               src\ipl_rom.h
+2005-05-09 12:50:42 ....A         1146               src\hardware\memory_card.h
+2005-05-24 12:30:58 ....A         2095               src\hardware\memory_interface.h
+2005-07-17 14:28:44 ....A          144               src_gx_plugin\old_src\gxOGL\src\ogl.h
+2005-07-17 14:21:34 ....A          177               src_gx_plugin\gxGCEmuOGL\ogl_generic.h
+2005-07-17 14:28:46 ....A          109               src_gx_plugin\old_src\gxOGL\src\ogl_shaders.h
+2005-05-09 13:43:10 ....A         1020               src\debug\output.h
+2005-05-24 12:30:58 ....A         1651               src\pad.h
+2004-06-29 16:37:42 ....A          584               src\gcm\pathfunc.h
+2005-07-17 14:28:50 ....A          139               src_gx_plugin\old_src\gxOGL\src\graphics_processor\pbuffer.h
+2005-05-09 13:02:52 ....A         1344               src\hardware\pe_interface.h
+2005-07-17 14:21:36 ....A          368               src_gx_plugin\gxGCEmuOGL\pe_interface.h
+2005-07-17 14:28:26 ....A          362               src_gx_plugin\old_src\gxD3D\src\pe_interface.h
+2005-07-17 14:28:46 ....A          362               src_gx_plugin\old_src\gxOGL\src\pe_interface.h
+2005-05-09 12:52:32 ....A         2054               src\ppc_disasm.h
+2005-05-30 22:35:04 ....A         1674               src\hardware\processor_interface.h
+2005-05-09 12:52:44 ....A         1473               src\profiler.h
+2005-07-17 14:21:36 ....A          456               src_gx_plugin\gxGCEmuOGL\resource.h
+2005-06-09 21:47:52 ....A         1388               src\hardware\serial_interface.h
+2005-05-09 13:03:36 ....A         2876               src\hardware\serial_interface_defines.h
+2005-08-16 18:58:02 ....A        12821               src_gx_plugin\gxGCEmuOGL\StdAfx.h
+2005-07-17 14:28:26 ....A          227               src_gx_plugin\old_src\gxD3D\src\debug\syslog.h
+2005-07-17 14:28:46 ....A          227               src_gx_plugin\old_src\gxOGL\src\debug\syslog.h
+2005-12-10 23:29:40 ....A         1203               src\debug\syslog.h
+2005-07-17 14:21:36 ....A          307               src_gx_plugin\gxGCEmuOGL\texture_cache.h
+2005-07-17 14:28:30 ....A          241               src_gx_plugin\old_src\gxD3D\src\graphics_processor\texture_cache.h
+2005-07-17 14:28:52 ....A          243               src_gx_plugin\old_src\gxOGL\src\graphics_processor\texture_cache.h
+2005-07-17 14:21:38 ....A          634               src_gx_plugin\gxGCEmuOGL\texture_conversion.h
+2005-07-17 14:28:30 ....A          678               src_gx_plugin\old_src\gxD3D\src\graphics_processor\texture_conversion.h
+2005-07-17 14:28:52 ....A          677               src_gx_plugin\old_src\gxOGL\src\graphics_processor\texture_conversion.h
+2005-07-17 14:21:38 ....A         1881               src_gx_plugin\gxGCEmuOGL\texture_environment.h
+2005-07-17 14:28:30 ....A         2284               src_gx_plugin\old_src\gxD3D\src\graphics_processor\texture_environment.h
+2005-07-17 14:28:52 ....A         2280               src_gx_plugin\old_src\gxOGL\src\graphics_processor\texture_environment.h
+2005-05-09 13:43:50 ....A         1273               src\debug\tracers.h
+2005-07-17 14:28:26 ....A          195               src_gx_plugin\old_src\gxD3D\src\debug\tracers.h
+2005-07-17 14:28:46 ....A          283               src_gx_plugin\old_src\gxOGL\src\debug\tracers.h
+2005-06-02 22:41:12 ....A         8085               src\cpu\trx_ppc_cpu.h
+2005-05-09 13:36:26 ....A         1596               src\cpu\trx_ppc_int.h
+2005-05-09 13:38:00 ....A         3940               src\cpu\trx_ppc_int_fpu_ps_opcodes.h
+2005-06-21 00:14:58 ....A         4390               src\cpu\trx_ppc_int_opcodes.h
+2005-05-09 13:21:16 ....A         2692               src\cpu\trx_ppc_rec.h
+2005-05-09 13:29:02 ....A         4802               src\cpu\trx_ppc_rec_fpu_ps_opcodes_sse2.h
+2005-05-31 22:45:20 ....A         3931               src\cpu\trx_ppc_rec_fpu_ps_opcodes_x87.h
+2005-07-14 21:21:04 ....A         4471               src\cpu\trx_ppc_rec_opcodes.h
+2005-05-30 22:05:20 ....A         1338               src\system\types.h
+2005-07-17 14:21:38 ....A         1629               src_gx_plugin\gxGCEmuOGL\types.h
+2005-07-17 14:28:32 ....A          294               src_gx_plugin\old_src\gxD3D\src\system\types.h
+2005-07-17 14:28:56 ....A          294               src_gx_plugin\old_src\gxOGL\src\system\types.h
+2005-12-11 19:31:48 ....A         1049               src\version.h
+2005-07-17 14:21:38 ....A         2492               src_gx_plugin\gxGCEmuOGL\vertex_processor.h
+2005-07-17 14:28:32 ....A         1240               src_gx_plugin\old_src\gxD3D\src\graphics_processor\vertex_processor.h
+2005-07-17 14:28:54 ....A         1023               src_gx_plugin\old_src\gxOGL\src\graphics_processor\vertex_processor.h
+2005-05-24 13:28:32 ....A         1366               src\hardware\video_interface.h
+2005-07-17 14:21:38 ....A         5499               src_gx_plugin\gxGCEmuOGL\video_interface.h
+2005-05-24 12:30:58 ....A         1102               src\w32_display.h
+2005-07-17 14:21:40 ....A        20671               src_gx_plugin\gxGCEmuOGL\wglext.h
+2005-07-17 14:28:54 ....A           44               src_gx_plugin\old_src\gxOGL\src\graphics_processor\wgl_helper.h
+2005-05-09 13:44:16 ....A         1073               src\debug\wnd_debugger.h
+2005-07-17 14:21:40 ....A           50               src_gx_plugin\gxGCEmuOGL\xf_regs.h
+2005-07-17 14:28:32 ....A          144               src_gx_plugin\old_src\gxD3D\src\graphics_processor\xf_regs.h
+2005-07-17 14:28:56 ....A          144               src_gx_plugin\old_src\gxOGL\src\graphics_processor\xf_regs.h
+2005-08-13 13:30:14 ....A         2870               src_gx_plugin\gxGCEmuOGL\cfg.c
+2005-08-13 12:29:00 ....A         2076               src_gx_plugin\gxGCEmuOGL\cp_regs.c
+2005-08-13 13:32:10 ....A        14983               src_gx_plugin\gxGCEmuOGL\fps.c
+2005-08-16 18:58:46 ....A        28523               src_gx_plugin\gxGCEmuOGL\fragment_shader_gen.c
+2005-08-13 12:49:44 ....A         7583               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.c
+2005-08-13 12:39:06 ....A         3852               src_gx_plugin\gxGCEmuOGL\gx_cache.c
+2005-08-15 20:25:22 ....A        41758               src_gx_plugin\gxGCEmuOGL\gx_fifo_interface.c
+2005-08-16 18:58:34 ....A        26985               src_gx_plugin\gxGCEmuOGL\ogl_bp_regs.c
+2005-08-15 21:15:42 ....A        43575               src_gx_plugin\gxGCEmuOGL\ogl_generic.c
+2005-08-15 21:40:42 ....A        75191               src_gx_plugin\gxGCEmuOGL\ogl_vertex_processor.c
+2005-08-13 13:14:08 ....A        31127               src_gx_plugin\gxGCEmuOGL\ogl_xf_regs.c
+2005-08-13 13:14:46 ....A         4893               src_gx_plugin\gxGCEmuOGL\pe_interface.c
+2005-08-13 13:21:34 ....A         5493               src_gx_plugin\gxGCEmuOGL\texture_cache.c
+2005-08-16 18:58:32 ....A        31157               src_gx_plugin\gxGCEmuOGL\texture_conversion.c
+2005-08-13 13:23:58 ....A        14499               src_gx_plugin\gxGCEmuOGL\texture_environment.c
+2005-08-15 19:43:58 ....A         9604               src_gx_plugin\gxGCEmuOGL\video_interface.c
+2005-05-09 13:04:42 ....A        16507               src\cpu\asm_x86.cpp
+2005-05-09 12:54:22 ....A         3393               src\hardware\audio_interface.cpp
+2005-05-15 22:29:36 ....A          748               gdsp_infos\bin2c.cpp
+2005-07-17 14:28:28 ....A        13216               src_gx_plugin\old_src\gxD3D\src\graphics_processor\bp_regs.cpp
+2005-07-17 14:28:48 ....A        13109               src_gx_plugin\old_src\gxOGL\src\graphics_processor\bp_regs.cpp
+2005-07-17 14:28:28 ....A        13476               src_gx_plugin\old_src\gxD3D\src\graphics_processor\bp_regs_old.cpp
+2005-06-09 22:10:14 ....A        11902               src\hardware\command_processor_interface.cpp
+2006-01-21 13:51:38 ....A         7560               src\config.cpp
+2005-07-17 14:28:28 ....A          597               src_gx_plugin\old_src\gxD3D\src\graphics_processor\cp_regs.cpp
+2005-07-17 14:28:48 ....A          623               src_gx_plugin\old_src\gxOGL\src\graphics_processor\cp_regs.cpp
+2002-04-04 17:05:16 ....A         1886               src\debug\crc32.cpp
+2005-07-17 14:28:24 ....A         6705               src_gx_plugin\old_src\gxD3D\src\d3dfun.cpp
+2005-05-09 13:05:12 ....A          346               src\cpu\disasm_x86.cpp
+2005-07-17 14:28:48 ....A         2451               src_gx_plugin\old_src\gxOGL\src\graphics_processor\display_message.cpp
+2005-05-24 12:30:58 ....A         7259               src\cpu\disasm\dis_decode.cpp
+2004-08-19 20:31:20 ....A         7039               src\cpu\disasm\dis_groups.cpp
+2005-05-09 12:34:40 ....A         2884               src\dol_file.cpp
+2005-12-11 19:42:08 ....A        16306               src\hardware\dsp_interface.cpp
+2005-05-24 12:30:58 ....A         6943               src\hardware\dvd_interface.cpp
+2005-05-09 12:35:00 ....A         2911               src\elf_file.cpp
+2005-05-24 12:30:58 ....A        13972               src\elf_loader.cpp
+2005-05-24 12:30:58 ....A        14603               src\hardware\external_interface.cpp
+2004-08-12 14:21:10 ....A        23212               src\font_ansi.cpp
+2005-07-17 14:28:50 ....A        21321               src_gx_plugin\old_src\gxOGL\src\graphics_processor\fragment_shader_gen.cpp
+2004-06-29 16:37:42 ....A         2293               src\gcm\GCMApploader.cpp
+2004-06-29 16:37:42 ....A         5100               src\gcm\GCMDiskHeader.cpp
+2004-06-29 16:37:42 ....A         3351               src\gcm\GCMDiskHeaderInfo.cpp
+2004-06-29 16:37:42 ....A         4106               src\gcm\GCMDol.cpp
+2004-06-29 16:37:42 ....A         9492               src\gcm\GCMextras.cpp
+2004-06-29 16:37:42 ....A         8445               src\gcm\GCMutils.cpp
+2005-05-24 12:30:58 ....A         2459               src\gcm_loader.cpp
+2005-05-24 12:30:58 ....A         3642               src\gcm_wrapper.cpp
+2005-05-09 13:45:24 ....A         7766               src\dsp\gdsp_interface.cpp
+2005-05-24 12:30:58 ....A         4608               src\dsp\gdsp_interpreter.cpp
+2005-05-24 12:30:58 ....A         3047               src\dsp\gdsp_memory.cpp
+2005-05-24 12:30:58 ....A        34414               src\dsp\gdsp_opcodes.cpp
+2005-05-09 13:47:28 ....A         1811               src\dsp\gdsp_registers.cpp
+2005-07-17 14:28:24 ....A         2776               src_gx_plugin\old_src\gxD3D\src\gxD3D.cpp
+2005-07-17 14:28:44 ....A         2768               src_gx_plugin\old_src\gxOGL\src\gxOGL.cpp
+2005-07-17 14:28:28 ....A         1865               src_gx_plugin\old_src\gxD3D\src\graphics_processor\gx_cache.cpp
+2005-07-17 14:28:50 ....A         1865               src_gx_plugin\old_src\gxOGL\src\graphics_processor\gx_cache.cpp
+2005-07-17 14:28:24 ....A        18052               src_gx_plugin\old_src\gxD3D\src\gx_fifo_interface.cpp
+2005-07-17 14:28:44 ....A        38457               src_gx_plugin\old_src\gxOGL\src\gx_fifo_interface.cpp
+2005-06-02 22:41:06 ....A         4315               src\plugins\gx_plugin.cpp
+2005-06-09 21:47:40 ....A        15280               src\hardware\hw_io.cpp
+2005-05-09 12:44:00 ....A         1939               src\ipl_rom.cpp
+2005-05-25 23:19:36 ....A         7480               src\main.cpp
+2005-05-24 12:30:58 ....A         7379               src\hardware\memory_card.cpp
+2005-05-26 00:04:14 ....A         7502               src\hardware\memory_interface.cpp
+2005-07-17 14:28:44 ....A         4603               src_gx_plugin\old_src\gxOGL\src\ogl.cpp
+2005-07-17 14:28:46 ....A         4254               src_gx_plugin\old_src\gxOGL\src\ogl_shaders.cpp
+2005-05-09 13:43:18 ....A         1910               src\debug\output.cpp
+2005-06-12 15:50:26 ....A         8216               src\pad.cpp
+2004-06-29 16:37:42 ....A         2000               src\gcm\pathfunc.cpp
+2005-07-17 14:28:50 ....A         8387               src_gx_plugin\old_src\gxOGL\src\graphics_processor\pbuffer.cpp
+2005-05-24 12:30:58 ....A         3791               src\hardware\pe_interface.cpp
+2005-07-17 14:28:26 ....A         2307               src_gx_plugin\old_src\gxD3D\src\pe_interface.cpp
+2005-07-17 14:28:46 ....A         2307               src_gx_plugin\old_src\gxOGL\src\pe_interface.cpp
+2005-05-09 12:47:04 ....A        44815               src\ppc_disasm.cpp
+2005-12-10 16:37:58 ....A         4787               src\hardware\processor_interface.cpp
+2005-05-09 12:47:48 ....A         1598               src\profiler.cpp
+2003-12-25 04:44:40 ....A         8511               src\cpu\disasm\resolve.cpp
+2005-06-14 00:27:20 ....A         6126               src\hardware\serial_interface.cpp
+2005-05-09 13:41:44 ....A         2258               src\debug\syslog.cpp
+2005-07-17 14:28:26 ....A         1132               src_gx_plugin\old_src\gxD3D\src\debug\syslog.cpp
+2005-07-17 14:28:46 ....A         1265               src_gx_plugin\old_src\gxOGL\src\debug\syslog.cpp
+2005-07-17 14:28:30 ....A         2126               src_gx_plugin\old_src\gxD3D\src\graphics_processor\texture_cache.cpp
+2005-07-17 14:28:52 ....A         1955               src_gx_plugin\old_src\gxOGL\src\graphics_processor\texture_cache.cpp
+2005-07-17 14:28:30 ....A        22683               src_gx_plugin\old_src\gxD3D\src\graphics_processor\texture_conversion.cpp
+2005-07-17 14:28:52 ....A        22463               src_gx_plugin\old_src\gxOGL\src\graphics_processor\texture_conversion.cpp
+2005-07-17 14:28:30 ....A        12820               src_gx_plugin\old_src\gxD3D\src\graphics_processor\texture_environment.cpp
+2005-07-17 14:28:52 ....A        11746               src_gx_plugin\old_src\gxOGL\src\graphics_processor\texture_environment.cpp
+2005-06-02 22:42:02 ....A        27294               src\cpu\trx_ppc_cpu.cpp
+2005-06-21 00:15:22 ....A        15893               src\cpu\trx_ppc_int.cpp
+2005-05-31 22:42:56 ....A        69886               src\cpu\trx_ppc_int_fpu_ps_opcodes.cpp
+2005-06-21 23:33:00 ....A        64428               src\cpu\trx_ppc_int_opcodes.cpp
+2005-07-14 21:46:08 ....A        51777               src\cpu\trx_ppc_rec.cpp
+2005-05-09 13:22:04 ....A        87613               src\cpu\trx_ppc_rec_fpu_ps_opcodes_sse2.cpp
+2005-05-31 23:04:10 ....A        93486               src\cpu\trx_ppc_rec_fpu_ps_opcodes_x87.cpp
+2005-07-14 21:27:20 ....A        88887               src\cpu\trx_ppc_rec_opcodes.cpp
+2005-07-17 14:28:32 ....A        71364               src_gx_plugin\old_src\gxD3D\src\graphics_processor\vertex_processor.cpp
+2005-07-17 14:28:52 ....A        75770               src_gx_plugin\old_src\gxOGL\src\graphics_processor\vertex_processor.cpp
+2005-07-17 14:28:54 ....A          491               src_gx_plugin\old_src\gxOGL\src\graphics_processor\vertex_shader.cpp
+2005-07-17 14:28:54 ....A          778               src_gx_plugin\old_src\gxOGL\src\graphics_processor\vertex_shader_gen.cpp
+2005-05-24 13:26:40 ....A         1746               src\hardware\video_interface.cpp
+2005-05-24 12:30:58 ....A         3260               src\w32_display.cpp
+2005-07-17 14:28:54 ....A          478               src_gx_plugin\old_src\gxOGL\src\graphics_processor\wgl_helper.cpp
+2005-06-14 00:25:18 ....A        23097               src\debug\wnd_debugger.cpp
+2005-07-17 14:28:32 ....A        18251               src_gx_plugin\old_src\gxD3D\src\graphics_processor\xf_regs.cpp
+2005-07-17 14:28:56 ....A        19557               src_gx_plugin\old_src\gxOGL\src\graphics_processor\xf_regs.cpp
+2005-08-13 12:01:06 ....A         3550               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.rc
+2005-07-17 14:28:22 ....A          514               src_gx_plugin\old_src\gxD3D\gxD3D.def
+2005-08-13 12:02:28 ....A          816               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.def
+2005-07-17 14:28:34 ....A          512               src_gx_plugin\old_src\gxOGL\gxOGL.def
+2005-12-11 19:37:02 ....A        14321               GCEmucmd.vcproj
+2005-07-17 14:28:22 ....A         6257               src_gx_plugin\old_src\gxD3D\gxD3D.vcproj
+2005-08-13 12:10:06 ....A        14689               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.vcproj
+2005-07-17 14:28:36 ....A         7555               src_gx_plugin\old_src\gxOGL\gxOGL.vcproj
+2005-03-28 15:38:22 ....A          905               GCEmucmd.sln
+2005-07-17 14:28:22 ....A          899               src_gx_plugin\old_src\gxD3D\gxD3D.sln
+2005-08-13 12:00:26 ....A          909               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.sln
+2005-07-17 14:28:34 ....A          899               src_gx_plugin\old_src\gxOGL\gxOGL.sln
+2005-08-15 22:52:34 ....A         5196               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.dsp
+2005-08-13 12:01:22 ....A          543               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.dsw
+2005-07-17 14:28:22 ....A         1752               src_gx_plugin\old_src\gxD3D\ReadMe.txt
+2005-07-17 14:28:34 ....A         1277               src_gx_plugin\old_src\gxOGL\ReadMe.txt
+2005-12-11 20:18:22 ....A         2020               readme.txt
+2006-01-17 19:41:08 ....A            9               src_gx_plugin\old_src\gxD3D\Release\release.txt
+2006-01-17 19:41:08 ....A            9               src_gx_plugin\old_src\gxOGL\Release\release.txt
+2005-05-15 23:15:00 ....A         9229               gdsp_infos\reverse_new.txt
+2005-03-31 14:34:40 ....A        91696               lib\gdsp_tool.lib
+2005-05-24 13:47:32 ....A       104890               lib\gdsp_toolD.lib
+2005-08-21 19:05:42 ....A       453632               src_gx_plugin\old_src\gxD3D\gxD3D.ncb
+2005-08-16 18:59:00 ....A       156672               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.ncb
+2005-07-17 14:28:34 ....A      1190912               src_gx_plugin\old_src\gxOGL\gxOGL.ncb
+2005-08-16 18:59:00 ....A        54784               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.opt
+2005-08-16 18:57:50 ....A        18008               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.aps
+2005-08-13 12:15:36 ....A          273               plugins\gxGCEmuOGL.cfg
+2005-08-13 12:15:36 ....A          273               src_gx_plugin\gxGCEmuOGL\Release\gxGCEmuOGL.cfg
+2004-09-08 13:13:04 ....A          473               plugins\old\global_fragment_shader.cg
+2004-09-08 13:13:04 ....A          473               src\shaders\global_fragment_shader.cg
+2004-09-08 17:32:00 ....A         5470               plugins\old\global_vertex_shader.cg
+2004-09-08 17:32:00 ....A         5470               src\shaders\global_vertex_shader.cg
+2004-07-28 21:46:00 ....A         6632               gcmload.elf
+2005-03-25 17:07:10 ....A        17025               src\hardware\dsp_interface.cpp.old
+2005-03-24 10:43:42 ....A         1759               src\hardware\dsp_interface_defines.h.old
+2005-08-16 18:58:58 ....A         3594               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.plg
+2005-08-13 12:03:02 ....A          402               src_gx_plugin\gxGCEmuOGL\res\gxGCEmuOGL.rc2
+2006-01-21 13:55:26 ..H.A        21504               GCEmucmd.suo
+2005-08-21 19:05:42 ..H.A        13312               src_gx_plugin\old_src\gxD3D\gxD3D.suo
+2005-08-13 12:10:32 ..H.A         9216               src_gx_plugin\gxGCEmuOGL\gxGCEmuOGL.suo
+2005-07-17 14:28:36 ....A        16896               src_gx_plugin\old_src\gxOGL\gxOGL.suo
+2004-03-28 17:09:00 ....A         6733               fonts\Arial16.yay
+2004-03-28 17:10:08 ....A       143863               fonts\Lucida16.yay
+2006-01-21 13:51:58 ....A       397312       255363  gcemu.exe
+2005-05-13 12:20:04 ....A       376832               plugins\old\gxD3D.dll
+2005-05-24 13:33:24 ....A       143360               plugins\old\gxDefault.dll
+2005-08-16 18:58:56 ....A       167936               plugins\gxGCEmuOGL.dll
+2005-07-17 14:28:52 ....A            0            0  src_gx_plugin\old_src\gxOGL\src\graphics_processor\texture_conversion.h.cpp
+2005-07-17 14:28:54 ....A            0            0  src_gx_plugin\old_src\gxOGL\src\graphics_processor\vertex_shader.h
+2005-07-17 14:28:54 ....A            0            0  src_gx_plugin\old_src\gxOGL\src\graphics_processor\vertex_shader_gen.h
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxOGL\src\system
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxOGL\src\graphics_processor
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxOGL\src\debug
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxOGL\src
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxOGL\Release
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxOGL
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxD3D\src\system
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxD3D\src\graphics_processor
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxD3D\src\debug
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxD3D\src
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxD3D\Release
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src\gxD3D
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\old_src
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\gxGCEmuOGL\res
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\gxGCEmuOGL\Release
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin\gxGCEmuOGL
+2016-11-02 15:15:19 D....            0            0  src_gx_plugin
+2016-11-02 15:15:19 D....            0            0  src\system
+2016-11-02 15:15:19 D....            0            0  src\shaders
+2016-11-02 15:15:19 D....            0            0  src\plugins
+2016-11-02 15:15:19 D....            0            0  src\hardware
+2016-11-02 15:15:19 D....            0            0  src\gcm
+2016-11-02 15:15:19 D....            0            0  src\dsp
+2016-11-02 15:15:19 D....            0            0  src\debug
+2016-11-02 15:15:18 D....            0            0  src\cpu\disasm
+2016-11-02 15:15:19 D....            0            0  src\cpu
+2016-11-02 15:15:19 D....            0            0  src
+2016-11-02 15:15:18 D....            0            0  plugins\old
+2016-11-02 15:15:18 D....            0            0  plugins
+2016-11-02 15:15:18 D....            0            0  lib
+2016-11-02 15:15:18 D....            0            0  inc
+2016-11-02 15:15:19 D....            0            0  gdsp_infos
+2016-11-02 15:15:18 D....            0            0  fonts
+------------------- ----- ------------ ------------  ------------------------
+2016-11-02 15:15:19            7177111      2320633  290 files, 33 folders
