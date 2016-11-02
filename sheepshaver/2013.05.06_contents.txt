@@ -1,0 +1,29 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-06-26 23:02:34 ....A        29184       418656  B2WIN32.dll
+2013-05-06 15:26:44 ....A      1070080               SheepShaver.exe
+2006-05-14 16:25:48 ....A       103424               SheepShaverGUI.exe
+2001-01-20 09:39:14 ....A        15528               Ethernet drivers\NAT-Router FAQ.html
+1999-06-27 01:10:22 ....A         1343               Ethernet drivers\9x\B2ETHER.INF
+2000-07-19 01:36:32 ....A         1343               Ethernet drivers\WinMe\B2ETHER.INF
+2000-03-12 04:21:10 ....A         2726               Ethernet drivers\Win2k\B2Win2k.inf
+1999-06-22 09:45:22 ....A        14906               Ethernet drivers\NT4\OEMSETUP.INF
+1999-06-20 15:48:14 ....A         8032               Ethernet drivers\NT4\b2ether.sys
+1999-12-09 21:42:46 ....A         8686               Ethernet drivers\Win2k\b2ether.sys
+1999-06-10 07:20:00 ....A         6112               CD-ROM drivers\cdenable.sys
+2000-06-04 13:25:10 ....A         8872               Ethernet drivers\Ethernet.win32.txt
+2006-05-14 14:58:40 ....A          963               README.txt
+1999-12-03 20:23:12 ....A        10645               Ethernet drivers\9x\B2ETHER.VXD
+1999-12-03 20:23:12 ....A        10645               Ethernet drivers\WinMe\B2ETHER.VXD
+2005-11-30 03:00:04 ....A         6539               BasiliskII_keycodes
+2005-11-30 02:58:30 ....A        18347               General documents\COPYING
+2006-05-14 16:28:54 ....A         4850               General documents\NEWS
+2006-05-14 16:28:54 D....            0            0  Ethernet drivers
+2006-05-14 16:28:54 D....            0            0  General documents
+2006-05-14 16:28:54 D....            0            0  Ethernet drivers\WinMe
+2006-05-14 16:28:54 D....            0            0  Ethernet drivers\9x
+2006-05-14 16:28:54 D....            0            0  Ethernet drivers\Win2k
+2006-05-14 16:28:54 D....            0            0  CD-ROM drivers
+2006-05-14 16:28:54 D....            0            0  Ethernet drivers\NT4
+------------------- ----- ------------ ------------  ------------------------
+2013-05-06 15:26:44            1322225       418656  18 files, 7 folders

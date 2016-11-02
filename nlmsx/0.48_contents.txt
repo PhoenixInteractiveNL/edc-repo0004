@@ -1,0 +1,64 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-06-12 10:36:20 ....A       298234       728999  nlmsx.chm
+2003-06-12 15:57:22 ....A       462848               nlmsx.exe
+2003-05-18 12:49:38 ....A          258               config\_Default\MSX2\config.ini
+2003-05-18 12:46:40 ....A          300               config\_Default\MSX2 Korean\config.ini
+2003-05-18 12:50:58 ....A          192               config\_Default\MSX\config.ini
+2003-05-18 12:51:10 ....A          305               config\_Default\MSX2 Japanese\config.ini
+2003-05-18 12:52:10 ....A          194               config\_Default\MSX Brazilian\config.ini
+2003-05-18 12:52:58 ....A          378               config\_Default\Turbo-R\config.ini
+2003-05-18 12:52:22 ....A          191               config\_Default\MSX Japanese\config.ini
+2003-05-18 13:00:32 ....A          380               config\_Default\MSX2+\config.ini
+2003-05-18 12:52:34 ....A          235               config\_Default\MSX Korean\config.ini
+2003-06-02 16:24:40 ....A          173               config\Defaults.ini
+1998-05-30 16:44:02 ....A        16384               roms\DISK.ROM
+2000-12-31 18:00:00 ....A        16384               roms\DISKM.ROM
+1998-07-15 04:16:18 ....A        65536               roms\FMPAC.ROM
+2000-12-31 18:00:00 ....A       262144               roms\KANJI.ROM
+1996-04-27 22:03:50 ....A        32768               roms\MSX.ROM
+1996-04-27 22:03:50 ....A        32768               roms\MSX2.ROM
+1996-04-27 22:03:50 ....A        16384               roms\MSX2EXT.ROM
+1999-05-03 12:55:58 ....A        16384               roms\MSX2EXTJ.ROM
+2000-12-31 18:00:00 ....A        32768               roms\MSX2EXTKR.ROM
+2000-12-31 18:00:00 ....A        32768               roms\MSX2HAN.ROM
+1999-05-03 12:55:52 ....A        32768               roms\MSX2J.ROM
+2000-12-31 18:00:00 ....A        32768               roms\MSX2KR.ROM
+2000-12-31 18:00:00 ....A        32768               roms\MSX2P.ROM
+2000-12-31 18:00:00 ....A        16384               roms\MSX2PEXT.ROM
+2000-12-31 18:00:00 ....A        16384               roms\MSX2PMUS.ROM
+2002-06-14 00:43:36 ....A        32768               roms\MSXBR.ROM
+2000-12-31 18:00:00 ....A        65536               roms\MSXDOS23.ROM
+2000-12-31 18:00:00 ....A         8192               roms\MSXHAN.ROM
+2000-12-31 18:00:00 ....A        32768               roms\MSXJ.ROM
+2000-12-31 18:00:00 ....A        32768               roms\MSXKANJI.ROM
+2000-12-31 18:00:00 ....A        32768               roms\MSXKR.ROM
+1996-08-03 06:14:26 ....A        32768               roms\MSXTR.ROM
+1996-08-03 06:14:32 ....A        16384               roms\MSXTREXT.ROM
+1996-08-03 06:12:52 ....A        16384               roms\MSXTRMUS.ROM
+2001-10-21 14:58:28 ....A        16384               roms\MSXTROPT.ROM
+1996-02-19 22:11:06 ....A        16384               roms\XBASIC2.ROM
+2003-06-01 09:41:18 ....A        60443               db\db.txt
+2016-11-02 01:25:50 ....A            0            0  log\MSXSound.txt
+2016-11-02 01:25:50 ....A            0            0  log\MSXIO.txt
+2016-11-02 01:25:50 ....A            0            0  log\Z80Debug.txt
+2016-11-02 01:25:50 ....A            0            0  log\VDPStats.txt
+2016-11-02 01:25:50 ....A            0            0  log\VDPDebug.txt
+2016-11-02 01:25:50 D....            0            0  sram
+2016-11-02 01:25:50 D....            0            0  config
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX2
+2016-11-02 01:25:50 D....            0            0  roms
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX Korean
+2016-11-02 01:25:50 D....            0            0  db
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX Japanese
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX2+
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX Brazilian
+2016-11-02 01:25:50 D....            0            0  config\_Default\Turbo-R
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX2 Korean
+2016-11-02 01:25:50 D....            0            0  log
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX
+2016-11-02 01:25:50 D....            0            0  config\_Default
+2016-11-02 01:25:50 D....            0            0  screenshots
+2016-11-02 01:25:50 D....            0            0  config\_Default\MSX2 Japanese
+------------------- ----- ------------ ------------  ------------------------
+2016-11-02 01:25:50            1782595       728999  44 files, 16 folders

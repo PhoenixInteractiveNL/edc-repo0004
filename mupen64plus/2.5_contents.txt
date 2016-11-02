@@ -1,0 +1,53 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-04-12 06:23:12 ....A       522240      1500221  freetype6.dll
+2015-04-12 06:23:12 ....A       260096               libpng12.dll
+2015-04-12 06:23:12 ....A       260096               libpng3.dll
+2015-04-26 08:14:02 ....A        16896               mupen64plus-audio-sdl.dll
+2015-04-26 08:14:02 ....A        28160               mupen64plus-input-sdl.dll
+2015-04-26 08:14:02 ....A        60928               mupen64plus-rsp-hle.dll
+2015-04-26 08:14:24 ....A      1202688               mupen64plus-video-glide64mk2.dll
+2015-04-26 08:14:18 ....A       413696               mupen64plus-video-rice.dll
+2015-04-26 08:14:18 ....A       350720               mupen64plus.dll
+2015-04-12 06:23:12 ....A       324096               SDL.dll
+2015-04-12 06:23:12 ....A        75264               zlib1.dll
+2015-04-26 08:14:02 ....A        39936               mupen64plus-ui-console.exe
+2015-04-26 08:28:10 ....A         3754               api\m64p_common.h
+2015-04-26 08:28:10 ....A        10844               api\m64p_config.h
+2015-04-26 08:28:10 ....A         8251               api\m64p_debugger.h
+2015-04-26 08:28:10 ....A         5768               api\m64p_frontend.h
+2015-04-26 08:28:10 ....A         9996               api\m64p_plugin.h
+2015-04-26 08:28:10 ....A        11377               api\m64p_types.h
+2015-04-26 08:28:10 ....A         5856               api\m64p_vidext.h
+2015-04-12 06:16:08 ....A        17434               Glide64mk2.ini
+2015-04-26 05:44:22 ....A        32383               InputAutoCfg.ini
+2015-04-12 06:15:40 ....A       412033               mupen64plus.ini
+2015-04-12 06:15:56 ....A        22892               RiceVideoLinux.ini
+2015-04-12 06:15:40 ....A        65932               font.ttf
+2015-04-12 06:15:40 ....A      1272116               mupencheat.txt
+2015-04-12 06:15:40 ....A      1048576               m64p_test_rom.v64
+2015-04-26 08:28:14 ....A         2495               doc\font-license
+2015-04-26 08:28:14 ....A        18326               doc\gpl-license
+2015-04-26 08:28:14 ....A        26942               doc\lgpl-license
+2015-04-26 08:28:14 ....A        19715               doc\LICENSES-mupen64plus-audio-sdl
+2015-04-26 08:28:14 ....A         2219               doc\LICENSES-mupen64plus-core
+2015-04-26 08:28:14 ....A        19795               doc\LICENSES-mupen64plus-input-sdl
+2015-04-26 08:28:14 ....A        19730               doc\LICENSES-mupen64plus-rsp-hle
+2015-04-26 08:28:14 ....A        19517               doc\LICENSES-mupen64plus-ui-console
+2015-04-26 08:28:14 ....A        19562               doc\LICENSES-mupen64plus-video-glide64mk2
+2015-04-26 08:28:14 ....A        19809               doc\LICENSES-mupen64plus-video-rice
+2015-04-26 08:28:14 ....A         6531               doc\README-mupen64plus-core
+2015-04-26 08:28:14 ....A         8719               doc\README-mupen64plus-input-sdl
+2015-04-26 08:28:14 ....A         4230               doc\README-mupen64plus-ui-console
+2015-04-26 08:28:14 ....A         3697               doc\README-mupen64plus-video-rice
+2015-04-26 08:28:14 ....A         4972               doc\RELEASE-mupen64plus-audio-sdl
+2015-04-26 08:28:14 ....A        34789               doc\RELEASE-mupen64plus-core
+2015-04-26 08:28:14 ....A         7694               doc\RELEASE-mupen64plus-input-sdl
+2015-04-26 08:28:14 ....A         2558               doc\RELEASE-mupen64plus-rsp-hle
+2015-04-26 08:28:14 ....A         2452               doc\RELEASE-mupen64plus-ui-console
+2015-04-26 08:28:14 ....A         1759               doc\RELEASE-mupen64plus-video-glide64mk2
+2015-04-26 08:28:14 ....A         5621               doc\RELEASE-mupen64plus-video-rice
+2015-04-26 08:28:14 D....            0            0  doc
+2015-04-26 08:28:14 D....            0            0  api
+------------------- ----- ------------ ------------  ------------------------
+2015-04-26 08:28:14            6733160      1500221  47 files, 2 folders
