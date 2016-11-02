@@ -1,0 +1,19 @@
+This is my first release over the UltraHle leaked source code.
+
+What´s new:
+- Fixed 'romnames with spaces' bug. (Folders supported too).
+- Eliminated very much redundant code (more speed).
+- Some GUI corrections.
+- Better support for WinXP Voodoo Drivers.
+- Fixed some sound routines (more speed).
+
+Future plans:
+- More compatibility (of course).
+- Add all SupraHle modifications and more (always is possible...).
+- Zip support.
+- Language support.
+- Plug-in support (Advanced Options), not only plugins under the zilmar specs. I think to release better Audio and  Graphics plugins (with D3D and/or OpenGL support) under the own 'UltraHle specs'.
+- Skins support :).
+- and more...
+
+L@G 2002.
