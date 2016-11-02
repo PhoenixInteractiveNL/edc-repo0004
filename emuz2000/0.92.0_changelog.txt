@@ -1,0 +1,36 @@
+Changes - 8th March 2012
+------------------------
+
+* Version 0.92.0
+
+* State save file has become Ver.0.2
+- Peripheral I / O initialization processing correspondence
+
+* 8253/8255 / reproduce the time of uninitialized of Z80PIO
+- Also I / O initialization before immediately after the reset behaves like a real machine
+
+* Be able to import the state file "emuz" of the old EmuZ-2000 Became. However, timer and key interrupt is not supported. (Timer is there is no data on the emuz)
+
+* DSK format corresponding overseas made MZ-80B emulator
+
+* Improved disk processing 0 track - become> 0 track of restore at once busy
+
+* Data created for the linear interpolation at the time of writing to the tape configuration dialog
+
+Added an option to
+- Write Then in MASK Monitor such as the time of dB-BASIC / IBASIC ON,
+
+It can be read on the MASK Monitor
+- It might be read in the actual equipment of the tape at the time OFF
+
+* Review of the volatile. Strictly we need many in, but ineffective optimization
+Add only review is likely to be a problem place since
+
+* Load the WAV file when you change the device settings dialog 
+It had been correct manner, but sound fail when the path is changed
+Fixed it was so as not to leave
+
+* Contains garbage WAV data becomes 2ch to sound was 1ch
+Delete the other because it was
+
+*** Translated from Japanese using Google Translate ***

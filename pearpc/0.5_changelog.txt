@@ -1,0 +1,16 @@
+Changes - 12th July 2011
+------------------------
+
+version 0.5:
+
+	- slightly better code for lmw/stmw opcodes
+
+	- use "GNU as" instead of nasm
+
+	- use -mdynamic-no-pic on *darwin
+
+	- fixed some strict-aliasing problems
+
+	- JITC: AMD64 support
+
+	- compiles with gcc 4.3, 4.4, 4.5

@@ -1,0 +1,1549 @@
+Changes - 15th March 2013
+-------------------------
+
+Update for version 0.2.2
+
+commit be14b57735f84291c57f55366d65cb854bc61dae
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-03-15 12:56:42 +0100
+
+    configure: Regenerate configure with autoconf 2.69
+
+commit cb9ef43ff7ba4448d1f92cf5c5d922960816e939
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-03-15 12:55:50 +0100
+
+    Update autoconf helper scripts
+
+commit 676267ca02a570b7b243710a266ac15d8d69d7ea
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-02-18 17:38:37 +0100
+
+    hgc: Fix scrolling in HGC graphic mode
+
+commit d0220e9c8d6feac14e482de2f035abbd6047336a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-02-05 19:39:55 +0100
+
+    xt-hdc: Clear the data direction bit after reading the command result
+
+commit 404a13feec992801be8975d3b7b5ce7328dcdeeb
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-02-03 11:47:58 +0100
+
+    ega: Fix line compare
+
+commit abb47c0d89787096c208f72c95dcc086c2f40971
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-02-03 11:47:25 +0100
+
+    Rename src/utils/pceimg/ to src/utils/pce-img/
+
+commit c9a52e7db20bac2ad90e121e32687d096beb651d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-02-03 05:52:08 +0100
+
+    qed: Report unknown features
+
+commit 28748dd93e00724d83fa2fd1003436a9840fdf3b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-02-03 05:51:26 +0100
+
+    pfdc: Fix loading alternate sectors from pfdc version 4 files
+
+commit 3a9b34117f5e0cdddac7163fd5b354486f711cec
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-30 22:08:41 +0100
+
+    video: Add message "term.escape" to set the escape key at runtime
+
+commit d4b47185ddc32351dabcc411294e0848e87eb1dd
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-30 22:08:09 +0100
+
+    8272-fdc: Don't abort the read track command after a ID CRC error
+
+commit e679ff0626f05925bf5f8d33bd8ce86739a69012
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-11 16:34:32 +0100
+
+    lib: Move the 'h' command to the monitor
+
+commit 831e622c7acc465df787183499a2cdd1d935c9e6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-11 14:24:28 +0100
+
+    monitor: Add the 'save' command instead of the 'w' command
+    
+    The save command saves emulated memory to ihex, srec or
+    binary files.
+
+commit ae9ca37367f88e98a1ef9d2094f446d1c37e5700
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-11 14:24:00 +0100
+
+    monitor: Add the 'load' command
+    
+    The load command loads ihex, srec or binary files into the
+    emulated memory.
+
+commit 459dd0a1f0adeb6ab64c90a63b8d1cb7e58b6825
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-11 14:21:23 +0100
+
+    simarm: Refactor include files
+
+commit 01c6c8aa08a3974c039ea94ba6efe559dc174014
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-10 11:42:10 +0100
+
+    lib: Automatically detect the file type for files loaded into memory
+
+commit 1b0fc7a8bb23e7b1808e68011ea7ee28392c4dce
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-10 11:41:42 +0100
+
+    lib: Support saving segmented IHEX files
+
+commit 1ebaee4e9e1cff8d10076d9cd5671f341d8421d7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-10 11:40:54 +0100
+
+    lib: Fix an endless loop when saving SREC files
+
+commit 4b81710be4d1c1752d1c3319aaabdbd6d87e4ebf
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-10 11:40:28 +0100
+
+    Fix documentation for the mouse character driver
+
+commit 9cf39d408d52e64c9acd62e096501d1cad21e2d7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-06 02:46:21 +0100
+
+    video: Fix MDA memory addressing and cursor display
+    
+    Although the MDA's memory is only 4096 bytes, memory accesses beyond
+    that need to wrap around.
+    
+    This patch also fixes a long standing bug that prevented the cursor
+    from being displayed correctly if the displayed part of memory wrapped
+    around from 4095 to 0.
+
+commit 939e1a0303946e35331c0d6104647967e5b1da4b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-06 02:45:50 +0100
+
+    char: Support Mouse Systems serial mice
+
+commit f51bdd2c6a44d13be6f4ca1270dc0c41e7c8ea4f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-03 13:17:46 +0100
+
+    brkpt: Unify address breakpoints
+
+commit d70a8f765c7842cb3d02632d516d2a6df5313d15
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-03 13:17:13 +0100
+
+    e8086: Disable interrupts after SS is loaded
+
+commit bea9c8f8ac3ba2980d612319c94b78ce48b72903
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2013-01-03 13:16:44 +0100
+
+    e8086: Add a prefetch delay after jump instructions
+
+commit 2affd58b9b66708099f6ee78183efa084c6455f6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-22 12:10:05 +0100
+
+    e8259: Clear the interrupt mask register during initialization
+
+commit 43167998ee72d7a989862c720aecdc6b157118a5
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-22 12:09:38 +0100
+
+    sysdep: Trun off XON/XOFF flow control for raw streams
+
+commit 8b19403ff7dca4901783d25828b0927b6f12b0d5
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-08 20:35:55 +0100
+
+    sysdep: Don't generate signals when a file descriptor is non-interactive
+
+commit b961fbd4e21cc47faf2eb42d557119167a743642
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-08 20:34:49 +0100
+
+    pfdc: Support creating new CP/M images
+    
+    Creating new CP/M images is really the same as creating DOS
+    images, except that the new images are initialized with E5
+    instead of F6.
+
+commit ddccbc50f18e98ee243b4d5dc6cf6f81e4762fce
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-08 20:34:09 +0100
+
+    pfdc: Fix encoding of 8 inch SSSD disks
+
+commit 963c763106096777b2c35f806c9b8fd84b13154f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-08 20:33:05 +0100
+
+    pfdc: Probe raw images and use them if they match a known image size
+
+commit 71c5ee9776bdabb17ce24e84fbc30a74ee2414bb
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-08 20:32:37 +0100
+
+    pfdc: Allow round sizes when guessing the disk geometry from the disk size
+
+commit d91084b03396d35c7ed6621a6b257ec9f847ef14
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-12-08 20:32:09 +0100
+
+    pfdc: Add new image type pfdc-auto to force pfdc but autodetect the specific format
+
+commit 5d88113d16b3bdf5a2efd58c1de3755bef2af2c2
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-11-27 19:33:18 +0100
+
+    char-tcp: Control line support
+    
+    Based on a patch by Julien Oster
+
+commit 73080edf056870f84350b2a15a0b6ef42968e754
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-11-27 19:32:45 +0100
+
+    char-tcp: Telnet support
+    
+    Introduces support for negotiating telnet options, primarily to switch
+    the telnet client into character mode.
+    
+    Based on a patch by Julien Oster
+
+commit 6cc9dc1438c73890107b45e7e787058e946398eb
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-11-26 15:21:44 +0100
+
+    pfdc: Don't abort reading CP2 images if a sector is too big
+
+commit d370cb4229018b08531da1e346f510d317811717
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-11-25 10:32:13 +0100
+
+    pfdc: Improve automatic geometry detection
+    
+    In addition to the number of cylinders, heads and sectors, the
+    sector size and encoding are now also detected. This is used
+    to automatically detect IBM 3740 and RC759 Piccoline disks.
+
+commit a73a4514ea62433ea07e9ff97f88098a70dbed8f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-11-25 10:31:31 +0100
+
+    macplus: Map the right Alt key to the Enter key on the Mac Plus keyboard
+
+commit fc7457e57471f54df977c154822def53400f2f8d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-11-22 14:31:07 +0100
+
+    char-pty: Don't fail if the PTY can't be set to non-blocking
+
+commit e9c775ba65ce63bf3cdc8b41c49ef5b8dca0eb7e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-10-14 06:42:09 +0200
+
+    macplus: Support Macintosh Classic screen brightness
+
+commit 5188bde0187a3ad071cc1bb022d0a43a9f232594
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-10-14 06:41:33 +0200
+
+    macplus: Make the Macintosh Classic a separate model from the Macintosh SE
+
+commit b061bbb23fa386cc153f7b0474477a1a4198f5b6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-10-14 06:41:00 +0200
+
+    macplus: Work around a bug in handling of simultaneous ADB requests
+    
+    The current ADB emulation does not handle two ADB devices
+    requesting service at the same time correctly. This patch
+    doesn't actually fix the problem, but it lessens the impact
+    when a key is pressed while the mouse is being moved.
+
+commit 8f2d0a51631767c4df677ad2a6467a9c9edb7b7e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-10-14 06:40:20 +0200
+
+    macplus: Add new message emu.iwm.status
+
+commit 361b7ac8601f886689b08a676eb82a213790233d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-10-14 06:39:51 +0200
+
+    macplus: Make drive numbers 1 based in messages emu.iwm.ro and emu.iwm.rw
+
+commit 92b57a0317d73500354b19986a331fd873a04392
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-04 23:12:39 +0200
+
+    macplus: Add IWM floppy disk support
+
+commit 45f527dbf6d58099b9d0560d988a6b34b35db716
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-04 23:11:53 +0200
+
+    macplus: Support more than one speed limit
+    
+    The emulation speed can now be limited by more than one source
+    independently. The lowest speed limit set is used at all times.
+
+commit cf5d03c351fe80df46b013169e50418375f8d7c0
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-04 23:11:26 +0200
+
+    mac: Support setting a start date for the real time clock
+
+commit b16f8d6969fa44c8b6f59679587236f6ba43c83e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-04 23:06:37 +0200
+
+    lib: Rename global variables log and log_cnt to avoid name collisions
+
+commit 8161736f5efbad626e53d9b208dd4fdd530b86c4
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-03 04:54:02 +0200
+
+    rc759: Add support for the RC759 Piccoline
+
+commit 62fa7af59e835dd1cf4eac0ad4a4c8d277200a8c
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-03 04:42:43 +0200
+
+    wd179x: Add WD179X FDC emulation support
+
+commit 5cf6e8e422b7c89f133bb7c35eb2189a3040e940
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-03 03:35:37 +0200
+
+    pbit: Add the pbit command line utility
+
+commit 9480b6c3d8f313ffb6bff0fb7361408d03496a78
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-03 03:34:27 +0200
+
+    pbit: Add pbit file format support
+
+commit 7bbfa5f57cead23cde2338ddcc2e7510008275ee
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-02 18:18:36 +0200
+
+    chipset: Add support for the 80186 timer / counter
+
+commit d7c59fd7d73856f532bdfe15ef796c46a7e6c387
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-02 18:17:49 +0200
+
+    chipset: Add support for the 80186 interrupt controller
+
+commit ab864aa34c8bce6534acf93ece907898e54183d0
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-09-02 18:17:10 +0200
+
+    chipset: Add support for the 80186 DMA controller
+
+commit 24755ce4fee8719ef428682c5268b756e3110032
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-08-31 02:15:01 +0200
+
+    video/x11: Support user defined key maps
+
+commit 8bad3e7df9d8d243908219abff408b44e661898e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-08-31 02:14:30 +0200
+
+    video/sdl: Support user defined key maps
+
+commit 20231526d18e4670bf3628603a4e7152d3db284f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-08-31 02:14:00 +0200
+
+    video: Add function pce_key_get_map() to support terminal key maps
+
+commit 3c2d8a6485f14879676e8aa20e538caa7bfe90e8
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-08-31 02:13:26 +0200
+
+    video/x11: Ignore the PrtScn key up event
+
+commit a9ae9fe95928ca591b9515cfc658a1460d72cbae
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-08-31 02:13:02 +0200
+
+    video/sdl: Ignore the PrtScn key up event
+
+commit 7c3d979d851be1062fd626a207e2994c025a97e6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-08-31 02:12:39 +0200
+
+    video: Add 16 extra generic key symbols
+
+commit 986719cebbbcdbb924959eccd12411184a73feec
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-07-15 19:32:00 +0200
+
+    e8259: Don't clear the IRQ input and IRR during initialization
+
+commit 3dabf80c7c668198246017d21c81020cf3081a0b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-07-15 19:31:38 +0200
+
+    terminal: Don't recognize the Pause key together with Alt or Ctrl
+
+commit c9f474c36a6b1fe3aa58e825724749f773ec9230
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-07-15 19:31:08 +0200
+
+    sdl: Fix a typo
+
+commit 58a1d92b5b907ff92cd6fca905baa346e8f1ffe1
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-26 21:05:29 +0200
+
+    e8086: Remember prefixes for repeated string operations
+    
+    Instead of setting IP to the first prefix of a repeated
+    string operation, set IP to the string operation itself
+    and remember all prefixes. This way repeated string
+    operations can run completele within the prefetch queue.
+
+commit c9e104fdd61babbf478eb67106bd047bb22525f2
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-26 21:04:59 +0200
+
+    term: Scale up horizontally even when exceeding the aspect ratio slightly
+
+commit cac23a37af327ca5224dd73429f555d7dc1e141a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-26 21:04:34 +0200
+
+    video: Fix CGA vertical timing
+
+commit 175f724978489d30839e8502e46da9d2e0eaeef9
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-25 19:35:39 +0200
+
+    e8086: Execute repeated string operations as multiple operations
+
+commit 30d8ada17d9490a7ddf68841743a63f54cd51243
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-25 19:35:16 +0200
+
+    e8086: Simplify calculation of the EA delay
+
+commit e8bb967edb4f7f54e69dff3247385480cc97b0a4
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-25 19:34:51 +0200
+
+    e8259: Fix a typo that prevented the ISR from blocking interrupts
+
+commit acf1113c46841b68cdee374b2a207073f36e3cd1
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-25 19:34:12 +0200
+
+    ibmpc: Set the minimum sleep time to 25 ms for both Linux and Windows
+
+commit 04feb055999b1cee19d5733b843262251fe69cab
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-24 18:02:46 +0200
+
+    pfdc: Automatically guess the encoding for raw and xdf images
+
+commit 70fc829aa3ab52899f1897550d4c342e81ae26a7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-24 17:45:56 +0200
+
+    block: Try to set the PIMG file size using ftruncate() before write()
+
+commit 4dc85f311d7a7bad8a1332e1e1e0dd5e0833ae99
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-24 17:45:25 +0200
+
+    ibmpc, fdc: Add a config file option to ignore the EOT value
+    
+    If the EOT value is ignored, floppy disks with more than
+    8 or 9 sectors per track can be used, even with older
+    BIOSes.
+
+commit 7f810c5aeb76d975a8fbd51bd7090374495c9bb3
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-24 17:44:36 +0200
+
+    pfdc: Add support for 1840K XDF images
+
+commit d5203137e767d9ffc6689a6945c34adaec2a1c3f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-24 17:35:41 +0200
+
+    pfdc: Recognize more raw image sizes
+
+commit 75a77dfff428eae97f75fcd46b8800762c1ef264
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-24 17:35:20 +0200
+
+    pfdc: Add function pfdc_write_ofs()
+
+commit ba5041c5cc57df3ea1aaa3245cc3255aa42cc4ee
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-15 01:53:24 +0200
+
+    memory: Support moving memory blocks to the front of the list
+
+commit 6c526ab6fcd00440aa3ae3cd9a179e65a393b137
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-15 01:48:38 +0200
+
+    ibmpc: Support reading and writing all 4 DMA page registers
+
+commit 32ad820196183217ed6f6ab751f4eeb07f1577d4
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-15 01:48:13 +0200
+
+    macplus: Report the emulated CPU status after a segmentation fault
+
+commit f77f3da29e62afd77af2ac0b0c8f82fadd1e2429
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-15 01:47:46 +0200
+
+    tun: Support opening a TAP device
+
+commit 0c4ffbfbaeb05749ff3036d4a9e87f1aef5ae0ef
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-06-15 01:47:18 +0200
+
+    block: Open images read-only if the image file is read-only
+
+commit 65b395b97644e46e78c2845fcbe3b5723f7338e2
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-04-04 15:35:13 +0200
+
+    block: Guess the disk geometry from SUN disk labels
+
+commit 997d09bf1f67790282ae0e21d02c8a8bcc09dd45
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-04-04 15:34:47 +0200
+
+    Use a local stdint.h if it is not provided by the system
+
+commit 8b97af0836cf8adb89ab9e6a775b630cba359956
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-04-03 12:50:36 +0200
+
+    terminal: Try to maintain the aspect ratio
+
+commit 3adbb00aa8a8459ce03d9f18f4436339b7553438
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-04-03 12:49:56 +0200
+
+    fdc: Support non-standard MFM sector size fields
+
+commit 007efd4bb0641fcfce8db0049dd72ac80e53f3ea
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-04-03 12:49:30 +0200
+
+    pfdc: Support non-standard MFM sector size fields
+
+commit b775a2db051e95a3dbc1d84b13056246ace80d44
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-03-28 05:06:24 +0200
+
+    terminal: Optimize scaling for a few common factors
+
+commit 06984218d34ea574307c703775bd601e360d1abe
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-03-07 02:34:34 +0100
+
+    hgc: Fix attribute to color mapping
+
+commit 853e7f0d34095bac2cde7573c14bf408ee39dcb6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-03-07 02:34:06 +0100
+
+    mda: Fix attribute to color mapping
+
+commit e3ffbb1e8a4d5714895eba30be23684a34700c8a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-03-07 02:33:29 +0100
+
+    ibmpc: Add monitor command 's ports'
+
+commit f0b22ab692a105134e2b9b8afa02a85436bd432b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 19:37:49 +0100
+
+    pfdc: Update the man page
+
+commit c69f8127b65a3a11f1533b836f498b8b2754a012
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 19:37:25 +0100
+
+    pfdc: Split the help text into multiple strings
+
+commit 3e76c1d46d5ede83be5a82b65f317273147edb24
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 19:36:58 +0100
+
+    pfdc: Add operations "sort" and "sort-reverse"
+
+commit 9026b84e0e084c63db22ae8963347db376c03b0b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 19:36:34 +0100
+
+    pfdc: Add operations "tags-load" and "tags-save"
+
+commit 2f0c85d8e8df6e9dd1a0cf452cffdf8462973c87
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 19:36:08 +0100
+
+    pfdc: Add sector attribute "tags"
+
+commit ed4a84f4e617e1ac788f364cb5abc52c58755505
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 18:22:15 +0100
+
+    pce-img: Support pfdc as an output format
+
+commit ec85de4fdafbeb64d2d8b9e118033edf14d61d61
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 18:21:51 +0100
+
+    block/pfdc: Support creating pfdc images
+
+commit 62db7bbeae982f33ca3e4dff6df11ba989abd5a0
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 18:21:22 +0100
+
+    block/pfdc: Use the generic pfdc load/save functions
+
+commit 4b1f4507098b2d9d608df5d33c2592b593f5ef4e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 18:20:51 +0100
+
+    pfdc/dc42: Fix loading and saving images when the sectors are not in order
+
+commit ee87209ea461e9de1c2cae61793e84f25c8d9079
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 16:03:40 +0100
+
+    pfdc: Move the generic load/save functions from src/utils/pfdc to src/drivers/pfdc
+
+commit d79a25a276d7db185b44ed96b517b40708763bb5
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 16:02:48 +0100
+
+    xt-hdc: Support Adaptec specific set mode / mode sense commands
+
+commit c9b195ac5dd3754c9e027bc265771534eceeea56
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 16:02:20 +0100
+
+    xt-hdc: Don't abort read and write commands on DMA terminal count
+
+commit bfadf27ad7ef2bd63635f4e5e61f15299da1f658
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-13 16:01:48 +0100
+
+    pfdc: Update the man page and help text
+
+commit 991379c9b1591d497da3e3fd17954f53669c9b63
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-12 11:46:56 +0100
+
+    xt-hdc: Make the number of sectors per track a config file option
+
+commit 302bbf9de4d61deb103c458571e068f49337290e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-12 11:46:27 +0100
+
+    xt-hdc: Don't delay after writing the last sector
+
+commit a3ac46c681bee8e6615c5aee6dcb28fcd8cab85c
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 16:58:42 +0100
+
+    pfdc: Add support for pfdc version 4
+
+commit 1115fa96f1ae63b224e9a5256c5b3d624b39418d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 16:57:57 +0100
+
+    pfdc: Fix cleaning up of comments, again
+
+commit a3260e05e688fd8122ecc9c6449c7dc5b5e270f0
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 16:57:24 +0100
+
+    pfdc/cp2: Don't abort on bad sector sizes
+
+commit 39c9899ebdba9de353c1b8a9ac221e34e87c6cf1
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 16:56:54 +0100
+
+    8259-pic: Cancel interrupt requests if the IRQ input goes low
+
+commit 3ecbd37d0dae5e22d3a182285e2f356d893cf898
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 07:53:33 +0100
+
+    8086: Only trigger the REP bug for repeat counts greater than 512
+    
+    This is a hack. The assumption is that for repeat counts smaller than
+    512, the program is probably not trying to trigger the REP bug
+    intentionally.
+
+commit 6a613945dbf646146710c59f77f4991bc3f4ddd7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 07:53:06 +0100
+
+    xt-hdc: Force command input mode when select is written
+
+commit b629ff9724a7b76eb805b2e4256bf7e022e6bda0
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 07:52:36 +0100
+
+    xt-hdc: Don't delay after reading the last sector
+
+commit e02704610b570601adb097f7daa150f5619227d4
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 07:52:01 +0100
+
+    8272-fdc: Fix result phase of sense interrupt status command when there was no interrupt
+
+commit d631362c7cfdd2e1f9bce76f4d5f6ffa5bc4d4f6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 07:51:32 +0100
+
+    8272-fdc: Fix wrong return types
+
+commit 8655bd9b10b2fef35963e737a963209804e3772a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-10 07:50:59 +0100
+
+    8253-pic: Load the counting element even when the counter is not running
+
+commit ec4d84678e8f19539b427227e92e7147ed3ee8ba
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-03 06:09:10 +0100
+
+    pfdc: Don't artificially limit ImageDisk images to 64 sectors per track
+
+commit 32f65c2fd46fb9bbed1c176f0d46f638fcb5ef80
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-03 06:08:41 +0100
+
+    pfdc: Preserve the ImageDisk time stamp as a comment
+
+commit 79637eb1b979b5fa31c004047f4b8eb1a5ffb72f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-03 06:08:15 +0100
+
+    pfdc2: Clean up the cleaning up of image comments
+
+commit e1c28660d4249e391d4d66aa5c13a6ffef9e8441
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-03 06:07:22 +0100
+
+    pfdc: Add function pfdc_img_get_comment()
+
+commit 90874f1f3779220f51085cda32ef9b3dd77f4512
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:52:18 +0100
+
+    macplus: Remove duplicate files from 'make dist'
+
+commit 3db8cb382e6b57e2522a65c9bf1b94576d1cca8b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:51:50 +0100
+
+    blkfdc: Save the pfdc file using the default version
+
+commit 276bde3270082bbdf2a1129d2ccb1814e432cf22
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:51:16 +0100
+
+    pfdc: Factor out pfdc version 2 support to a new source file
+
+commit 2a1a8dc88ea6c29b4cab28357c27495fb2ee18bc
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:50:39 +0100
+
+    pfdc: Factor out pfdc version 1 support to a new source file
+
+commit 35cc06ff0cc2d2cfa8ebb4cb7fcca3bf41d4eb07
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:50:01 +0100
+
+    pfdc: Factor out pfdc version 0 support to a new source file
+
+commit a2819e6bdf22febedea9489dc0adfd22f35b27a7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:49:18 +0100
+
+    pfdc: Factor out I/O functions to a new source file
+
+commit c75f9de251849a3382a0a9a7c9e764c6fed284aa
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:48:41 +0100
+
+    pfdc: Store the GCR sector format in the sector struct
+
+commit f195a3dc594e744ea5ab6390cbc67ca32bf0da77
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:47:48 +0100
+
+    pfdc: Store the real MFM sector size in the sector struct
+    
+    The sector size as recorded in the FM/MFM ID can have illegal
+    values. Because the sector size in a pfdc_sct_t struct is in
+    bytes, the real value needs to be stored separately.
+
+commit c84d20fa4e711353fbb9b3b107818b94c72fce55
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:47:16 +0100
+
+    pfdc: Change the definition of sector encoding and data rate
+    
+    Instead of storing the encoding and data rate separately, the
+    encoding now includes the data rate. Being able to store
+    arbitrary data rates was never really useful.
+
+commit eabcac50ac1dc4857a0e17cc950ed2d0edbde9fd
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-02-02 03:46:41 +0100
+
+    pfdc: Add function pfdc_img_add_track()
+
+commit 3265b17d520a6d56b8a7c28b8fad4681770a1f3c
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-30 22:40:27 +0100
+
+    pce-img: Add a rudimentary man page
+
+commit c945a7c3679659b8658719f30993ef7ba15aa7f8
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-30 22:18:40 +0100
+
+    ibmpc: Add experimental support for the Olivetti M24
+
+commit 281dc70337a3719ffe702b0622e6fb770a31559a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-30 22:17:59 +0100
+
+    video: Add experimental support for Olivetti M24 graphics
+
+commit 646bf55863f68aac836b08387374663a2b4e4692
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-25 15:36:29 +0100
+
+    pfdc: Move all pfdc code from src/drivers/block/ to src/drivers/pfdc/
+
+commit ee320895e7c700e388f00b23ac2d7d6a8a031a51
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-23 17:14:39 +0100
+
+    pfdc: Automatically interleave Disk Copy 4.2 images 2:1
+
+commit e96dd2d404bc5e2a730d37d8aed248bb7db63452
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-23 17:14:13 +0100
+
+    pfdc: Add new operation 'interleave'
+
+commit f594e6996a0aa6b34d64c0d9a8679fa85ab69b58
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-23 17:13:41 +0100
+
+    pfdc: Add function pfdc_trk_interleave()
+
+commit 36e7c770ad0bf87184e3e940856ba449d5fe3fee
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-22 01:18:37 +0100
+
+    getopt: Support forced parsing of options as arguments
+
+commit f2845be35c44b2b2d6c5868c94553d03c1f5df3d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-19 16:18:22 +0100
+
+    ibmpc: Fall back to the monitor on the first SIGINT, terminate on the second
+
+commit 1eb50690348f4e468b4e52c09ab58593f651a39f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-19 16:17:53 +0100
+
+    sdl: Ignore the first mouse click when grabbing the mouse
+
+commit 2bfb45cfbe7737ffa729fcbd7806f4ee76d7d782
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-19 16:17:26 +0100
+
+    macplus: Check if the sony driver is open before inserting a disk
+
+commit 7df4377baee07c528067b255ef40f4276ba6a292
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-19 16:16:54 +0100
+
+    macplus: Fix decoding of trap names
+
+commit f1f6a8a938e39e5a63053efffcf8ea8e0afcf444
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-12 06:14:04 +0100
+
+    fdc: Clean up the interface between the 8272 and the block device
+
+commit 89ca22b8937590dd73ac8f51c379bcbe6135a823
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-12 05:52:23 +0100
+
+    pfdc: Add experimental load support for CP2 image files
+
+commit 6d76f9145205970bd72f1cc2f2c6001d30e48378
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-10 05:33:31 +0100
+
+    8272-fdc: Fix read error reporting for missing data address marks
+
+commit 07123d090f70dd0b9211c3a75efef5d9d8070eb9
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-10 05:33:00 +0100
+
+    pfdc: Fix deleting alternate sectors
+
+commit 34289596ef5aa75d65035fb41bbf3180a11757dc
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:55:58 +0100
+
+    ibmpc: Use the new generic monitor commands
+
+commit 37d60e4b13ee85e196f60f06d4b69f9823d4532e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:55:27 +0100
+
+    macplus: Use the new generic monitor commands
+
+commit d73b990c76c0a473ff1e31629527af1f129ed69b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:54:59 +0100
+
+    sim405: Use the new generic monitor commands
+
+commit dc7407d7cb7b7e068a0f47a4cbe75f3e62dec17a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:54:36 +0100
+
+    sim6502: Use the new generic monitor commands
+
+commit 3042e90490b0bdf1f2d5086ffe623ba2f871cbf6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:54:08 +0100
+
+    simarm: Use the new generic monitor commands
+
+commit e3384e3754626dacf4a62749b91d6c6172b2a4df
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:53:38 +0100
+
+    sims32: Use the new generic monitor commands
+
+commit 68052616934fd33f48a452d16126146e48d5e0ae
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:53:10 +0100
+
+    monitor: Add the generic "y" command
+
+commit a828ee9dcb5e5eea35d3d1f307c5bd861ca291cb
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:52:48 +0100
+
+    monitor: Add the generic "w" command
+
+commit 98030d4c409a6811d07727e7b39737eb68c34be9
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:52:23 +0100
+
+    monitor: Add the generic "f" command
+
+commit a05ee5c176f4a77f3f38e543b4e0ad868f1a1b56
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:51:59 +0100
+
+    monitor: Add the generic "e" command
+
+commit b0264e93ddb4cdc5397c4eeaeb5368e8b985fb9e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:51:34 +0100
+
+    monitor: Add the generic "d" command
+
+commit 1ffa5108a165f14a9d9da39676700dcc58b2bcdf
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:51:05 +0100
+
+    monitor: Support generic access to the emulated memory in the monitor
+    
+    This patch will allow the memory accessing monitor commands to
+    be moved to the generic monitor code in lib/monitor.c.
+
+commit 217aaa4df7ceb575f0692a6ed8742c549ffaba42
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:19:02 +0100
+
+    ibmpc: Log interrupts to the console, not the log file
+
+commit 20220c51dcb93f2d101b364aea33935ac7037146
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:18:34 +0100
+
+    pfdc-tc: Only try to read FM data if there is no MFM data
+
+commit 10f82eba55b2af999f2f7b391b23a7ef4fee268a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:18:01 +0100
+
+    8272-fdc: Use all bits of the head number when comparing sector IDs
+    
+    This reverts commit 7a11efd4949780383e92307737f8802c703fa228 on
+    2011-09-17 19:07:40 +0200
+
+commit e5005385b5afa25ee43feb62d04475498a5df283
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-09 04:17:35 +0100
+
+    8272-fdc: Properly report missing data address marks
+
+commit 079f5a0b002faa68e92f76a5d7ac8951256f8cba
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-07 15:28:08 +0100
+
+    ibmpc: Allow disassembling of memory ranges
+    
+    The "u" command now has an additional optional parameter <mode>.
+    If mode is 0 (the default), cnt specifies the number of instructions
+    to disassemble. Otherwise cnt specifies the number of bytes to
+    disassemble.
+
+commit b0d6664a692e69ba473562c3f306f5849573fe08
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-07 15:27:23 +0100
+
+    ibmpc: Fix interrupt logging
+    
+    The "log int" command now logs the address of the instruction that
+    caused the interrupt, not of the instruction following it.
+    
+    The log now also includes registers DS and ES.
+
+commit d47dd9d32192f45e956cb9efbb8ae7fa03404d71
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-07 15:26:40 +0100
+
+    console: Print a newline after commands when output is redirected
+
+commit a104dd92f5de75fbe545d1eff06198f5d1230f65
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-07 15:26:09 +0100
+
+    Update copyright to 2012
+
+commit 3fb6e553eb08c2f451042b86bf548a00adf7ae48
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-06 01:01:08 +0100
+
+    8272-fdc: Ignore sectors that are smaller than requested
+
+commit 5d1705cd2f2e05be6a20e8901cd7a03f329f1b9d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-06 01:00:30 +0100
+
+    8272-fdc: Fix the starting ID for the read track command, again
+
+commit c7048bb4598d36a5ef69856da989979546b05408
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-06 00:59:59 +0100
+
+    ibmpc: Improve the "key" monitor command
+    
+    The key command can now simulate pressing and releasing keys
+    specified by symbolic names.
+
+commit 1d98bb3ea48e038733f9bfe56b71735b9bd68b46
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-06 00:58:57 +0100
+
+    8086: Fix 8 bit register names
+
+commit e90a0ef688eca4f0caf4aabb067cd83cf551cfde
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-01 22:31:03 +0100
+
+    8086: Fix timing for IN and OUT instructions
+
+commit 5b136429deae3aed571d53367b376e3fd8b22ec6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-01 22:30:17 +0100
+
+    8086: Add the delay for unaligned memory accesses during EA accesses
+
+commit 38032b2e54acbd4d0cef47a12676c4c3394bbd1f
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-01 22:19:01 +0100
+
+    xt-hdc: Support the DTC and SMS BIOSes
+
+commit e9ea4d0e13ba171c4c9937ae34d5976e9d58235b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-01 21:52:59 +0100
+
+    macplus: Add a message to set the video brightness
+
+commit 0b59816fb4e02393657fbd9543e92c3aede4256e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2012-01-01 21:52:32 +0100
+
+    macplus: Support setting of video color and brightness
+
+commit 4f01782f8603493e1c15ac1772c97239566e9a63
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:46:20 +0100
+
+    ibmpc: Turn the model ID into a bit mask
+
+commit 1a100c1547bb3a8ddfa566cc41ad4b1b91fd8f6e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:45:34 +0100
+
+    8272-fdc: Start the read track command after the index, not at the first ID
+
+commit f5b8d8e1824a6f489d7afb1f98cda54ec73655a2
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:45:05 +0100
+
+    xt-hdc: Force IRQ low if IRQs are disabled
+
+commit 9926b01f64cefbab0b32fc13bfdd5337a3fd5b86
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:44:37 +0100
+
+    8259-pic: Remember the state of the IRQ input lines
+
+commit 5113a38ebda2f88c038d6c2dbee8d62dc9e0856d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:44:09 +0100
+
+    8259-pic: Fix priority resolution
+
+commit 13d4b5682a91b259c1c0bcbb3781fb2bab8e405d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:43:40 +0100
+
+    ibmpc: Print some more PIC status
+
+commit 55c81738687df1d89c0f98500ce91c1e73491982
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:42:58 +0100
+
+    8086: Only trigger a hardware interrupt if INT is asserted during the entire instruction
+
+commit 4a2c491b6f24021c6835e91276cbe2ab413eed70
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-12-29 19:42:23 +0100
+
+    ibmpc: Fix a buffer overflow in the int 13 handler
+
+commit 85dfbab8f9809bf574f32c9c6cc884746032dfd5
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-11-18 06:18:15 +0100
+
+    pfdc-tc: Support FM transcopy images
+
+commit 2db0c16a12a7af492f35cd4ecbda62e041f4935a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 10:32:43 +0200
+
+    macplus: Print more debugging information on illegal instructions
+
+commit c5777ca1331d43eff0e06c07d0eff62f226ff2c8
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 10:32:13 +0200
+
+    ibmpc: Remove the old serial mouse implementation
+
+commit 5b504e044fd4f4c3c550f811db95417580bb4790
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 10:31:38 +0200
+
+    ibmpc: Use the new serial mouse character driver
+
+commit 4e1db1fcc045095ff5ec3ed33667777d8ce21601
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 10:31:10 +0200
+
+    char: Add a serial mouse character driver
+
+commit 88c3316d77a3c605c5b6c725b6ef5bc0d83f2011
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 10:30:19 +0200
+
+    char: Add function drv_get_option_sint()
+
+commit 066250a81c0f6c114e709a270bfb2cdba26d60a2
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 05:12:38 +0200
+
+    sdl: Get mouse button information directly from the event record
+
+commit 83f00f8f7a206a2383f756d601736c7a8ba2e365
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 05:12:11 +0200
+
+    pce-img: Add image types pimg and img as synonyms for pce and raw
+
+commit c1afdd9116cc4b011a8fb0a6b2ca698ecac016ec
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-17 05:11:45 +0200
+
+    pce-img: Recognize extensions .img and .pimg when guessing image types
+
+commit a27cbf41e24abfa4de6c2029cb854eac73a39830
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:09:09 +0200
+
+    char-pty: Disable echo
+    
+    It seems that if data is written to the master side of a pty before
+    the slave side is opened, the data will be echoed back by default.
+
+commit 8e352d20e7989e7580f7dc6c861f39a8f79d49a0
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:08:05 +0200
+
+    char-pty: Set the pty file descriptor to non-blocking instead of polling
+
+commit 2a7742e9120bd038e9f05ae3167f2f17e79d7470
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:07:16 +0200
+
+    cga: Fix the CGA cursor, again
+    
+    If the displayed portion of the video memory wraps around, it is
+    possible that the cursor position is less than the display start
+    offset while the cursor is still visible.
+
+commit 1f786ea5976a4c46805d30ef0ae24137f3e63863
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:06:27 +0200
+
+    e8259: Fix interrupt logic
+    
+    The 8259 PIC now changes the state of its INT output immediately
+    when its IRQ inputs or the interrupt mask register change. This
+    allows the hack where the 8259 needed to be clocked to be removed.
+
+commit e541ea0d025b346d11b16b7b264a5589471bbc57
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:05:42 +0200
+
+    e8259: Rename e8259_get_irq_f() to e8259_get_irq_fct()
+
+commit bd15375b7c1895e1a5d9189cc825ed0ea6d295cc
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:05:09 +0200
+
+    e8259: Clean up
+    
+    This is all cosmetics
+
+commit d884b13561598a58e0acdc67a53a9a5800c79ca6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:04:38 +0200
+
+    pfdc: Flush the output after saving pfdc images
+
+commit e2ebeab19f06ff4e1268d436c4371e8033964525
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-13 01:04:04 +0200
+
+    pfdc-tc: Support reading beyond the end of a track
+    
+    Sectors can span the index pulse, so at the end of a track we need
+    to wrap around and start at the beginning again. To avoid endless
+    loops we need to keep track of the number of index pulses.
+
+commit 6c1faaa0f3abe02a7836c8dcba6546ee136ce2e4
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-09 00:58:51 +0200
+
+    xt-hdc: Fix command error reporting
+    
+    This patch fixes error reporting for most hdc commands. It
+    in particular fixes errors after trying to access a
+    non-existing drive.
+
+commit 7b59b5b22363dd1183d155acd219e5f902b8f3d9
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:45:43 +0200
+
+    ibmpc: Reset the serial ports during system reset
+
+commit d68c6886a9c2f914711512f4ccd80f7e3f7414e7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:45:15 +0200
+
+    serport: Add a reset function
+
+commit 45617ddfdfeecf2e3d9f926838435719304c80a3
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:44:43 +0200
+
+    e8250: Add a reset function
+
+commit 9463b64832ec9bdf98d6291b0246eea85da1f65e
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:37:01 +0200
+
+    e8250: Implement the modem status interrupt condition
+
+commit a499ba5d7a0324a995fa466d872a2bb949e6ed10
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:25:31 +0200
+
+    ibmpc: Add a config file option to disable the POST memory test
+
+commit b5e4a66e043156ac2f73d6a003c56e38569074a1
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:23:01 +0200
+
+    xt-hdc: Add a short delay before executing the init drive command
+    
+    Some programs expect that REQ goes low after the last command
+    byte and before the first data byte.
+
+commit 313c79db422d4fe64ac84ab66fbbbb16e6c6efbd
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:22:18 +0200
+
+    ibmpc: Add a message to enable/disable the FDC accurate mode
+
+commit ceb32d502aef412f38f51e5a2672b0b263be872c
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:21:43 +0200
+
+    cga: Fix cursor positioning for positions > 8192
+
+commit c39ab4a3283fad070d37118f92d4341a84a0817d
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-08 00:20:48 +0200
+
+    parport: Fix resetting of ACK
+    
+    ACK is now reset whenever STROBE is reset.
+
+commit 36c87e7fb2c24de3c793dafada3e75f6f3da57ae
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-03 21:17:50 +0200
+
+    macplus: Fix ADB bit timing
+    
+    This patch sets the ADB bit cell time to 100 us as specified. In
+    addition it adds an additional delay of 100 us after changing
+    the ADB state and before clocking in or out the first bit. It
+    seems that system software before System 6 requires this.
+
+commit b26f3d404e8b574ecafbefdc56c9ce06c01f5969
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-03 21:17:01 +0200
+
+    macplus: Allow formatting to change the image size if possible
+    
+    The disk image size will be changed to 400K or 800K if the image
+    type is pfdc, otherwise the image size will be unchanged.
+
+commit e9cf9da776af0a7090d156d97a31ce4e73efc347
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-03 21:10:49 +0200
+
+    macplus: Set the device size after formatting
+    
+    It seems that older system software requires the formatting
+    routine to return the device size in blocks in the sony variables.
+
+commit 2b7642da9411d4063cd4ebeb037538642c6c3fec
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-10-03 21:08:59 +0200
+
+    pfdc: Fix setting the Disk Copy 4.2 image name
+    
+    Sector numbers are zero based, so the MDB is in sector 2 not 3.
+
+commit 1ea794f17ed1cff4a29f2721c04e6c18d71b5e7b
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-28 01:28:47 +0200
+
+    e8272: Don't move to the next cylinder during multi track commands
+
+commit 1ceb78bea66ec7434f2d228f26c7a5fcf77233d8
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-26 23:28:40 +0200
+
+    xt-hdc: Implement the format track command
+
+commit 14df9041344600e6245f066c54730ae0597684d7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-24 14:27:10 +0200
+
+    block: Improve disk geometry guessing from partition table
+    
+    The new detection routine does not depend on partitions
+    starting and ending on cylinder boundaries and will
+    fail unambiguously if the geometry can't be determined
+    precisely.
+
+commit 0934452d4d26655eafda3a7ac5dce8e3d72524f7
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-24 14:26:25 +0200
+
+    blkqed: Fix creation of QED images with large cluster sizes
+    
+    The old QED image creation code contained an integer overflow that
+    would prevent images with a cluster size of 256KB or larger from
+    being created.
+
+commit e6ef94e744ff09eb3178a829e79435aecd5eca12
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-24 14:26:02 +0200
+
+    pce-img: Allow overriding the disk geometry and size while converting
+
+commit 3af71b500a387016930ad02f6be9b7ded1cbe3a9
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-24 14:25:33 +0200
+
+    pfdc: Improve reading of TD0 images with bad sector IDs
+
+commit 8586e7b405868ceab78a5f48043a9d68d7c67098
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-20 21:46:31 +0200
+
+    pfdc: Fix a NULL pointer dereference in pfdc_sct_clone()
+
+commit f8ca715d4ed703643c8db5e972097a72584be4a2
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-20 21:45:51 +0200
+
+    e8272: Fix reporting of drive ready change after reset
+
+commit 28a2a535de8f3a76f87e6d0f6827da4b68662af2
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-20 12:50:25 +0200
+
+    ibmpc: Get system time directly from the host in pcetime.com
+
+commit aa7b0ef42dd41b9d87c48574e594358cb10e515a
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-20 12:49:55 +0200
+
+    e8272: Fix multi track operations
+
+commit 8c5dce17b80f9204186104d53ecdb3494bed34ee
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-18 20:43:53 +0200
+
+    pfdc: Fix loading of sectors that span the end of the track in transcopy images
+
+commit 133633018f69a85dbbb8ace5fda9320541d76595
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-18 15:03:33 +0200
+
+    pfdc: Add experimental read-only Transcopy image file support
+
+commit 81e462e54ec6e6d8c0d1260ad5806e0b82c43fe1
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-18 15:02:52 +0200
+
+    pfdc: Correctly handle deleted data address marks
+
+commit d4c7c3d08c249b8877d0d167a2b1958f1ae834e6
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-18 15:02:09 +0200
+
+    pfdc: Add new sector flag 'missing data adress mark'
+
+commit 0cc6f3fa443d4d9b45427bd8901ec3b189348548
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-17 19:08:20 +0200
+
+    e8272: Fix reporting of ID CRC errors
+
+commit 7a11efd4949780383e92307737f8802c703fa228
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-17 19:07:40 +0200
+
+    e8272: Only use the low order bit of the head number when comparing sector IDs
+
+commit 511aaccf4ce52544aa5ef28898f42bd3386148b9
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-17 19:07:08 +0200
+
+    pfdc: Allow for tracks with no sectors in imd images
+
+commit 88084b458b6c2b28e7e8b7c5e81cf973b5c46b95
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-15 16:30:20 +0200
+
+    ibmpc: Add XT hard disk support
+
+commit e287b8bf84d06a4026908de2e228097d5b9397b3
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-15 16:29:10 +0200
+
+    xt-hdc: Add support for the XT hard disk controller
+
+commit 122a5ac3b915858992204e376b38d540b12588a8
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-15 16:28:17 +0200
+
+    ibmpc: Search for the PCE BIOS extension in segments C000 and F000
+
+commit 19d02738ee6c1cddff495efa7b0d9e03c4e8c600
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-15 07:48:47 +0200
+
+    ibmpc: Remove floppy disk drive 0 during boot
+    
+    If drive 0 is not the boot drive remove it after int 19 is
+    called and add it back after the first read access to a
+    different drive. This is a BIOS independent way to prevent
+    booting from drive 0.
+
+commit 1b29996df18e8aeb6baf2da4b52cb1d53d24e398
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-15 07:47:49 +0200
+
+    ibmpc: Make the number of floppy disk drives a config file option
+
+commit cae03056516c5efbbf45bcc4434743117dce8300
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-15 07:47:15 +0200
+
+    ibmpc: Change the default VGA BIOS to the IBM VGA BIOS
+
+commit 1ee70232123a0cecc17c4e980d4cbd2b1da91279
+Author: Hampa Hug <hampa@hampa.ch>
+Date:   2011-09-15 07:46:46 +0200
+
+    e8237: Fix reading the temporary register
