@@ -1,0 +1,20 @@
+    Core : 0.10 has totally reanimated core. We rewrote whole interpreter and
+    memory core. It is not perfect, but its fine to run some advanced software.
+
+    User Interface : Dolwin has powerful file selector to load GC files. You
+    can sort items in many ways, and set file filter for file extensions, 
+    which you dont want to add in list. File can be  easily loaded by
+    double-clicking on it. Selector will add new search directory itself, after
+    succesful loading of supported files (DOL, ELF, GCM or GMP).
+
+    Hardware : Since, we have some HLE in Dolwin, its now high-level emulator,
+    but it can work in low-level hardware emulation mode. Dolwin is still able
+    to run PONG ;) There are not many changes in hardware emulation, since 0.09.
+    We just cleaned whole code, added DVD plugin and memory cards :)
+
+    HLE : Currently Dolwin has some HLE support for Nintendo Dolphin OS. 
+    MAP-files are required for high level emulation.
+        Dolwin has built-in MAP-maker module, but you shouldnt rely on it, 
+    because Dolphin OS has many versions, and MAP-maker can fail to find all 
+    needed OS-calls. This release including only Zelda MAP-file. You can try
+    to find others on Dolwin site (put new maps into Dolwin Data directory).
