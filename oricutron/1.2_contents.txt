@@ -1,0 +1,68 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-02-24 10:59:52 ....A          824      1319762  images\avirec.bmp
+2010-02-24 10:59:52 ....A          952               images\disk_active.bmp
+2010-02-24 10:59:52 ....A          952               images\disk_ejected.bmp
+2010-02-24 10:59:52 ....A          952               images\disk_idle.bmp
+2010-02-24 10:59:52 ....A          952               images\disk_modactive.bmp
+2010-02-24 10:59:52 ....A          952               images\disk_modified.bmp
+2014-11-01 14:44:36 ....A       460856               images\gfx_atmoskbd.bmp
+2014-11-01 14:44:36 ....A       460854               images\gfx_oric1kbd.bmp
+2014-11-01 14:44:38 ....A       460854               images\gfx_pravetzkbd.bmp
+2010-02-24 10:59:52 ....A        30776               images\statusbar.bmp
+2010-02-24 10:59:52 ....A         1016               images\tape_ejected.bmp
+2010-02-24 10:59:52 ....A         1016               images\tape_pause.bmp
+2010-02-24 10:59:52 ....A         1016               images\tape_play.bmp
+2012-02-03 14:58:24 ....A         1016               images\tape_record.bmp
+2010-02-24 10:59:52 ....A         1016               images\tape_stop.bmp
+2010-02-24 10:59:52 ....A         3128               images\winicon.bmp
+2014-11-01 14:44:34 ....A         4862               oricutron.cfg
+2009-10-17 05:17:00 ....A       324096               SDL.dll
+2003-01-14 16:08:14 ....A       537856               disks\barbitoric.dsk
+2004-08-04 02:58:12 ....A       537856               disks\BuggyBoy.dsk
+2010-02-16 12:39:46 ....A      1049856               disks\Pulsoids.dsk
+2002-07-11 12:06:00 ....A       537856               disks\Quintessential.dsk
+1999-03-26 11:55:02 ....A       512256               disks\ZipNZapE.dsk
+2014-11-01 14:47:54 ....A      1346949               oricutron.exe
+2012-02-06 13:43:24 ....A         2111               roms\Bas122de.pch
+2012-02-06 13:43:20 ....A         2111               roms\Bas122fr.pch
+2012-02-06 13:43:14 ....A         2111               roms\Bas122uk.pch
+2012-02-06 13:46:04 ....A         2090               roms\basic10.pch
+2012-02-06 13:09:36 ....A         2111               roms\basic11b.pch
+2014-11-01 14:44:38 ....A         2390               roms\pravetzt.pch
+2013-10-16 11:31:54 ....A          229               roms\telmon24.pch
+2014-11-01 14:44:38 ....A      1660380               images\gfx_atmoskbd.psd
+2010-04-21 00:56:40 ....A          512               roms\8dos.rom
+2009-07-30 08:11:48 ....A        16384               roms\basic10.rom
+2009-07-30 08:11:48 ....A        16384               roms\basic11b.rom
+2009-03-10 14:44:46 ....A        16384               roms\hyperbas.rom
+2009-03-10 14:44:44 ....A         2048               roms\jasmin.rom
+2009-03-10 14:44:44 ....A         8192               roms\MICRODIS.ROM
+1980-12-30 17:00:00 ....A        16384               roms\pravetzt.rom
+2009-03-10 14:44:46 ....A        16384               roms\teleass.rom
+2009-03-10 14:44:46 ....A         8192               roms\telmatic.rom
+2009-03-10 14:44:46 ....A        16384               roms\telmon24.rom
+2014-11-01 14:44:38 ....A          203               roms\8dos.sym
+2011-05-21 11:56:28 ....A         3080               roms\basic11b.sym
+2012-08-17 08:54:38 ....A          334               roms\cumana.sym
+2011-05-21 11:56:28 ....A          335               roms\jasmin.sym
+2011-05-21 11:56:28 ....A          167               roms\microdis.sym
+2013-11-04 13:44:48 ....A         2863               roms\pravetzt.sym
+2011-05-21 11:56:28 ....A         2288               roms\sedoric.sym
+2011-05-21 11:56:28 ....A          206               roms\telmon24.sym
+2010-02-06 08:54:44 ....A         4069               tapes\Cyclotron.tap
+2003-01-19 09:46:02 ....A         4269               disks\barbitoric.txt
+2004-08-04 03:27:58 ....A         4390               disks\BuggyBoy.txt
+2014-11-01 14:44:40 ....A        12646               ChangeLog.txt
+2010-02-06 08:54:52 ....A         8490               tapes\Cyclotron.txt
+2002-07-11 12:55:36 ....A         3274               disks\Quintessential.txt
+2014-11-01 14:44:34 ....A        11674               ReadMe.txt
+2014-11-01 14:44:34 D....            0            0  teledisks
+2014-11-01 14:44:34 D....            0            0  pravdisks
+2014-11-01 14:44:34 D....            0            0  snapshots
+2014-11-01 14:44:34 D....            0            0  tapes
+2014-11-01 14:44:34 D....            0            0  images
+2014-11-01 14:44:34 D....            0            0  disks
+2014-11-01 14:44:34 D....            0            0  roms
+------------------- ----- ------------ ------------  ------------------------
+2014-11-01 14:47:54            8127788      1319762  57 files, 7 folders
