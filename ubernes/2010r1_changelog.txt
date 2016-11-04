@@ -1,0 +1,44 @@
+Changes - 28th June 2010
+------------------------
+
+Revision 1 (06/28/2010) 
+
+Fixed gameplay stats and movie uploading
+
+Improved movie checkpoint editor
+
+Improved GUI acceleration feature 
+Each mappable action ("Load State", "Save State", etc) can be enabled/disabled independently 
+Fast-forward function can now be mapped to a controller button 
+
+
+Initial Release (01/06/2010) 
+
+Added a "Player Profile" feature that displays all of the UberNES high scores and speed run times for players on the UberNES leaderboards
+
+Added post-processing effects system, renderer can now apply various effects independently of the selected upscaler (i.e. hqx, NTSC)
+
+Added screen curvature/fishbowl post-processing effect 
+Ray-traced real-time rendering simulates curve of old CRT glass screens 
+Software-based implementation; works in GDI and DirectDraw 
+
+Added "oversampler" post-processing effect 
+"Native" NES output can be scaled to proper 4:3 aspect ratio 
+Can optionally crop edges of NES display to hide rendering artifacts 
+
+Added scanline post-processing effect 
+Variable-intensity scanlines can now be applied on top of NES display, regardless of selected upscaler 
+
+Render color depth can now be specified independent of desktop color depth
+
+Added 16 and 32-bit color depth renderers for the GDI interface, which allows for much faster NTSC and HQX upscaling
+
+Users can now fast-forward games they are playing
+
+Redesigned NES database system, it is now much faster, easier, and more robust for users to create and re-scan their ROM collections
+
+Improved performance and stability of NSF player
+
+Emulation now consumes much less CPU
+
+Improved joystick support

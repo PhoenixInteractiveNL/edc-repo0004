@@ -1,0 +1,7 @@
+Changes - 19th January 2016
+---------------------------
+
+nemulator 4.01
+Fixed some bugs that were introduced in recent versions: 
+Some gamepad configurations stopped working in nemulator 4.0 
+Fixed shaky status bar in Mickey's Safari in Letterland

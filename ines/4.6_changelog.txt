@@ -1,0 +1,16 @@
+Changes - 4th September 2016
+----------------------------
+
+New in This Version:
+
+Added Scale2X scaling algorithm. 
+Added Monochrome, Green, Amber, and Sepia CRT emulation. 
+Added -scale2x and -raster command line options. 
+Added -mono, -sepia, -green, and -amber command line options. 
+EMULib-specific command line options now processed inside EMULib. 
+Added "Play Sound When Inactive" option on Windows. 
+Added "Scale2x Algorithm" option on Windows. 
+Added "LCD Raster" option on Windows. 
+Added "Debugger" option on Windows. 
+Renamed "Color Raster" menu to "Color Filter" on Windows. 
+Deprecated -notv and -nolcd command line options. 

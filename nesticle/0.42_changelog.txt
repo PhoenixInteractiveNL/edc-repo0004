@@ -1,0 +1,9 @@
+Changes - 19th September 1997
+-----------------------------
+
+Version 0.42:
+ - Support for MMC1 games greater than 512k (DW4)
+   Thanks to Matthew Richey 
+ - Better LFN detection
+ - Fixed I-flag after interrupts
+ - Fixed pattern editor in 95 version

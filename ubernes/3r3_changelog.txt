@@ -1,0 +1,94 @@
+Changes - 7th October 2008
+--------------------------
+
+Version 3 revision 3   
+Added time-trial support for 5 more games (10 total); users can now compete for best speed runs in the following games: 
+Bionic Commando 
+Duck Tales 
+Ninja Gaiden 2 
+Excitebike 
+Super Mario Bros. 3 
+
+Added history viewer to online high score and time trial leaderboards 
+All high scores and speed run times in UberNES are now timestamped 
+Interactive viewer graphs the history of each high score and speed run game 
+Game history is also displayed in plain text format that integrates seamlessly with graphical view 
+
+Rewrote video subsystem to provide more functionality and better performance 
+Added Scale2X, Scale3X, NTSC, and scanline scalers/filters 
+Hardware and software video scaling can now be independently controlled 
+
+Online movie gallery now alerts and signals new UberNES movies when gallery list is refreshed
+
+Increased number of save state lots from 5 to 100
+
+ 
+Version 3 revision 2 (05/12/2007)   
+Added support for iNES mapper 5 (MMC5)
+
+Added time-trial support 
+When you play time-trial enabled games, UberNES will record your completion times 
+Upload your times to the UberNES database to compete with other UberNES users for the fastest times 
+Download the worldwide NES stats to see the fastest worldwide times 
+The currently-supported time trial games are: 
+Metroid 
+Super Mario Bros. 
+Super Mario Bros. 2 
+Mega Man 2 
+Castlevania 3 
+
+Added "Download all movies" feature to online movie gallery 
+
+In conjunction with this version, we are releasing a related project - our Nintendo Screen Saver 
+It's a stand-alone Windows screen saver that displays NES games 
+Games are played intelligently by using UberNES movie files as input sources 
+The screen saver can tap into the online UberNES movie gallery to quickly import a large amount of unique, quality gameplay footage. 
+
+Version 3 revision 1 (03/10/2006)   
+Added comprehensive movie support 
+A polished interface makes recording and playing movies easy - no matching of movie filenames to ROM filenames is required. 
+Movie files are highly compressed - 20 minutes of gameplay typically compresses down to about 5 KB. 
+"Checkpoints" can be added to movies, allowing the user to instantly jump to key points in movies such as boss battles. 
+You can view NES controller overlays as movies play, showing exactly which buttons are pressed. 
+A local movie gallery feature makes it easy to browse, playback and manage your gameplay movies. 
+
+Added online movie gallery 
+Using the online movie gallery feature, you can browse, download, and play the best movies from UberNES users around the world. 
+Currently, the movie gallery has many nice movies ranging from UberNES high score runs to start-to-finish completion movies of difficult games. 
+UberNES performs gameplay validation checks to ensure that all movies are legitimate gameplay sessions and not cheat/emulator enhanced. 
+You can submit your own NES movies using the built-in local movie gallery. 
+
+Added high score support for 5 new games (50 total); users can compete for worldwide high scores in the following games: 
+Marble Madness 
+Donkey Kong 3 
+3D World Runner 
+Ms. Pac-Man 
+Elevator Action 
+
+Added more box descriptions to NES database 
+
+Version 3 (07/06/2005)   
+Completely re-wrote video emulation, result is much more accurate emulation - games such as Rad Racer, Marble Madness, Crystalis, and Final Fantasy 2 are now playable. 
+
+Added support for following iNES mappers: 
+68 (Sunsoft Mapper 4) 
+77 (Early Irem Mapper #0) 
+88 (Namcot 118) 
+
+Added high score agents for 10 new games; users can now compete for the world high score in the following games: 
+Rad Racer 
+Tetris 
+Mike Tyson's Punch Out!! 
+Super Mario Bros. 3 
+Pipe Dream 
+Gun.Smoke 
+Donkey Kong Jr. 
+Xevious 
+Q*bert 
+Life Force 
+
+Added support for four-screen PPU mirroring
+
+Added a new feature that displays all of the changes in the worldwide stats when a new revision of the stats is downloaded. This makes it very easy to see what the new high scores are, what games have been played recently, etc.
+
+Added more box descriptions to NES database

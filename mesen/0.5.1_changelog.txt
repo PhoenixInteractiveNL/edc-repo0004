@@ -1,0 +1,11 @@
+Changes - 7th September 2016
+----------------------------
+
+0.5.1:
+WARNING: Save states created with version 0.4.1 (or older) will no longer work in 0.5.1.
+
+This release is a beta - save states, movies, etc. created with this version may not be compatible with future versions of Mesen.
+
+Bug Fixes
+Google Drive: Fixed a crash that could occur when enabling Google Drive integration.
+Debugger: Fixed a crash introduced in 0.5.0 that could occur when opening the debugger.

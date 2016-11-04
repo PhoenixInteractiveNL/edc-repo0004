@@ -1,0 +1,18 @@
+Changes - 31st October 2016
+---------------------------
+
+0.5.2:
+
+WARNING: Save states created with version 0.4.1 (or older) will no longer work in 0.5.2.
+
+This release is a beta - save states, movies, etc. created with this version may not be compatible with future versions of Mesen.
+
+New Features
+Compatibility: Added support for 6 new mappers (83, 126, 199, 215, 217, 220)
+UNIF: Added support for CoolBoy boards.
+Video: Added a few options in the advanced tab.
+
+Bug Fixes
+Accuracy: Improved IRQ timing for FDS emulation - fixes "Druid - Kyoufu no Tobira".
+Accuracy: Fixed issues with mapper 245 games.
+Debugger: Various bugfixes.

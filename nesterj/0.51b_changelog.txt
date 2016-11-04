@@ -1,0 +1,9 @@
+Changes - 27th February 2002
+----------------------------
+
+v0.51b
+	code added : 140 (same as #66?)
+	code fixed : 80 (Devilman)
+	fixed menu bugs 
+	fixed Recent list codes(thanks, Mr.McKinney)
+	movie file's extention changed into 'nrp' from 'mov'.
