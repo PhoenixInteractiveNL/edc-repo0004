@@ -1,0 +1,26 @@
+Changes - 29th July 2016
+------------------------
+
+ver 310f
+· VRAM review of the exclusive process of drawing.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Point lock block is out, and exclusive blocks were nested
+Modify the part.
+
+
+- Fixed a bug in the memory bank selection of mkIISR.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+For 66SR only had not been SR treatment in conditional branch at the time of Kanji ROM selection, the same as the 66
+It had been the memory mapping.
+Also the warrior of the cartridge of RAM was not assigned by the same failure.
+
+
+• The I / O port of the monitor mode display a palette port of SR (0x40-0x43).
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Once just in case description.
+Pallet number "0x43" is assigned to the 13th color
+Pallet ID "0x42" is assigned to the 14th color
+Pallet number "0x41" is assigned to the 15th color
+Pallet number "0x40" is assigned to the 16th color
+
+*** Translated from Japanese using Google Translate ***

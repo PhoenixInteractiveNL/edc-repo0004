@@ -1,0 +1,12 @@
+Changes - 4th February 2012
+---------------------------
+
+
+ENHANCED added to the ini
+bit0 (1) = 0: MHz notation / 1: 00kHz notation
+ENHANCED = and the representation of the frequency of the Config of the CPU to 00kHz in 1 to that
+If you 35 will 3500kHz = 3.5MHz
+
+Other forget position fixes
+
+*** Translated from Japanese using Google Translate ***

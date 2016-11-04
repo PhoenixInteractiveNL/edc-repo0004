@@ -1,0 +1,19 @@
+Changes - 2nd February 2012
+---------------------------
+
+Changes, etc.
+
+- Beautiful mode What's that?
+Sound board 2-enabled (fmgen008 use of Mr. cisc)
+I / O44h-47h fixed
+Rhythm data (2608 _ *. Wav) is in the same location as the EXE
+Sampling rate (Sound), buffer (SoundBuffer), volume (Volume *) is M88.INI-compatible (copy and paste the appropriate item to X88000.INI)
+The initial value (Sound = 55466, SoundBuffer = 200, Volume * = 100)
+Dialog Tsukun Mendokuse of
+CSM somehow listen level
+Mouse ± from the free the window frame changes made by (80, 50) changes to the unit
+Drag-and-drop support (only sent to the image selection dialog)
+Drag and previous disk image information deleted if you drop
+- As a collection
+No claim / non-support
+
