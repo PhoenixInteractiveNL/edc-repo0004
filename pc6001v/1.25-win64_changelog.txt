@@ -1,0 +1,10 @@
+Changes - 16th August 2016
+--------------------------
+
+Ver.1.25
+  When you hit a breakpoint in the monitor mode, Fixed a freeze. (Eighttails's, Akikawa Mr. Thanks)
+  Modify the Chinese character display that garbled in mode 5 in SR.
+  Fixed character does not appear in the Japanese word processor in SR.
+
+*** Translated from Japanese using Google Translate ***
+

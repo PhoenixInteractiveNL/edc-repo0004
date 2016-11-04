@@ -1,0 +1,10 @@
+Changes - 26th August 2016
+--------------------------
+
+2.30.0
+P6V1.25 base to update 
+Fixed has been solidified with the Serve the menu during movie recording. 
+Since 0.00 MinGW bugs shipped with (Windows) MSYS2, was to be built using the 6.1 the latest version. 
+For Qt and MSYS2 lost their XP support, it does not work with XP from this version. Please use the 2.21 is anyone who wants to move absolutely in XP. 
+
+*** Translated from Japanese using Google Translate ***

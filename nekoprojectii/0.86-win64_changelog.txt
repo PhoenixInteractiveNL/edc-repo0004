@@ -1,0 +1,14 @@
+Changes - 17th March 2016
+-------------------------
+
+ver0.85 -> ver0.86 
+CPU: Fixed a bug that fall in idiv instruction 
+Fixed a bug that fail to take out of the HDD 
+Fixed a bug that extended channel of PC-9801-118 is not enabled (Degure in ver0.85) 
+(Windows) 
+Corresponding to the Sound Canvas VA 
+Corresponding to ASIO 
+(WinNT version only change the compiler in Visual Studio 2008) 
+(WinNT and x64 editions only corresponding to WASAPI) 
+
+*** Translated from Japanese using Google Translate ***
