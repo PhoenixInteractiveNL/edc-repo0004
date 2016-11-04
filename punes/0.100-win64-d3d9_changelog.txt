@@ -1,0 +1,12 @@
+Changes - 27th April 2016
+-------------------------
+
+0.100
+- Added support to mapper 40.
+- Fixed aspect ratio of NTSC software filters.
+- (OpenGL) Add the "Disable RGB FBO" option. Some older drivers of video cards do not support them properly altering the color palette with shaders.
+- Added the pixel aspect ratio of PAL TV.
+- Added "xBRZ 5x" and "xBRZ 6x" software filters.
+- Added the possibility to make screenshots (ALT+X) which will be automatically saved in the folder "screenshot" of the base directory.
+- Added "Unlimited sprites" (ALT+U) option.
+- Added "Hide sprites" (ALT+V) and "Hide background" (ALT+B) options.

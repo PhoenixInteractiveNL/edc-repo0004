@@ -1,0 +1,6 @@
+Changes - 25th December 2015
+----------------------------
+
+nemulator 3.5
+Added support for VRC7 expansion audio 
+Note: requires updated libraries from Microsoft (https://download.microsoft.com/download/9/3/F/93FCF1E7-E6A4-478B-96E7-D4B285925B00/vc_redist.x86.exe)

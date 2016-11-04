@@ -1,0 +1,48 @@
+Changes - 14th April 2002
+-------------------------
+
+ Version 2.0 final
+
+ - AUDIO, GUI: SERIOUS bug fixed in the sound setup: the soundcard information was
+   being incorrectly stored. This fixes some odd errors on audio initialization.
+ - GUI: Fixed a few typos.
+ - GUI: Removed the warning telling that the filtering mode is not supported when
+   running with 3D Hardware support
+ - GUI: The GUI was not using correctly the rocklist.dat file during the startup. Fixed.
+ - GUI: fixed a bug that was preventing the list of ROMs to show the last rom in some
+   cases.
+ - INPUT: Fixed a bug that was causing the joystick to stop working after a video mode
+   switch (during the emulation)
+ - INPUT: In some systems the keyboard was starting to beep after a few minutes of
+   continuous play. Bug is fixed.
+ - VIDEO: new multithreaded gfx engine: now the emulation is able to run at full speed
+   even if very slow videocards. The gfx engine will try to render the maximum number of
+   frames possible (60 fps is the maximum). This means auto frameskip support.
+ - VIDEO: added official video filtering support (MMX cpu required)
+ - VIDEO: 2D slow blit fixed
+ - VIDEO: SERIOUS bug fixed when switching video modes during the emulation. This fixes
+   random crashes when the emulation is stopped
+ - VIDEO: Many fixed bugs in the video filtering mode
+ - VIDEO: Fixed many bugs that was avoiding the full screen mode to resume after the
+   window is minimized
+ - VIDEO: The RockNES X help in-game text was moving incorrectly using
+   windowed and 2D mode.
+ - CORE: fixed some memory access violation bugs 
+ - CORE: sync (to maintain the emulator at 60 fps) greatly improved
+ - CORE: frames per second measurement improved
+ - CORE: Gamegenie support added
+ - CORE: In some systems after the RockNES X was closed the desktop was affected.
+ - CORE: command line support fixed
+ - CORE: .dat format updated
+ - EMU: based on the latest rocknes release.
+ - NETPLAY: added support to .zip filenames (even when the remote side has a .nes file)
+ - NETPLAY: fixed a bug that would cause the emulator to crash when the initialization fails
+   in the remote side
+ - NETPLAY: Added support to have a .zip file in one side and a .nes file in the other.
+ - NETPLAY: In some cases the player 1 would have to wait for a long time after stopping
+   the netplay mode. Fixed.
+ - NETPLAY: Fixed the loss of sync when switching the video mode during the emulation
+ - NETPLAY: Fixed the loss of sync after a remote save state loading
+ - NETPLAY: The temp dir (used to store a remote savestate) was not set correcly. This
+   could prevent non-admin users to use such feature under Windows 2000/XP.
+ - README: readme text greatly improved!

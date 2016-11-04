@@ -1,0 +1,18 @@
+Changes - 9th March 2016
+------------------------
+
+Version 1.08 Preview Build 1
+  [SMS] Added Sega Master System
+  [SMS] Added Sega and Code Masters Mappers
+  [SMS] Added CPU, VDP, Gate Array and PSG modules
+  [DMG] Fixed timer clock on register write
+  [DMG] Reworked DMG CPU core, 130% performance increase
+  [SFC] Fixed broken State functions
+  [SFC] Fixed Game Doctor 3 Mapper
+  [SFC] Added State information for NEC PD77C25
+  [SFC] Optimised NEC PD77C25 core
+  [ALL] Added Double-buffering for smoother refresh rates
+  [ALL] Added PAL/NTSC select to menu
+  [ALL] Added Zilog Z80 disassembler
+  [ALL] Added Motorola 68000 disassembler 
+  [ALL] Added ARM7TDMI disassembler

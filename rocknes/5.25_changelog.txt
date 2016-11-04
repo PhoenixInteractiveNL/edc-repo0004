@@ -1,0 +1,12 @@
+Changes - 22nd July 2016
+------------------------
+
+ What's new for version 5.25
+ ---------------------------
+ - Reworked APU sound output mixing, added a high-pass filter for true signed samples.
+ - Added an easy sound sample interpolation (more bass).
+ - Fixed an obscure bug restoring APU savestates.
+ - Fixed a few color styles by using a non-linear algorithm.
+ - Fixed NSF visualizer in scanlined modes.
+ - Other cosmetic changes and minor fixes.
+ - Documentation updated.

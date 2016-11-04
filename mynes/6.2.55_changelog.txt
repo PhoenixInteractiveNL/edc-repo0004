@@ -1,0 +1,12 @@
+Changes - 17th June 2015
+------------------------
+
+Version 6.2.55 
+Added: TheGamesDB.net integration, ability to search and download images and info from TGDB for each info tab and/or using "Detect TGB" new feature.
+Added: support for X Controllers (XInput, XBOX360 controllers)
+Added: Band-Limited Sound Buffer "Blip_Buffer" <http://www.slack.net/~ant/ > for sound playback downsampling.
+Added: auto synchronization method for sound playback, fixed the sound synchronization lose issue.
+Fixed: bug when attempting to show the boards list.
+Improved: sound playback, now it's more accurate and the emulation goes faster.
+Improved: image viewer (snapshots and covers) in the Launcher with nearest-neighbor interpolation.
+Improved: assigning and adding files for database entries optimized in the Launcher, now it's faster with compressed files.

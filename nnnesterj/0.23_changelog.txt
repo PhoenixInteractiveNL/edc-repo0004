@@ -1,0 +1,8 @@
+Changes - 21st December 2002
+----------------------------
+
+Ver 0.23
+
+Modify and extend the sound source is a little extended, modify, cheat script from was funny 16bit, 24bit, from the display position using the New2XSai during a full screen of 32bit was funny.
+	 · Fixed status bar is not displayed at the time of return from the full screen.
+	 · Kaillera of application name (and version number) separately.

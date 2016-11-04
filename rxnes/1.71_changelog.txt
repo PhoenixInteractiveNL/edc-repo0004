@@ -1,0 +1,45 @@
+Changes - 6th October 2016
+--------------------------
+
+  NEW VERSION CHANGES :
+  - FIXED : Smoothed the Auto-Camera dramatically. (I will make "Axis Invert" toggles soon.)
+  - Fixed : Camera staying in last average position when 0 sprites are on screen. (Recenters)
+  - Fixed : Rom Browser Up/Down jumps to FIRST rom starting with letter instead of LAST.
+  - ADDED : Hopefully cool and not annoying camera movement. (Without it, you don't really see 3D objects as 3D on a 2D screen).
+  - ADDED : "Box Boy" 3D Demo. (Was this in the last version?).
+  - Removed : SMB3 3D Demo Package.
+  - FIXED : Forgot to mention, I finally fixed the "Lingering Sprites Issue" where sprites stayed on screen
+  after they weren't supposed to. This was the major graphical error and it's fixed now.
+  - Added : Before you had the Left and Right Arrow Keys to select a ROM. Even tho holding "Shift" made it scroll faster, you can now use Up and Down Arrow to jump to the Next / Previous letter alphabetically.
+  - CHANGED : Multi-Tile Sprite Dumping Mode = Keypad "*" Key, Multi-Tile Background Dumping Mode = Keypad "/" Key. "Pause" key is just plain old pause again.
+  - Made the most used color on screen transparent, and set the world background to its color.
+  - Large Combined Replacement Backgrounds now make the original tiles they replace transparent underneath. (Was Requested on the Forum) If you dont want them to be clear, keep the original in the .png or paint them out or whatever suits you.
+  - Added : Black Shroud/Bezel around game screen area.
+  - DISABLED : Playback mode, ("P" Key). Needs to be reworked to fit recient changes, hardly worked anyway.
+  - NOT DISABLED : Recording. You can still record, you just can't play it back in this version.
+  - Added : 3D SMB3 Title Screen (Just a quickly made example, I'm sure ppl can do much better/unfinished.)
+	If you didn't know, holding down left and right mouse buttons at the same time, you can orbit the camera to see things from another angle.. (Otherwise whats the point in 3D Models?)
+  - Added : Now 3D Models can go "into/through" the original graphics away from the camera. Behind the pixels in Z-Depth, like theirs a hole in the flatness you can see further away through.
+  - Fixed : Various 3D Model Alignment values for Large Combined Background 3D Model replacements.
+	PLEASE USE THE DEMOMODEL FILES AS TEMPLATES WHEN MAKING YOUR 3D MODELS. (in Enhancements folder.)
+  - Fixed : Checks if all the tiles in each Large Combined Background exist on the screen before trying to find their location :P. (I noticed it was searching for them while there was no chance they were on screen) [Speed Improvement!]
+  - MAJOR UPDATE!!
+  - Fixed : If you even dumped a fair size "Combined Background" it could slow the game down perminatly there after until you manually
+	deleted the dump. I spent all last night and today completely recoding the Combined Background Tile Replacement. On my machine with 
+	the SMB3 Title Screen saying "HD" instead of "Super" I get blazingly fast frames per second. 
+	(I was getting a frame every second or 2 with the last version and the very same large tile.)
+  - Added : "Combined Backgrounds"!! - Same as combined sprites, just hit the "/" key on your Keyboard instead of "*".
+    You can hold down the left mouse button to select background tiles to dump as a Large Combined faster.
+  - Large Combined Sprites _AND BACKGROUNDS_ CAN be replaced with 3D Models in this version! Simply name the .obj the same as the .cfg and the .png.
+  - "Box Boy" now uses the DemoModel as an example of 3D Model .obj replacement.
+  - Added "Combined Sprites"!! - Press the "*" key on your keyboard. Click the sprites you want to be dumped/recognized/replaced as
+    ONE larger .png. When you click them, they will turn green to indicate they will be dumped. When you have all the little sprite tiles
+	selected that you want combined, Press "Spacebar"! A preview of the larger sprite you just dumped will be displayed in the center of
+	the screen until you click the mouse again. The Large Combined Texture will be dumped to that games "\~MyPackage-\" folder along with
+	a .cfg file. This new graphic RELIES on the .cfg so keep them together. Any editing in the cfg is unnessesary, however I guess you can 
+	edit the physical size of the graphic in the game by editing its Width / Height values in there.. 
+	Aside from that, you shouldn't be editing anything in the .cfg. You can Rename the .cfg and .png to whatever you like, but make certain
+	they match each other. You can increase the resolution of the .png up to 4096x4096 but that 1 graphic would probably not fit your monitor
+	resolution. While selecting tiles to dump as one, right clicking clears everything selected. 
+	Sorry I just got all this working smooth after 3 days of solid programming, so there is no example supplied. I hope forum mod lyonhrt 
+	can make up an example to be released in the next update. :) THX lyonhrt! 

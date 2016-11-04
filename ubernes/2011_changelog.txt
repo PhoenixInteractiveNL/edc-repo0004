@@ -1,0 +1,20 @@
+Changes - 19th June 2011
+------------------------
+
+UberNES 2011
+
+Added new cycle-accurate emulation core, allowing more timing-sensitive games like Battletoads to be played without any issues
+
+Added support for 15 more iNES mappers
+
+Added support for N106 and Sunsoft FME7 sound chips
+
+Improved support for 8 mappers including MMC3 and Konami VRCx
+
+Added light gun support
+
+Added Direct2D-based renderer which may perform better on Windows 7 machines then GDI and DirectDraw-based renderers
+
+Added bilinear interpolating graphics upcaler
+
+Improved quality of sound emulation 
