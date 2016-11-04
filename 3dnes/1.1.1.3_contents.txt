@@ -1,0 +1,55 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-07-26 21:24:20 ....A        58196     14578641  3dnes_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+2016-07-26 21:24:20 ....A        60453               3dnes_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+2016-09-23 02:26:26 ....A       133144               3dnes_Data\globalgamemanagers.assets
+2016-09-23 02:26:26 ....A       731472               3dnes_Data\resources.assets
+2016-09-23 02:26:28 ....A       302712               3dnes_Data\sharedassets0.assets
+2016-09-23 02:26:32 ....A      2764854               3dnes_Data\ScreenSelector.bmp
+2016-07-26 21:24:20 ....A         1605               3dnes_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
+2016-07-26 21:24:20 ....A        17258               3dnes_Data\Mono\etc\mono\1.0\machine.config
+2016-07-26 21:24:20 ....A        27625               3dnes_Data\Mono\etc\mono\2.0\machine.config
+2016-07-26 21:24:20 ....A        11686               3dnes_Data\Mono\etc\mono\2.0\web.config
+2016-09-23 02:25:44 ....A         9216               3dnes_Data\Managed\Assembly-CSharp-firstpass.dll
+2016-09-23 02:26:04 ....A      1253888               3dnes_Data\Managed\Assembly-CSharp.dll
+2016-09-14 20:44:44 ....A       150528               3dnes_Data\Plugins\InControlNative.dll
+2016-08-13 02:06:54 ....A       207872               3dnes_Data\Plugins\libzipw.dll
+2016-07-26 23:31:28 ....A      2114520               3dnes_Data\Mono\mono.dll
+2016-07-26 21:18:26 ....A       293376               3dnes_Data\Managed\Mono.Security.dll
+2016-07-26 21:18:26 ....A      2497024               3dnes_Data\Managed\mscorlib.dll
+2016-07-26 21:18:26 ....A       265728               3dnes_Data\Managed\System.Core.dll
+2016-07-26 21:18:26 ....A      1069056               3dnes_Data\Managed\System.dll
+2016-07-26 23:08:26 ....A         3072               3dnes_Data\Managed\UnityEngine.Analytics.dll
+2016-07-26 23:21:40 ....A      1112576               3dnes_Data\Managed\UnityEngine.dll
+2016-07-26 23:08:26 ....A       235008               3dnes_Data\Managed\UnityEngine.Networking.dll
+2016-07-26 23:08:24 ....A       221184               3dnes_Data\Managed\UnityEngine.UI.dll
+2016-09-14 20:45:54 ....A        61952               3dnes_Data\Plugins\XInputInterface32.dll
+2016-09-23 02:20:00 ....A      2214400               Manual.doc
+2016-09-23 02:26:32 ....A     17711616               3dnes.exe
+2016-09-23 02:26:30 ....A           17               3dnes_Data\app.info
+2016-07-26 21:24:20 ....A       311984               3dnes_Data\Mono\etc\mono\browscap.ini
+2016-09-22 14:18:12 ....A         1701               changes.log
+2016-07-26 21:24:20 ....A         2618               3dnes_Data\Mono\etc\mono\2.0\settings.map
+2016-07-26 23:21:40 ....A       386751               3dnes_Data\Managed\UnityEngine.dll.mdb
+2016-09-23 02:26:26 ....A     22382688               3dnes_Data\resources.assets.resS
+2016-09-23 02:26:28 ....A       925828               3dnes_Data\sharedassets0.assets.resS
+2016-07-26 21:24:20 ....A        25817               3dnes_Data\Mono\etc\mono\mconfig\config.xml
+2016-07-26 23:36:30 ....A      2106812               3dnes_Data\Managed\UnityEngine.xml
+2016-09-23 02:26:24 ....A        77340               3dnes_Data\globalgamemanagers
+2016-09-23 02:26:18 ....A       208828               3dnes_Data\level0
+2016-07-26 21:24:20 ....A         1691               3dnes_Data\Mono\etc\mono\config
+2016-07-26 22:03:28 ....A       839284               3dnes_Data\Resources\unity default resources
+2016-09-23 02:26:28 ....A       184144               3dnes_Data\Resources\unity_builtin_extra
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Mono\etc\mono\2.0
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Mono\etc\mono\2.0\Browsers
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Mono\etc
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Plugins
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Mono\etc\mono\mconfig
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Mono
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Managed
+2016-09-23 02:26:28 D....            0            0  3dnes_Data
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Mono\etc\mono
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Mono\etc\mono\1.0
+2016-09-23 02:26:28 D....            0            0  3dnes_Data\Resources
+------------------- ----- ------------ ------------  ------------------------
+2016-09-23 02:26:32           60985524     14578641  40 files, 11 folders
