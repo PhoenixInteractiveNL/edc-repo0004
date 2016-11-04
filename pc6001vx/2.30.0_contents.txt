@@ -1,0 +1,26 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-08-27 14:44:54 ....A           32      7945361  safemode.bat
+2016-08-27 14:44:52 ....A         1247               doc\markdown.css
+2016-08-27 14:44:52 ....A     20522496               PC6001VX.exe
+2016-08-27 14:44:52 ....A        50509               README.html
+2016-08-27 14:44:54 ....A        14997               doc\about.png
+2016-08-27 14:44:52 ....A        17467               doc\firstboot.png
+2016-08-27 14:44:54 ....A         8890               doc\keypanel.png
+2016-08-27 14:44:52 ....A        66269               doc\menu.png
+2016-08-27 14:44:52 ....A        36213               doc\monitormode.png
+2016-08-27 14:44:52 ....A        62161               doc\overview.png
+2016-08-27 14:44:52 ....A        19587               doc\romcrc.png
+2016-08-27 14:44:54 ....A        36998               doc\setting_basic.png
+2016-08-27 14:44:54 ....A        49123               doc\setting_color1.png
+2016-08-27 14:44:54 ....A        35943               doc\setting_color2.png
+2016-08-27 14:44:54 ....A        44773               doc\setting_file.png
+2016-08-27 14:44:54 ....A        67517               doc\setting_folder.png
+2016-08-27 14:44:54 ....A        22780               doc\setting_input.png
+2016-08-27 14:44:54 ....A        62789               doc\setting_other.png
+2016-08-27 14:44:54 ....A        54744               doc\setting_screen.png
+2016-08-27 14:44:54 ....A        50585               doc\setting_sound.png
+2016-08-27 14:44:54 ....A       196553               doc\tilt.png
+2016-08-27 14:44:54 D....            0            0  doc
+------------------- ----- ------------ ------------  ------------------------
+2016-08-27 14:44:54           21421673      7945361  21 files, 1 folders
