@@ -1,0 +1,17 @@
+Changes - 3rd April 2007
+------------------------
+
+v0.4 Daytonaaaaa
+This version includes the (still preliminary) emulation of the Fujitsu MB86234 DSP present in the original Model 2 and Model 2 A-CRX boards. This means that some of the games running in these boards are playable now.
+The emulation is still preliminary because it has been done by reverse engineering the complete instruction set of the DSP and there are still bugs. This has been possible thanks to the help of Olivier Galibert (that helped me starting writting the DSP disassembler some years ago) and Ernesto Corvi (that analyzed my disassemblies and compared against other games and the model1 HLE in mame).
+
+I'll list now the known problems and gliches in the games:
+
+Daytona USA games: when stopping the car, or starting a course from a stop (advanced and expert) the screen says REVERSE.
+Sega Rally: Automatic transmission doesn't work, only manual.
+Original Model 2 games have wrong colours in the 3D textures and wrong lighting.
+
+To play Daytona USA, when the network check screen appears, press F2 to enter test mode and in Game Settings set the game mode to Standalone.
+
+This package includes the single threaded and the multithreaded version. Use the multithreaded version in systems with more than a cpu, dual core, core duo, etc... 
+There are several fixes in the syncronization code that should reduce the crashes in the emulator.
