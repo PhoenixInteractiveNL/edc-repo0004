@@ -1,0 +1,17 @@
+Changes - 23rd June 2008
+------------------------
+
+v0.8
+- Rewritten the MultiPCM sound chip emulation. It fixes Original Model2 games sounds and music.
+- Fixed eye paremeters being read as unsigned by the display list parser, causing bad geometry
+in daytona 4 players attract and sega rally 2 players attract.
+- Fixed network board detection for sgt24h and overrev. Now you don't need to enable network to
+have them boot.
+- Adjusted daytona steering limits to the real machine limits (according to the service manual). It should have a more accurate handling now.
+- Added force feedback for car driving games. You need to enable it in the .ini using the 
+option EnableFF=1 in the Input section. You can tweak more force parameters in that section. Also some games only enable the force feedback if the cabinet type is set to Deluxe in the test mode.
+- Added XInput support. You can enable XInput support in the .ini in the Input section. XInput allows direct access to XBox360 compatible controllers for vibration (they don't support vibration through DirectInput). Keep in mind that the windows XInput libraries only support vibration force feedback so an XBox360 driving controller won't have working force effects.
+- Added optional meshed polygons for translucency (like the hardware does). Enable it with
+MeshTransparency=1 in the ini. This option requires a Pixel Shader 3 capable videocard.
+- Fixed HOTD rom loading that caused missing tilemap graphics (how to play, map on gameover).
+- Added preliminary savestates support. The sound engine state is not being saved yet. I've added this so I can ask for states to try to fix the invisible walls problem in daytona.

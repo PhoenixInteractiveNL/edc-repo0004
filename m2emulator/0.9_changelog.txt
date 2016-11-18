@@ -1,0 +1,47 @@
+Changes - 29th January 2009
+---------------------------
+
+v0.9
+Lots of changes in this version:
+- Fixed TGP emulation bugs and added missing opcodes. Virtua Fighter 2 and Virtua Cop 2 are now
+playable. There is still a bug with VF2 hair/body collisions, probably another TGP bug, but it's
+quite hard to find...
+- Fixed I960 bug that caused daytona invisible walls/holes in the road.
+- Fixed timer bug that caused missing hair in Fighting vipers, tails in sonic and slow cars in 
+Sega Rally (although they still don't work properly).
+- Added support for "return to neutral". Enable it with HoldGears=1 option in emulator.ini. This
+setting will cause the emu to return to neutral when no gear button is pressed.
+- Redone rasterizer color decoding and texture mapping. Now it works the same way the real hardware
+does, performing all the same table lookups and calculations, so color should be accurate now. The 
+color decoding is now done at pixel shader level so you'll need a PS 2.0 capable video card in order
+to run the emulator now.
+- Fixed white borders in some transparent textures.
+- Redone texture caching code. Improved dirty texture detection. Fixes wrong textures in some
+games when a new texture overlaps partially with an existing one.
+- Changed ManxTT sound roms to the Twin ones. The previous romset was using the Deluxe ones that
+have 2 sound boards. Fixes the "japanese speech when braking" bug :).Set the machine to Twin.
+- Added 2 mice support for shooting games. Enable it with RawInput=1 in emulator.ini. Read some
+other options there to tell the emu how to map a mouse to a player. When using RawInput the mouse
+will be locked to the emulator window. In order to switch to another window, either press Alt to
+bring the menu and unlock the mouse or use Alt-Tab to switch to another application.
+- Fixed Alt key not activating the window menu.
+- Fixed MB86235 bug when handling denormalized numbers that caused top skater and overrev lock the
+emu sometimes.
+- Fixed corrupt textures sometimes when loading a savestate
+- Fixed frameskipping bug that caused some data not being updated in the TGP memory when 
+frameskipping (daytona windows not updating windows after entering/leaving the tunnel)
+- Added an option to hide the crosshair in shooting games (DrawCross=0 in emulator.ini)
+- Fixed Daytona to the maxx rom loading that caused wrong and missing graphics.
+- Improved FM emulation support to the SCSP for some HOTD tunes requiring it.
+- Fixed various bugs in the new MultiPCM sound emulation, causing some wrong loops and sounds.
+- Fixed meshed transparencies size. Now they will scale to the selected resolution.
+- Fixed specular highlights calculation.
+- Added Daytona USA '93 edition and Daytona USA: GTX 2004.
+- Added Rail Chase 2
+- Added Virtua Cop 2
+- Added Virtua Fighter 2, Rev A, Rev B and 2.1
+- Added Sega Water Ski. The current sound rom dump seems to be bad so the game will run without
+sound. This game will start in Japan region mode. To change the region, enter Test menu (F2) and
+press the sequence up,up,down,down,service (f1),test (f2)
+- Added Indianapolis 500 Rev A
+- Changed romsets to match MAME as much as possible.
