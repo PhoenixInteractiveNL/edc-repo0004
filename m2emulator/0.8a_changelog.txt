@@ -1,7 +1,0 @@
-Changes - 24th June 2008
-------------------------
-
-v0.8a
-- Fixed missing trigger buttons in gun games
-- Fixed desert tank locked into test mode
-- Improved main cpu/sound cpu sync in Model2 Original games.

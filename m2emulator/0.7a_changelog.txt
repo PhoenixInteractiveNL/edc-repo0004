@@ -1,7 +1,0 @@
-Changes - 4th June 2008
------------------------
-
-v0.7a
-
-Fixed network code not fully working (I accidentally left a part disabled in the last build).
-Improved daytona video & sound sync
