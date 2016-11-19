@@ -1,0 +1,7 @@
+Changes - 3rd January 2008
+--------------------------
+
+v0.6
+So many changes that I can't remember...Lighting fixes, control fixes, sound fixes...
+ManxTT is working, but sound is broken.
+Merged some features from the cps3 emu (vsync, custom fullscreen res,...)

@@ -1,0 +1,9 @@
+Changes - 24th May 2007
+----------------------------
+
+v0.5
+This release fixes several playability bugs in Daytona USA (analog controls wraparound and windows disappearing when going to fullscreen) and adds a new playable game: Motor Raid.
+
+It also contains a modified color lookup table processing that improves the colors in the original model 2 games (daytona, vcop and dtank).
+
+The emulator now includes a nice icon and background image, thanks to jordigahan and Peabo for them.

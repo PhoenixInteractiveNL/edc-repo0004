@@ -1,0 +1,12 @@
+Changes - 3rd June 2008
+-----------------------
+
+v0.7
+More accurate emulation of some TGP by using the data tables from the mainboard. You'll need these table roms in Model2.zip or inside the game zip. Thanks to Peabo for the donation of a Daytona board that helped to understand how they worked. This has fixed most of the bugs in daytona usa (reverse and most invisble wall hits) and sega rally (automatic transmission).
+Improved color table decoding that gives more bright colors for some games.
+Improved SCSP timing. It should be more accurate and musics should not sound out of sync anymore. As a bonus feature I've left in a debug sound player that allows you to load a SSF (Saturn Sound Format) filefor playing. To use it, load a game using SCSP (model 2a,b or c) and enter test mode (so it doesn't send sound commands) then press LeftControl+F5 and choose the ssf file to play.
+Improved clipping. By moving to vertex/pixel shaders I've got rid of all the clipping issues that happened with ATI video cards and recent NVIDIA ones. Remember to remove set SoftwareVertexProcessing to 0. You'll need a pixel shader 1.1 and vertex shader 1.1 capable card. It's the lowest shader version so any video should work. As a side effect of this change, there is only a geometrizer now, so the Geometrizer opion in the ini file is not used.
+Fixed problems with textures ending in the lowest line of the texture sheet not being uploaded to direct3d (sega rally black background in 2nd stage and topskater missing floors).
+Added Wave Runner (Model 2C)
+Added support for direct3d automimpap generation (see emulator.ini AutoMip option)
+Added network emulation (see NETWORK section below)
