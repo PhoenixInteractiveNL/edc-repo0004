@@ -1,0 +1,485 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-11-11 00:00:50 ....A            9      2712364  mojo
+2004-11-26 11:49:12 ....A        83309               Data\Developer.chm
+2004-01-29 13:56:16 ....A           55               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\10x10.gif
+2004-01-29 13:56:16 ....A           60               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\15by15.gif
+2004-01-29 13:56:14 ....A           61               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\16x16.gif
+2004-01-29 13:56:50 ....A           43               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\1by1.gif
+2004-01-29 13:56:12 ....A           49               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\1x1.gif
+2004-01-29 13:56:16 ....A           49               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\2x2.gif
+2004-01-29 13:56:18 ....A           54               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\8by8.gif
+2004-01-29 13:56:12 ....A           54               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\8x8.gif
+2003-07-22 15:32:40 ....A          109               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\99_body_divider.gif
+2004-01-29 13:56:16 ....A           61               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\arrow.gif
+2002-06-24 15:50:00 ....A         8709               Docs\WEB\S3TC\badcompresszoom.gif
+2003-07-22 10:45:16 ....A         9689               Docs\WEB\DVDDisc\DVD Disc Specifications.files\banner.gif
+2003-07-22 10:45:18 ....A        10840               Docs\WEB\DVDDisc\DVD Disc Specifications.files\bca.gif
+2004-01-29 13:56:12 ....A           67               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\breaker-dotted2.gif
+2003-07-22 10:45:18 ....A          857               Docs\WEB\DVDDisc\DVD Disc Specifications.files\bulletcontents.gif
+2003-07-22 10:45:14 ....A          110               Docs\WEB\DVDDisc\DVD Disc Specifications.files\bulletnew.gif
+2003-07-22 10:45:18 ....A          112               Docs\WEB\DVDDisc\DVD Disc Specifications.files\bulletpages.gif
+2002-06-24 15:48:42 ....A        12474               Docs\WEB\S3TC\colourtable.gif
+2003-07-22 10:45:16 ....A         2702               Docs\WEB\DVDDisc\DVD Disc Specifications.files\disbanner2.gif
+2003-07-22 10:45:16 ....A         7694               Docs\WEB\DVDDisc\DVD Disc Specifications.files\dvdpic.gif
+2003-07-22 10:45:18 ....A        12742               Docs\WEB\DVDDisc\DVD Disc Specifications.files\dvdsector.gif
+2003-07-22 15:32:42 ....A         9129               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_01.gif
+2003-07-22 15:32:42 ....A         6058               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_02.gif
+2003-07-22 15:32:46 ....A        20438               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_05.gif
+2003-07-22 15:32:48 ....A        20653               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_06.gif
+2003-07-22 15:32:46 ....A         5135               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_07.gif
+2003-07-22 15:32:48 ....A         9488               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_08.gif
+2003-07-22 15:32:54 ....A        10154               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_09.gif
+2003-07-22 15:32:56 ....A        13200               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_10.gif
+2003-07-22 15:32:58 ....A        11002               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_11.gif
+2003-07-22 15:33:00 ....A        12616               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_12.gif
+2003-07-22 15:33:02 ....A        15189               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_13.gif
+2003-07-22 15:33:00 ....A        14849               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_14.gif
+2003-07-22 15:33:02 ....A        11418               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_15.gif
+2003-07-22 15:33:04 ....A        13436               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_16.gif
+2003-07-22 15:33:04 ....A         9648               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_17.gif
+2003-07-22 15:33:06 ....A         9825               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_18.gif
+2003-07-22 15:33:08 ....A        16557               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_19.gif
+2003-07-22 15:33:08 ....A        13603               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_20.gif
+2003-07-22 15:33:12 ....A        11894               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_21.gif
+2003-07-22 15:33:10 ....A         9943               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_22.gif
+2003-07-22 15:33:12 ....A         5903               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_23.gif
+2003-07-22 15:33:16 ....A        17194               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_24.gif
+2003-07-22 15:33:18 ....A        10493               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\fig_25.gif
+2002-06-24 15:35:58 ....A        21505               Docs\WEB\segatech.com\flipper datapath.gif
+2003-07-22 15:32:42 ....A         8778               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\gama2001logo2.gif
+2002-06-24 15:49:38 ....A        12429               Docs\WEB\S3TC\gnos3tc.gif
+2003-07-22 10:45:14 ....A         1052               Docs\WEB\DVDDisc\DVD Disc Specifications.files\go_button.gif
+2002-06-24 15:49:38 ....A        10432               Docs\WEB\S3TC\gs3tc.gif
+2004-01-29 13:56:20 ....A           84               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-a.gif
+2004-01-29 13:56:34 ....A           85               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-analog.gif
+2004-01-29 13:56:24 ....A           85               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-b.gif
+2004-01-29 13:56:28 ....A           83               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-c.gif
+2004-01-29 13:56:30 ....A           82               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-d.gif
+2004-01-29 13:56:48 ....A          104               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-lr.gif
+2004-01-29 13:56:36 ....A           84               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-x.gif
+2004-01-29 13:56:40 ....A           84               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-y.gif
+2004-01-29 13:56:44 ....A           83               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\let-z.gif
+2002-06-24 15:35:44 ....A        15322               Docs\WEB\segatech.com\motherboard datapath.gif
+2002-06-24 15:44:40 ....A         2204               Docs\WEB\S3TC\s3logo.gif
+2004-01-29 13:56:12 ....A           83               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\search-go.gif
+2004-01-29 13:56:16 ....A         5325               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\siteimage-bottom.gif
+2004-01-29 13:56:14 ....A         2381               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\siteimage-top.gif
+2004-01-29 13:56:10 ....A          718               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\sitelogo2.gif
+2004-01-29 13:56:18 ....A          416               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\title-controllerdetail.gif
+2004-01-29 13:56:12 ....A          206               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\topleft-angle5.gif
+2003-07-22 10:45:16 ....A           85               Docs\WEB\DVDDisc\DVD Disc Specifications.files\white_pixel.gif
+2004-01-29 13:56:50 ....A         3687               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\window-controller-bw.gif
+2004-01-29 13:56:46 ....A        75515               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\controller-w.jpeg
+2002-02-26 03:16:38 ....A        30070               Docs\WEB\images\controller.jpg
+2002-06-24 15:50:04 ....A        10981               Docs\WEB\S3TC\firenos3tc.jpg
+2002-06-24 15:49:44 ....A        11704               Docs\WEB\S3TC\fires3tc.jpg
+2002-06-24 15:35:44 ....A        18432               Docs\WEB\segatech.com\flipper_die.jpg
+2004-09-14 18:03:16 ....A       232191               Docs\WEB\images\g-dev.jpg
+2003-10-08 17:41:58 ....A         7162               Docs\WEB\images\gamecube-disk.jpg
+2002-06-24 15:35:22 ....A        11322               Docs\WEB\segatech.com\gamecube2_console_controller.jpg
+2002-06-24 15:35:42 ....A        20821               Docs\WEB\segatech.com\gamecube_motherboard_sm.jpg
+2002-02-26 03:17:32 ....A        33887               Docs\WEB\images\gcarticle1.jpg
+2002-02-26 03:17:44 ....A        29165               Docs\WEB\images\gcarticle3.jpg
+2002-06-24 15:37:32 ....A        14694               Docs\WEB\anandtech.com\gekko.jpg
+2003-12-05 15:09:02 ....A         9982               Docs\WEB\images\Image15.jpg
+2003-12-05 15:09:12 ....A         5274               Docs\WEB\images\Image16.jpg
+2003-12-05 15:09:22 ....A         6211               Docs\WEB\images\IPL\Image17.jpg
+2003-12-05 15:09:32 ....A        11539               Docs\WEB\images\IPL\Image18.jpg
+2003-12-05 15:09:56 ....A        12956               Docs\WEB\images\IPL\Image20.jpg
+2003-12-05 15:11:56 ....A        11836               Docs\WEB\images\IPL\Image4.jpg
+2003-12-05 15:12:14 ....A         6592               Docs\WEB\images\IPL\Image5.jpg
+2002-06-24 15:38:08 ....A        12694               Docs\WEB\anandtech.com\mosys.jpg
+2003-09-18 03:20:22 ....A       147156               Docs\WEB\images\motherboard.jpg
+2003-09-18 03:23:44 ....A       221850               Docs\WEB\images\motherboardback.jpg
+2002-06-24 15:49:52 ....A        13980               Docs\WEB\S3TC\nos3tcthumb.jpg
+2003-09-01 23:39:10 ....A        14279               Docs\WEB\images\panasonic-gamecube.jpg
+2002-06-24 15:52:54 ....A        28812               Docs\WEB\S3TC\rescompare.jpg
+2002-06-24 15:50:00 ....A        14169               Docs\WEB\S3TC\s3tcthumb.jpg
+2004-12-23 21:33:26 ....A        30301               Docs\HW\gcmem.png
+2004-03-05 02:43:38 ....A        10695               Docs\RE\szp.png
+2003-07-13 23:03:58 ....A       368254               Docs\WEB\images\bba.bmp
+2003-12-05 15:10:56 ....A       230454               Docs\WEB\images\IPL\Image3.bmp
+2003-12-05 15:06:22 ....A       230454               Docs\WEB\images\IPL\iplmenu.bmp
+2003-12-05 15:06:46 ....A       230454               Docs\WEB\images\IPL\iplmenu_j.bmp
+2003-09-24 12:07:18 ....A         7454               PAD\RES\padArrows.bmp
+2003-09-24 12:07:18 ....A        25554               PAD\RES\padButtons.bmp
+2003-08-14 20:38:38 ....A         6934               PAD\RES\padStart.bmp
+2003-08-14 20:38:38 ....A        16926               PAD\RES\padStick.bmp
+2003-08-14 20:38:38 ....A         8790               PAD\RES\padSubStick.bmp
+2003-08-14 20:38:38 ....A         7966               PAD\RES\padTriggerL.bmp
+2003-08-14 20:38:38 ....A         7966               PAD\RES\padTriggerR.bmp
+2004-09-22 01:07:50 ....A          766               RES\Dolwin.ico
+2004-12-02 23:28:18 ....A         3262               RES\GCN.ico
+2004-09-23 12:33:28 ....A          766               RES\GCN_sm.ico
+2004-11-24 19:44:26 ....A         5694               RES\moreicon1.ico
+2004-11-24 19:44:52 ....A         2238               RES\moreicon2.ico
+2004-11-24 19:45:26 ....A         2238               RES\moreicon3.ico
+2004-12-02 23:32:22 ....A         2238               RES\moreicon4.ico
+2004-11-30 02:20:26 ....A         2910               RES\moreicon5.ico
+2004-11-30 02:21:24 ....A         5234               RES\moreicon6.ico
+2004-01-17 01:14:20 ....A        12862               PAD\RES\PAD.ico
+2005-01-10 22:19:52 ....A           64               Data\sram.bin
+2004-12-16 23:47:22 ....A         3820               SRC\Hardware\AI.h
+2004-12-06 17:52:14 ....A         1388               SRC\Hardware\AR.h
+2004-11-20 10:21:20 ....A           31               SRC\HighLevel\AX.h
+2004-11-05 15:23:38 ....A          247               SRC\Emulator\Recompiler\a_branch.h
+2004-11-05 15:23:24 ....A          164               SRC\Emulator\Recompiler\a_compare.h
+2004-11-05 15:23:00 ....A          378               SRC\Emulator\Recompiler\a_condition.h
+2004-11-05 15:22:28 ....A         2765               SRC\Emulator\Recompiler\a_floatingpoint.h
+2004-11-05 15:20:54 ....A          707               SRC\Emulator\Recompiler\a_fploadstore.h
+2004-11-05 15:20:14 ....A         1512               SRC\Emulator\Recompiler\a_integer.h
+2004-11-05 15:19:02 ....A         1567               SRC\Emulator\Recompiler\a_loadstore.h
+2004-11-05 15:12:52 ....A         1156               SRC\Emulator\Recompiler\a_logical.h
+2004-11-05 15:17:36 ....A         2429               SRC\Emulator\Recompiler\a_pairedsingle.h
+2004-11-05 15:16:12 ....A          348               SRC\Emulator\Recompiler\a_psloadstore.h
+2004-11-05 15:16:12 ....A          128               SRC\Emulator\Recompiler\a_rotate.h
+2004-11-05 15:16:12 ....A          330               SRC\Emulator\Recompiler\a_shift.h
+2004-10-27 03:59:14 ....A         1162               SRC\Emulator\Recompiler\a_system.h
+2004-10-09 01:36:16 ....A          459               SRC\Emulator\Recompiler\a_tables.h
+2004-09-29 14:59:52 ....A           28               SRC\HighLevel\Bootrom.h
+2004-12-06 17:56:36 ....A         1242               SRC\Emulator\Debugger\break.h
+2004-12-14 21:22:00 ....A         1346               SRC\Emulator\Debugger\cmd.h
+2004-12-06 17:56:36 ....A         1118               SRC\Emulator\Compare.h
+2004-10-07 00:28:18 ....A          664               DVD\SRC\Configure.h
+2004-10-07 00:29:16 ....A         1516               PAD\SRC\Configure.h
+2004-12-09 01:30:10 ....A         1733               SRC\Emulator\Debugger\console.h
+2004-12-09 03:07:16 ....A         3699               SRC\Hardware\CP.h
+2004-10-05 23:36:54 ....A           95               SRC\Emulator\Debugger\cpuview.h
+2004-10-09 01:36:16 ....A          199               SRC\Emulator\Interpreter\c_branch.h
+2004-10-09 01:36:16 ....A          132               SRC\Emulator\Interpreter\c_compare.h
+2004-10-11 01:05:56 ....A          306               SRC\Emulator\Interpreter\c_condition.h
+2004-10-11 01:30:04 ....A         2245               SRC\Emulator\Interpreter\c_floatingpoint.h
+2004-10-11 00:20:32 ....A          571               SRC\Emulator\Interpreter\c_fploadstore.h
+2004-11-12 17:50:38 ....A         1723               SRC\Emulator\Interpreter\c_integer.h
+2004-10-20 00:02:42 ....A         1263               SRC\Emulator\Interpreter\c_loadstore.h
+2004-10-11 16:35:24 ....A          932               SRC\Emulator\Interpreter\c_logical.h
+2004-10-22 04:06:44 ....A         1997               SRC\Emulator\Interpreter\c_pairedsingle.h
+2004-10-12 17:54:36 ....A          284               SRC\Emulator\Interpreter\c_psloadstore.h
+2004-10-10 21:21:42 ....A          104               SRC\Emulator\Interpreter\c_rotate.h
+2004-10-10 18:47:20 ....A          266               SRC\Emulator\Interpreter\c_shift.h
+2004-11-22 02:29:56 ....A          972               SRC\Emulator\Interpreter\c_system.h
+2004-10-09 01:36:16 ....A          441               SRC\Emulator\Interpreter\c_tables.h
+2004-10-12 15:22:58 ....A         1132               SRC\Emulator\Debugger.h
+2004-12-16 23:14:18 ....A         3491               SRC\Hardware\DI.h
+2004-12-06 17:56:36 ....A          489               SRC\Emulator\DisasmPPC.h
+2004-09-29 00:58:48 ....A           46               SRC\Emulator\DisasmX86.h
+2004-10-18 02:37:46 ....A         1294               SRC\Hardware\DI_OLD.h
+2005-01-10 21:36:30 ....A         1905               SRC\dolphin.h
+2004-12-06 17:52:14 ....A         6777               SRC\Hardware\DolwinPluginSpecs.h
+2004-12-06 17:56:36 ....A         7456               SRC\Hardware\DolwinPluginSpecs2.h
+2004-12-06 17:52:14 ....A         2794               SRC\HighLevel\DSP.h
+2004-11-06 01:13:06 ....A         1922               DVD\SRC\DVD.h
+2004-12-06 17:56:36 ....A         1625               SRC\HighLevel\DVDBanner.h
+2004-10-19 23:14:24 ....A          361               SRC\Hardware\EFB.h
+2004-12-06 17:56:36 ....A         4596               SRC\Hardware\EI.h
+2004-12-06 17:52:14 ....A         1130               SRC\Emulator\Emulator.h
+2004-09-22 23:38:56 ....A         1224               DVD\SRC\filesystem.h
+2004-08-18 21:08:50 ....A          174               DVD\SRC\GCM.h
+2004-09-29 20:04:04 ....A          166               SRC\Hardware\GDI.h
+2004-12-09 17:40:44 ....A        10496               SRC\Emulator\Gekko.h
+2004-08-18 21:08:50 ....A          246               DVD\SRC\GMP.h
+2004-12-23 16:13:12 ....A          663               SRC\Hardware\Hardware.h
+2004-12-22 20:08:12 ....A          863               SRC\HighLevel\HighLevel.h
+2004-12-22 21:26:18 ....A         1514               SRC\HighLevel\HLE.h
+2004-12-28 16:52:20 ....A        18217               HtmlHelp\HtmlHelp.h
+2004-10-30 22:03:08 ....A         1137               SRC\Hardware\HW.h
+2004-12-08 23:46:58 ....A           72               SRC\Emulator\Debugger\input.h
+2004-10-09 00:25:12 ....A          631               SRC\Emulator\Interpreter.h
+2004-12-06 17:56:36 ....A         5545               SRC\Emulator\Loader.h
+2004-12-10 17:47:08 ....A          314               SRC\HighLevel\MapLoader.h
+2004-11-04 19:50:00 ....A          601               SRC\HighLevel\MapMaker.h
+2004-12-10 17:34:50 ....A           40               SRC\HighLevel\MapSaver.h
+2004-12-06 17:52:14 ....A         5129               SRC\Hardware\MC.h
+2004-12-06 17:52:14 ....A         5069               SRC\Emulator\Memory.h
+2004-10-10 14:34:32 ....A           59               SRC\Emulator\Debugger\memview.h
+2004-10-18 18:43:44 ....A           19               SRC\Hardware\MI.h
+2004-12-09 20:45:22 ....A         6341               SRC\HighLevel\Mtx.h
+2004-09-28 03:30:42 ....A        43123               RES\nobanner.h
+2004-12-22 20:08:12 ....A         2628               SRC\HighLevel\OS.h
+2004-12-06 17:56:36 ....A         5831               SRC\Emulator\Debugger\output.h
+2004-10-21 19:22:04 ....A         1094               PAD\SRC\PAD.h
+2004-12-12 01:36:54 ....A          346               SRC\HighLevel\PAD.h
+2004-12-06 17:56:36 ....A         1982               SRC\Hardware\PI.h
+2004-10-30 13:09:36 ....A         1628               SRC\Hardware\Plugins.h
+2004-11-13 03:12:34 ....A         1078               SRC\Emulator\Recompiler.h
+2004-10-10 14:25:16 ....A           67               SRC\Emulator\Debugger\regs.h
+2004-02-03 13:43:16 ....A         2414               PAD\RES\resource.h
+2004-09-23 01:08:20 ....A          407               DVD\RES\resource.h
+2005-01-10 21:09:26 ....A        10059               RES\resource.h
+2004-12-06 17:52:14 ....A         1451               SRC\Emulator\SaveLoad.h
+2004-12-12 01:55:52 ....A         4506               SRC\Hardware\SI.h
+2004-11-10 20:31:38 ....A         2633               SRC\Hardware\SI_OLD.h
+2004-10-18 01:29:18 ....A       532518               RES\SjisTable.h
+2004-12-22 21:27:14 ....A          741               SRC\HighLevel\Stdc.h
+2004-12-10 18:02:28 ....A         1268               SRC\HighLevel\Symbols.h
+2005-01-10 21:46:44 ....A          791               SRC\UserMenu\User.h
+2005-01-10 21:46:30 ....A           39               SRC\UserMenu\UserAbout.h
+2004-12-22 20:54:48 ....A         7162               SRC\UserMenu\UserConfig.h
+2004-12-23 01:37:42 ....A          629               SRC\UserMenu\UserFile.h
+2004-10-18 01:49:08 ....A           38               SRC\UserMenu\UserFonts.h
+2004-11-25 21:45:32 ....A         1514               SRC\UserMenu\UserMain.h
+2004-11-17 17:09:42 ....A           95               SRC\UserMenu\UserMemcards.h
+2004-10-07 01:03:30 ....A          169               SRC\UserMenu\UserPlugins.h
+2004-11-04 22:11:16 ....A          359               SRC\UserMenu\UserProfiler.h
+2004-12-23 15:41:48 ....A         3404               SRC\UserMenu\UserSelector.h
+2004-12-23 01:34:46 ....A          166               SRC\UserMenu\UserSettings.h
+2004-12-09 02:25:02 ....A         1713               SRC\UserMenu\UserWindow.h
+2004-12-14 23:07:52 ....A         5746               SRC\Hardware\VI.h
+2003-09-22 02:09:16 ....A         1578               Docs\RE\vistrucs.h
+2004-12-23 16:05:40 ....A          696               SRC\Hardware\VI_OLD.h
+2004-11-13 02:10:48 ....A         8153               SRC\Emulator\Recompiler\X86.h
+1998-07-08 10:55:28 ....A         8089               ZLIB\zconf.h
+1998-07-09 09:06:56 ....A        41791               ZLIB\zlib.h
+2003-08-31 20:38:24 ....A         1701               Docs\RE\exi.c
+2005-01-09 19:34:56 ....A         9247               SRC\Hardware\AI.cpp
+2005-01-09 19:34:56 ....A         7095               SRC\Hardware\AR.cpp
+2004-11-20 10:49:34 ....A         2663               SRC\HighLevel\AX.cpp
+2004-11-13 21:10:44 ....A         6752               SRC\Emulator\Recompiler\a_branch.cpp
+2004-11-13 01:26:36 ....A         4005               SRC\Emulator\Recompiler\a_compare.cpp
+2004-11-05 15:30:04 ....A          536               SRC\Emulator\Recompiler\a_integer.cpp
+2004-10-10 15:04:22 ....A         6376               SRC\Emulator\Recompiler\a_loadstore.cpp
+2004-11-05 15:31:08 ....A          380               SRC\Emulator\Recompiler\a_logical.cpp
+2004-09-06 23:15:06 ....A           53               SRC\Emulator\Recompiler\a_psloadstore.cpp
+2004-11-13 03:04:10 ....A         2008               SRC\Emulator\Recompiler\a_rotate.cpp
+2004-11-05 15:26:56 ....A          643               SRC\Emulator\Recompiler\a_system.cpp
+2004-11-13 21:10:08 ....A         4672               SRC\Emulator\Recompiler\a_tables.cpp
+2004-12-22 20:45:34 ....A         9314               SRC\HighLevel\Bootrom.cpp
+2004-10-12 00:59:14 ....A         5148               SRC\Emulator\Debugger\break.cpp
+2004-12-14 21:22:00 ....A        38404               SRC\Emulator\Debugger\cmd.cpp
+2004-11-30 03:37:08 ....A         5538               SRC\Emulator\Compare.cpp
+2004-10-21 19:20:46 ....A        38837               PAD\SRC\Configure.cpp
+2004-11-06 01:10:54 ....A          479               DVD\SRC\Configure.cpp
+2004-12-09 01:32:08 ....A         5332               SRC\Emulator\Debugger\console.cpp
+2005-01-09 19:35:38 ....A        17045               SRC\Hardware\CP.cpp
+2004-10-13 03:14:04 ....A         6582               SRC\Emulator\Debugger\cpuview.cpp
+2004-10-29 21:57:54 ....A         3522               SRC\Emulator\Interpreter\c_branch.cpp
+2004-10-19 22:11:32 ....A         2688               SRC\Emulator\Interpreter\c_compare.cpp
+2004-10-11 16:54:50 ....A         2728               SRC\Emulator\Interpreter\c_condition.cpp
+2004-11-24 02:07:52 ....A        13219               SRC\Emulator\Interpreter\c_floatingpoint.cpp
+2004-11-24 01:46:36 ....A         6033               SRC\Emulator\Interpreter\c_fploadstore.cpp
+2005-01-05 22:37:54 ....A        10909               SRC\Emulator\Interpreter\c_integer.cpp
+2004-10-20 00:02:42 ....A         8364               SRC\Emulator\Interpreter\c_loadstore.cpp
+2004-10-11 16:53:50 ....A         3513               SRC\Emulator\Interpreter\c_logical.cpp
+2004-11-24 01:51:28 ....A         8256               SRC\Emulator\Interpreter\c_pairedsingle.cpp
+2004-11-24 01:53:30 ....A        13316               SRC\Emulator\Interpreter\c_psloadstore.cpp
+2004-10-19 05:05:50 ....A         1491               SRC\Emulator\Interpreter\c_rotate.cpp
+2004-10-10 18:47:20 ....A         4336               SRC\Emulator\Interpreter\c_shift.cpp
+2004-12-01 13:58:16 ....A         6247               SRC\Emulator\Interpreter\c_system.cpp
+2004-12-28 16:45:50 ....A        12061               SRC\Emulator\Interpreter\c_tables.cpp
+2004-10-21 23:49:24 ....A          950               SRC\Emulator\Debugger.cpp
+2005-01-09 19:34:56 ....A        13931               SRC\Hardware\DI.cpp
+2004-10-19 05:34:58 ....A        51755               SRC\Emulator\DisasmPPC.cpp
+2004-12-06 18:33:14 ....A        21430               SRC\Emulator\DisasmX86.cpp
+2004-10-23 04:40:22 ....A         8685               SRC\Hardware\DI_OLD.cpp
+2004-12-20 04:51:12 ....A        14367               SRC\HighLevel\DSP.cpp
+2004-10-21 19:12:34 ....A         3825               DVD\SRC\DVD.cpp
+2004-09-23 12:18:16 ....A         1434               SRC\HighLevel\DVDBanner.cpp
+2004-10-18 02:20:32 ....A          424               SRC\Hardware\EFB.cpp
+2005-01-09 19:34:56 ....A        21954               SRC\Hardware\EI.cpp
+2004-12-03 20:16:04 ....A         2008               SRC\Emulator\Emulator.cpp
+2004-11-10 19:35:18 ....A         4135               DVD\SRC\filesystem.cpp
+2004-08-19 04:09:46 ....A         2193               DVD\SRC\GCM.cpp
+2005-01-11 01:29:42 ....A         8802               GCMCMPR\SRC\gcmcmpr.cpp
+2005-01-09 19:34:56 ....A         2500               SRC\Hardware\GDI.cpp
+2004-12-14 21:37:34 ....A         4343               SRC\Emulator\Gekko.cpp
+2004-10-23 20:22:40 ....A         4291               DVD\SRC\GMP.cpp
+2005-01-08 20:00:00 ....A         6796               SRC\HighLevel\HLE.cpp
+2005-01-09 19:27:58 ....A         8580               SRC\Hardware\HW.cpp
+2004-12-08 23:46:58 ....A        21142               SRC\Emulator\Debugger\input.cpp
+2004-11-24 02:34:26 ....A         4079               SRC\Emulator\Interpreter.cpp
+2004-11-20 10:16:24 ....A           49               SRC\HighLevel\JAudio.cpp
+2004-12-22 20:50:44 ....A        20611               SRC\Emulator\Loader.cpp
+2004-12-10 18:15:24 ....A         5468               SRC\HighLevel\MapLoader.cpp
+2004-12-27 18:59:46 ....A         7892               SRC\HighLevel\MapMaker.cpp
+2004-12-10 20:24:18 ....A         2545               SRC\HighLevel\MapSaver.cpp
+2005-01-09 19:34:56 ....A        26213               SRC\Hardware\MC.cpp
+2004-11-22 03:51:30 ....A        22701               SRC\Emulator\Memory.cpp
+2004-10-12 00:18:58 ....A        14955               SRC\Emulator\Debugger\memview.cpp
+2005-01-09 19:34:56 ....A          547               SRC\Hardware\MI.cpp
+2004-12-28 18:12:18 ....A        13972               SRC\HighLevel\Mtx.cpp
+2004-12-28 16:45:42 ....A        10399               SRC\HighLevel\OS.cpp
+2004-12-09 01:00:28 ....A        11987               SRC\Emulator\Debugger\output.cpp
+2004-10-28 16:01:50 ....A         7709               PAD\SRC\PAD.cpp
+2004-12-12 01:58:56 ....A         1372               SRC\HighLevel\PAD.cpp
+2005-01-09 19:34:56 ....A         4547               SRC\Hardware\PI.cpp
+2005-01-09 19:37:20 ....A         9863               SRC\Hardware\Plugins.cpp
+2004-11-13 20:46:00 ....A         6847               SRC\Emulator\Recompiler.cpp
+2004-11-12 22:25:00 ....A         6839               SRC\Emulator\Debugger\regs.cpp
+2004-10-12 15:33:34 ....A          244               SRC\Emulator\SaveLoad.cpp
+2005-01-09 19:34:56 ....A        16517               SRC\Hardware\SI.cpp
+2004-11-10 23:34:52 ....A        15445               SRC\Hardware\SI_OLD.cpp
+2004-12-28 17:05:56 ....A         4434               SRC\HighLevel\Stdc.cpp
+2004-12-22 20:52:10 ....A        18668               SRC\HighLevel\Symbols.cpp
+2005-01-11 01:27:02 ....A         2418               SRC\UserMenu\UserAbout.cpp
+2004-12-15 00:24:48 ....A         4877               SRC\UserMenu\UserConfig.cpp
+2004-12-27 19:13:30 ....A         7667               SRC\UserMenu\UserFile.cpp
+2004-10-18 03:45:10 ....A         6896               SRC\UserMenu\UserFonts.cpp
+2004-12-29 15:52:24 ....A         7593               SRC\UserMenu\UserMain.cpp
+2004-11-17 17:26:28 ....A        13184               SRC\UserMenu\UserMemcards.cpp
+2004-11-09 23:49:32 ....A        30092               SRC\UserMenu\UserPlugins.cpp
+2004-12-09 02:37:50 ....A         6530               SRC\UserMenu\UserProfiler.cpp
+2004-12-23 16:00:08 ....A        35498               SRC\UserMenu\UserSelector.cpp
+2004-12-28 16:53:44 ....A        30574               SRC\UserMenu\UserSettings.cpp
+2005-01-10 21:50:00 ....A        39180               SRC\UserMenu\UserWindow.cpp
+2005-01-09 19:34:56 ....A        12893               SRC\Hardware\VI.cpp
+2004-12-23 16:07:56 ....A         9683               SRC\Hardware\VI_OLD.cpp
+2005-01-11 01:31:50 ....A        29960               RES\Dolwin.rc
+2004-09-23 01:12:04 ....A         3008               DVD\RES\DVD.rc
+2004-10-21 19:31:20 ....A         8038               PAD\RES\PAD.rc
+2004-10-21 18:42:16 ....A          461               DVD\RES\DVD.def
+2004-10-21 19:22:04 ....A          361               PAD\RES\PAD.def
+2003-09-22 02:28:42 ....A        18319               Docs\RE\vi.asm
+2004-09-22 02:32:46 ....A          706               RES\Dolwin.manifest
+2005-01-10 22:00:40 ....A        21835               Dolwin.vcproj
+2005-01-10 22:00:40 ....A         5549               DVD\DVD.vcproj
+2005-01-10 22:00:40 ....A         3788               GCMCMPR\GCMCMPR.vcproj
+2005-01-10 22:00:40 ....A         5703               PAD\PAD.vcproj
+2005-01-10 22:00:40 ....A         2448               Dolwin.sln
+2005-01-10 21:54:46 ....A        21570               Dolwin.dsp
+2004-10-23 20:18:54 ....A         5308               DVD\DVD.dsp
+2004-11-05 00:35:36 ....A         4529               GCMCMPR\GCMCMPR.dsp
+2004-10-22 02:17:36 ....A         5476               PAD\PAD.dsp
+2005-01-10 21:59:56 ....A         1358               Dolwin.dsw
+2005-01-10 22:41:38 ....A         1040               Dolwin_Cleanup.bat
+2005-01-10 22:40:42 ....A          444               VCNET_Remove_All.bat
+2002-06-25 01:57:04 ....A         3149               Docs\WEB\anandtech.com\1T-SRAM.htm
+2004-03-23 23:10:00 ....A       160618               Docs\WEB\Patents\6,489,963 - GX API.htm
+2004-03-23 23:05:54 ....A       134169               Docs\WEB\Patents\6,571,328 - Scalar Vector.htm
+2004-03-23 23:04:54 ....A       118876               Docs\WEB\Patents\6,580,430 - Fog.htm
+2004-03-23 23:03:58 ....A       130821               Docs\WEB\Patents\6,606,689 - Pre-cachgin audio data.htm
+2004-03-23 23:03:02 ....A       311645               Docs\WEB\Patents\6,609,977 - External Interfaces.htm
+2004-03-23 23:02:00 ....A       258919               Docs\WEB\Patents\6,618,048 - Z-clamping.htm
+2004-03-23 23:01:08 ....A       274200               Docs\WEB\Patents\6,636,214 - Hidden surface processing.htm
+2004-03-23 22:59:52 ....A       175281               Docs\WEB\Patents\6,639,595 - Lighting.htm
+2004-03-23 22:59:08 ....A       101058               Docs\WEB\Patents\6,643,744 - Pref audio data.htm
+2004-03-23 22:58:24 ....A       124531               Docs\WEB\Patents\6,664,958 - Z-Texturing.htm
+2004-03-23 23:22:00 ....A       276287               Docs\WEB\Patents\6,707,458 - Indirect.htm
+2004-03-28 20:10:58 ....A         6080               Docs\HW\ais.htm
+2003-07-22 10:45:50 ....A        27810               Docs\WEB\DVDDisc\DVD Disc Specifications.htm
+2003-07-22 15:34:46 ....A        71438               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.htm
+2002-06-25 01:06:50 ....A         6168               Docs\WEB\anandtech.com\Gekko.htm
+2002-06-24 19:24:12 ....A        43850               Docs\WEB\segatech.com\index.htm
+2003-07-22 12:50:18 ....A        31038               Docs\WEB\PPCAsm\March 95 - Balance of Power Introducing PowerPC Assembly Language.htm
+2004-01-29 13:57:18 ....A        44477               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.htm
+2004-01-31 02:09:28 ....A        34238               Docs\HW\si.htm
+2004-12-23 22:08:56 ....A        16860               Docs\HW\vi.htm
+2003-07-23 22:40:40 ....A         5894               Docs\WEB\S3TC\2.html
+2003-07-23 22:41:18 ....A         4986               Docs\WEB\S3TC\3.html
+2003-07-23 22:41:54 ....A         3619               Docs\WEB\S3TC\4.html
+2003-07-23 22:42:26 ....A         6349               Docs\WEB\S3TC\5.html
+2003-07-23 22:43:16 ....A         4492               Docs\WEB\S3TC\6.html
+2003-07-23 22:40:16 ....A         3309               Docs\WEB\S3TC\index.html
+2003-07-22 15:34:46 ....A          775               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\features.css
+2003-07-22 10:45:50 ....A         5416               Docs\WEB\DVDDisc\DVD Disc Specifications.files\normal.css
+2003-07-22 15:32:36 ....A         5656               Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files\focused_ads.js
+2004-10-23 01:33:56 ....A         1266               Docs\HW\acronyms.txt
+2004-04-23 15:54:02 ....A         4352               Docs\RE\ai.txt
+2004-03-22 00:28:24 ....A        12570               Docs\RE\ar.txt
+2004-04-23 18:28:06 ....A         6723               Docs\RE\axout.txt
+2004-12-11 23:55:30 ....A          486               Docs\RE\bb2.txt
+2004-11-24 05:05:06 ....A         9967               Docs\RE\bs2.txt
+2004-12-28 23:15:04 ....A        22038               Docs\EMU\changes.txt
+2004-12-23 21:51:40 ....A         1314               Docs\HW\cmpr.txt
+2004-01-04 12:00:00 ....A         4556               Docs\RE\context.txt
+2004-08-14 23:22:34 ....A         1724               Docs\HW\cp.txt
+2004-12-14 14:06:36 ....A          564               Docs\RE\cubedoom.txt
+2005-01-10 22:46:22 ....A         5328               Docs\Dolwin_Quick_Start.txt
+2003-10-09 17:00:28 ....A         4334               Docs\RE\dsp.txt
+2004-12-11 20:48:40 ....A        12692               Docs\HW\dsp_info.txt
+2004-04-23 21:53:18 ....A        11046               Docs\RE\dsp_task.txt
+2005-01-10 23:08:30 ....A         4895               Docs\RE\dvdfs.txt
+2004-01-04 12:32:16 ....A          500               Docs\RE\except.txt
+2004-08-16 13:50:20 ....A         7802               Docs\HW\fifo.txt
+2004-11-23 20:30:48 ....A          888               Docs\RE\games.txt
+2004-11-02 10:56:20 ....A           35               Docs\WEB\gc-all-games-list.txt
+2004-12-02 19:13:12 ....A         7449               Docs\HW\gcspecs.txt
+2004-03-05 14:26:52 ....A        16427               Docs\RE\gxfifo.txt
+2004-03-07 16:26:18 ....A         1567               Docs\RE\gxstruct.txt
+2004-03-20 17:05:30 ....A         2771               Docs\RE\lomem.txt
+2004-10-18 18:41:44 ....A         2309               Docs\HW\mi.txt
+2005-01-10 23:19:16 ....A           63               Docs\WEB\MotorolaManuals.txt
+2004-10-13 02:01:42 ....A         4283               Docs\HW\opcodes.txt
+2004-04-23 13:00:08 ....A         4236               Docs\RE\osaud.txt
+2005-01-10 23:12:26 ....A        10054               Docs\RE\osexi.txt
+2003-09-10 13:04:12 ....A         2046               Docs\RE\osexiad16.txt
+2004-08-15 23:34:12 ....A        19115               Docs\RE\osint.txt
+2003-08-31 18:04:02 ....A         4102               Docs\RE\osmemory.txt
+2003-12-13 15:55:38 ....A         1217               Docs\RE\ossemaphore.txt
+2004-10-09 01:27:40 ....A         1717               Docs\RE\pong.txt
+2004-09-30 19:05:28 ....A         8908               Docs\HW\ps.txt
+2004-11-14 23:33:26 ....A          690               PAD\Readme.txt
+2005-01-09 14:54:00 ....A          934               DVD\Readme.txt
+2005-01-10 22:48:14 ....A           33               Plugins\Readme.txt
+2004-03-07 16:39:04 ....A          642               Docs\RE\scissor.txt
+2004-09-24 17:08:58 ....A         3446               Docs\EMU\style.txt
+2005-01-11 00:53:04 ....A         4779               Docs\RE\szp.txt
+2004-10-23 20:58:12 ....A         5962               Docs\RE\thread.txt
+2004-12-11 20:40:12 ....A         4046               Docs\RE\timestuff.txt
+2005-01-10 23:03:16 ....A         5364               Docs\EMU\TIPS.TXT
+2005-01-10 22:28:08 ....A         2209               Docs\EMU\todo.txt
+2004-02-19 21:14:36 ....A          328               Docs\RE\wpar.txt
+2004-08-16 02:21:14 ....A         8433               Docs\RE\zelda.txt
+2005-01-10 21:06:04 ....A        32088               Data\Games.ini
+2001-07-05 22:10:34 ..HSA         9728               Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files\Thumbs.db
+2001-04-11 14:40:34 ....A        34904               HtmlHelp\Htmlhelp.Lib
+1998-10-21 18:52:12 ....A        76468               ZLIB\zlibstat.lib
+2005-01-10 22:19:30 ....A         4165               Dolwin.cww
+2004-12-27 19:29:08 ....A        61549               Data\makemap.dat
+2003-07-11 22:38:42 ....A        79996               pong.dol
+2004-10-14 17:39:12 ....A       775892               Data\GZLEC8.map
+2005-01-10 22:19:30 ....A       121436               Dolwin.mcp
+2004-10-14 01:56:54 ....A           96               Data\fire.patch
+2004-12-09 13:31:24 ....A          122               Data\default.s
+2004-12-09 13:31:06 ....A            9               Data\test.s
+2004-03-28 17:09:00 ....A         6733               Data\Arial 16.szp
+2004-03-28 17:10:08 ....A       143863               Data\Lucida 16.szp
+2004-05-09 17:44:56 ....A           85               Docs\WEB\Dolwin.url
+2004-09-29 15:32:28 ....A            0            0  SRC\Emulator\Recompiler\a_condition.cpp
+2004-08-19 23:35:26 ....A            0            0  SRC\Emulator\Recompiler\a_floatingpoint.cpp
+2004-08-19 23:37:34 ....A            0            0  SRC\Emulator\Recompiler\a_fploadstore.cpp
+2004-09-06 23:14:50 ....A            0            0  SRC\Emulator\Recompiler\a_pairedsingle.cpp
+2004-08-19 23:34:42 ....A            0            0  SRC\Emulator\Recompiler\a_shift.cpp
+2004-11-20 10:13:32 ....A            0            0  SRC\HighLevel\JAudio.h
+2016-11-02 15:12:19 D....            0            0  ZLIB
+2016-11-02 15:12:19 D....            0            0  SRC\UserMenu
+2016-11-02 15:12:19 D....            0            0  SRC\HighLevel
+2016-11-02 15:12:18 D....            0            0  SRC\Hardware
+2016-11-02 15:12:18 D....            0            0  SRC\Emulator\Recompiler
+2016-11-02 15:12:18 D....            0            0  SRC\Emulator\Interpreter
+2016-11-02 15:12:18 D....            0            0  SRC\Emulator\Debugger
+2016-11-02 15:12:18 D....            0            0  SRC\Emulator
+2016-11-02 15:12:19 D....            0            0  SRC
+2016-11-02 15:12:18 D....            0            0  RES
+2016-11-02 15:12:18 D....            0            0  Plugins
+2016-11-02 15:12:18 D....            0            0  PAD\SRC
+2016-11-02 15:12:18 D....            0            0  PAD\RES
+2016-11-02 15:12:18 D....            0            0  PAD
+2016-11-02 15:12:18 D....            0            0  HtmlHelp
+2016-11-02 15:12:18 D....            0            0  GCMCMPR\SRC
+2016-11-02 15:12:18 D....            0            0  GCMCMPR
+2016-11-02 15:12:18 D....            0            0  DVD\SRC
+2016-11-02 15:12:18 D....            0            0  DVD\RES
+2016-11-02 15:12:18 D....            0            0  DVD
+2016-11-02 15:12:18 D....            0            0  Docs\WEB\segatech.com
+2016-11-02 15:12:18 D....            0            0  Docs\WEB\S3TC
+2016-11-02 15:12:18 D....            0            0  Docs\WEB\PPCAsm\March 95 - Balance of Power Introducing PowerPC Assembly Language.files
+2016-11-02 15:12:18 D....            0            0  Docs\WEB\PPCAsm
+2016-11-02 15:12:18 D....            0            0  Docs\WEB\Patents
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\images\IPL
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\images
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\Gamasutra\Gamasutra - Features - Shader Integration Merging Shading Technologies on the Nintendo Gamecube  printer friendly.files
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\Gamasutra
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\DVDDisc\DVD Disc Specifications.files
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\DVDDisc
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\Controller\Nintendo's GameCube Controller - Detailed Breakdown.files
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\Controller
+2016-11-02 15:12:17 D....            0            0  Docs\WEB\anandtech.com
+2016-11-02 15:12:18 D....            0            0  Docs\WEB
+2016-11-02 15:12:17 D....            0            0  Docs\RE
+2016-11-02 15:12:17 D....            0            0  Docs\HW
+2016-11-02 15:12:17 D....            0            0  Docs\EMU
+2016-11-02 15:12:17 D....            0            0  Docs
+2016-11-02 15:12:17 D....            0            0  Data
+------------------- ----- ------------ ------------  ------------------------
+2016-11-02 15:12:19            8607070      2712364  441 files, 40 folders
