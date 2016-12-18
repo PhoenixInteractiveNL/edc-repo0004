@@ -1,0 +1,97 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-09-21 22:56:46 ....A        18332      1022667  COPYING
+2001-09-27 01:13:52 ....A         8304               sound\ab_alarm1.wav
+2001-09-27 01:13:52 ....A         8294               sound\ab_alarm2.wav
+2001-09-27 01:13:52 ....A         8592               sound\ab_alarm3.wav
+2001-09-27 01:13:52 ....A         8142               sound\ab_alarm4.wav
+2001-09-27 01:13:52 ....A        23860               sound\ab_enemy.wav
+2001-09-27 01:13:52 ....A        73536               sound\ab_fire.wav
+2001-09-27 01:13:52 ....A        80200               sound\ab_ship.wav
+2002-03-23 23:16:16 ....A        63756               sound\bl_shot.wav
+2000-10-09 22:15:14 ....A         8882               sound\cliff_correct.wav
+2000-10-09 22:15:14 ....A        22218               sound\cliff_startup.wav
+2000-10-09 22:15:14 ....A        13450               sound\cliff_wrong.wav
+2000-09-25 05:55:32 ....A        13098               sound\dl_accept.wav
+2000-09-25 05:55:32 ....A        18730               sound\dl_buzz.wav
+2000-09-25 05:55:32 ....A        35386               sound\dl_credit.wav
+2002-03-21 00:34:18 ....A        88244               sound\esh_beep.wav
+2001-09-27 02:01:30 ....A         9176               sound\gr_alarm1.wav
+2001-09-27 02:01:30 ....A         9114               sound\gr_alarm2.wav
+2001-09-27 02:01:30 ....A         9028               sound\gr_alarm3.wav
+2001-09-27 02:01:30 ....A         9114               sound\gr_alarm4.wav
+2001-09-27 02:01:30 ....A        23886               sound\gr_attack.wav
+2001-09-27 02:01:30 ....A       117458               sound\gr_cannon.wav
+2001-09-27 02:01:30 ....A        48556               sound\gr_fire.wav
+2001-09-27 02:01:30 ....A       272942               sound\gr_mineon.wav
+2000-09-25 05:55:32 ....A       162338               sound\saveme.wav
+2001-09-28 22:49:06 ....A        11796               sound\sda_success_hi.wav
+2001-09-28 22:49:06 ....A        11822               sound\sda_success_lo.wav
+2001-09-25 01:46:04 ....A        11796               sound\sdq-short-success-hi.wav
+2001-09-25 01:46:10 ....A        11822               sound\sdq-short-success-low.wav
+2001-09-25 01:45:24 ....A        97064               sound\sd_coin.wav
+2001-09-25 01:45:40 ....A        15214               sound\sd_fail.wav
+2001-09-25 01:45:50 ....A        11782               sound\sd_succeed.wav
+2001-09-28 22:05:36 ....A         5992               images\ace.jpg
+2001-09-28 22:05:36 ....A         2690               images\astron.jpg
+2001-09-28 22:05:36 ....A         5439               images\badlands.jpg
+2001-10-31 19:27:54 ....A         3228               images\bega.jpg
+2001-09-28 22:05:36 ....A         4885               images\cliff.jpg
+2001-09-28 22:05:36 ....A         7266               images\cobra.jpg
+2001-09-28 22:05:36 ....A         4239               images\esh.jpg
+2001-09-28 22:05:36 ....A         4052               images\galaxy.jpg
+2002-03-04 21:39:48 ....A         3762               images\gpworld.jpg
+2001-09-28 22:05:36 ....A         5253               images\gtg.jpg
+2001-09-28 22:05:36 ....A         4904               images\lair.jpg
+2003-03-21 17:16:08 ....A         8646               images\logo.jpg
+2001-09-28 22:05:36 ....A         5318               images\lt1.jpg
+2001-09-28 22:05:36 ....A         5461               images\lt2.jpg
+2002-04-16 19:35:26 ....A         3096               images\sae.jpg
+2001-09-28 22:05:36 ....A         4199               images\superdon.jpg
+2001-09-28 22:05:36 ....A         7406               images\thayers.jpg
+2000-09-26 02:00:22 ....A        59958               pics\ConsoleFont.bmp
+2001-06-14 21:25:08 ....A         6456               pics\credits.bmp
+2001-09-10 21:51:52 ....A       230456               pics\gamenowook.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led0.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led1.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led10.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led11.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led12.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led13.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led14.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led15.bmp
+2002-04-16 19:35:26 ....A         6414               pics\led16.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led2.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led3.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led4.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led5.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led6.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led7.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led8.bmp
+2000-09-26 02:00:22 ....A         6416               pics\led9.bmp
+2001-06-14 19:55:00 ....A         4056               pics\lives.bmp
+2003-03-30 12:01:12 ....A         5358               pics\overlayleds.bmp
+2001-06-14 21:59:38 ....A        12456               pics\player1.bmp
+2001-06-14 21:40:42 ....A        12456               pics\player2.bmp
+2000-09-26 03:40:12 ....A       230456               pics\saveme.bmp
+2003-03-31 22:14:56 ....A          527               roms\readme.txt
+2003-03-31 22:15:36 ....A          250               framefile\readme.txt
+2005-05-05 18:23:02 ....A          473               readme.txt
+2003-03-31 18:20:50 ....A        61390               DaphneLoaderInfo.ini
+2005-05-05 18:17:22 ....A       438272       445984  daphne.exe
+2003-03-31 22:00:24 ....A       184320               DaphneLoader.exe
+2001-12-31 15:59:40 ....A        49152               ogg.dll
+2005-04-30 22:02:50 ....A        49664               par-io.dll
+2002-10-31 18:58:16 ....A       225280               SDL.dll
+2002-05-20 11:12:50 ....A       258048               SDL_mixer.dll
+2003-05-11 14:03:14 ....A        77824               vldp2.dll
+2001-12-31 15:59:46 ....A       102400               vorbis.dll
+2001-12-31 15:59:56 ....A        28672               vorbisfile.dll
+2002-03-13 16:46:46 ....A        53248               zlib.dll
+2016-12-18 18:50:40 D...A            0            0  sound
+2016-12-18 18:50:40 D...A            0            0  roms
+2016-12-18 18:50:40 D...A            0            0  pics
+2016-12-18 18:50:40 D...A            0            0  images
+2016-12-18 18:50:40 D...A            0            0  framefile
+------------------- ----- ------------ ------------  ------------------------
+2016-12-18 18:50:40            3612010      1468651  88 files, 5 folders

@@ -1,0 +1,90 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-03-31 16:15:04 ....A         5681       295434  Src\Model3\53C810.h
+2011-03-31 16:15:04 ....A         2994               Src\Model3\93C46.h
+2011-03-31 15:50:46 ....A         4665               Src\BlockFile.h
+2011-03-31 16:15:04 ....A         2185               Src\Model3\Bus.h
+2011-03-31 15:50:46 ....A         3469               Src\Games.h
+2011-01-31 08:17:26 ....A       809329               Src\Pkgs\glew.h
+2011-04-03 11:15:04 ....A        61840               Src\Pkgs\glxew.h
+2011-03-31 15:50:46 ....A         5925               Src\INIFile.h
+2011-03-29 18:05:04 ....A         6837               Src\Pkgs\ioapi.h
+2011-03-31 16:15:04 ....A         3571               Src\Model3\IRQ.h
+2011-03-31 16:15:04 ....A         9995               Src\Model3\Model3.h
+2011-03-31 16:15:04 ....A         4928               Src\Model3\MPC10x.h
+2011-03-31 16:15:04 ....A         5698               Src\Model3\PCI.h
+2011-03-31 15:59:14 ....A        13735               Src\CPU\PowerPC\ppc.h
+2011-03-31 15:56:32 ....A         2117               Src\CPU\PowerPC\PPCDisasm.h
+2011-03-31 15:56:16 ....A         5213               Src\CPU\PowerPC\ppc_ops.h
+2011-03-31 16:15:04 ....A        11717               Src\Model3\Real3D.h
+2011-03-31 16:28:14 ....A         5488               Src\Graphics\Render.h
+2011-04-02 12:05:36 ....A         6023               Src\Graphics\Render2D.h
+2011-04-02 12:05:58 ....A        13683               Src\Graphics\Render3D.h
+2011-03-31 15:50:46 ....A         4024               Src\ROMLoad.h
+2011-03-31 16:15:06 ....A         2068               Src\Model3\RTC72421.h
+2011-04-01 12:57:24 ....A          307               Src\OSD\SDL\SDLMain_tmpl.h
+2011-04-02 12:06:20 ....A         2510               Src\Graphics\Shader.h
+2011-03-31 16:28:16 ....A         4554               Src\Graphics\Shaders2D.h
+2011-03-31 16:28:16 ....A        19431               Src\Graphics\Shaders3D.h
+2011-04-03 11:23:24 ....A         5026               Src\Supermodel.h
+2011-03-31 16:15:06 ....A         4629               Src\Model3\TileGen.h
+2011-03-31 16:31:58 ....A         1418               Src\OSD\SDL\Types.h
+2011-03-29 18:05:02 ....A        16358               Src\Pkgs\unzip.h
+2011-01-31 08:17:26 ....A        56528               Src\Pkgs\wglew.h
+2011-04-03 11:18:02 ....A       772230               Src\Pkgs\glew.c
+2011-03-29 18:05:04 ....A         7651               Src\Pkgs\ioapi.c
+2011-03-31 15:58:48 ....A         8094               Src\CPU\PowerPC\ppc603.c
+2011-04-01 12:51:48 ....A        44702               Src\CPU\PowerPC\ppc_ops.c
+2011-03-29 18:05:02 ....A        71122               Src\Pkgs\unzip.c
+2011-03-31 16:15:06 ....A        14998               Src\Model3\53C810.cpp
+2011-03-31 16:15:04 ....A         7916               Src\Model3\53C810Disasm.cpp
+2011-03-31 16:15:04 ....A         7226               Src\Model3\93C46.cpp
+2011-03-31 15:48:58 ....A         5815               Src\BlockFile.cpp
+2011-03-31 16:28:46 ....A         2219               Src\Graphics\Error.cpp
+2011-03-31 15:50:46 ....A        50922               Src\Games.cpp
+2011-03-31 15:50:46 ....A        14664               Src\INIFile.cpp
+2011-03-31 16:15:04 ....A         3323               Src\Model3\IRQ.cpp
+2011-04-02 15:01:46 ....A        57451               Src\OSD\SDL\Main.cpp
+2011-03-31 16:09:40 ....A        63221               Src\Model3\Model3.cpp
+2011-03-31 16:28:14 ....A        29374               Src\Graphics\Models.cpp
+2011-03-31 16:11:16 ....A        11004               Src\Model3\MPC10x.cpp
+2011-03-31 16:15:04 ....A         4416               Src\Model3\PCI.cpp
+2011-03-31 15:52:28 ....A        29005               Src\CPU\PowerPC\ppc.cpp
+2011-03-31 15:56:28 ....A        52646               Src\CPU\PowerPC\PPCDisasm.cpp
+2011-04-02 14:37:48 ....A        25661               Src\Model3\Real3D.cpp
+2011-04-02 12:09:14 ....A        28161               Src\Graphics\Render2D.cpp
+2011-03-31 16:28:14 ....A        45090               Src\Graphics\Render3D.cpp
+2011-03-31 15:50:46 ....A         9270               Src\ROMLoad.cpp
+2011-03-31 16:15:04 ....A         3102               Src\Model3\RTC72421.cpp
+2011-04-02 12:08:38 ....A         5781               Src\Graphics\Shader.cpp
+2011-03-31 16:14:52 ....A         5281               Src\Model3\TileGen.cpp
+2011-03-15 23:45:46 ....A           22               Saves\DIR.txt
+2011-03-23 14:57:36 ....A           28               Config\DIR.txt
+2011-03-25 15:24:26 ....A           20               NVRAM\DIR.txt
+2011-04-02 14:36:26 ....A          145               Src\Graphics\Shaders\DIR.txt
+2011-03-31 20:10:30 ....A        36899               LICENSE.txt
+2011-04-03 11:27:46 ....A        18369               README.txt
+2011-04-02 14:32:54 ....A         3795               Makefiles\Makefile.SDL.OSX.GCC
+2011-04-02 14:34:10 ....A         3736               Makefiles\Makefile.SDL.UNIX.GCC
+2011-04-02 14:36:42 ....A         7475               Src\Graphics\Shaders\Fragment.glsl
+2011-03-31 16:28:14 ....A         1263               Src\Graphics\Shaders\Fragment2D.glsl
+2011-04-02 14:26:10 ....A         7729               Src\Graphics\Shaders\Fragment_NoSpotlight.glsl
+2011-03-31 16:28:16 ....A         5272               Src\Graphics\Shaders\Vertex.glsl
+2011-03-31 16:28:16 ....A         1028               Src\Graphics\Shaders\Vertex2D.glsl
+2011-04-01 12:57:24 ....A        11252               Src\OSD\SDL\SDLMain_tmpl.m
+2011-04-03 11:18:58 ....A         4560               Makefiles\Makefile.SDL.Win32.MSVC
+2016-12-18 19:21:19 D....            0            0  Src\Pkgs
+2016-12-18 19:21:19 D....            0            0  Src\OSD\SDL
+2016-12-18 19:21:19 D....            0            0  Src\OSD
+2016-12-18 19:21:19 D....            0            0  Src\Model3
+2016-12-18 19:21:19 D....            0            0  Src\Graphics\Shaders
+2016-12-18 19:21:19 D....            0            0  Src\Graphics
+2016-12-18 19:21:19 D....            0            0  Src\CPU\PowerPC
+2016-12-18 19:21:19 D....            0            0  Src\CPU
+2016-12-18 19:21:19 D....            0            0  Src
+2016-12-18 19:21:19 D....            0            0  Saves
+2016-12-18 19:21:19 D....            0            0  NVRAM
+2016-12-18 19:21:19 D....            0            0  Makefiles
+2016-12-18 19:21:19 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-12-18 19:21:19            2583884       295434  73 files, 13 folders

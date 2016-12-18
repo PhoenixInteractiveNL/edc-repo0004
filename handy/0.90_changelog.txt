@@ -1,0 +1,7 @@
+V0.90 Highlights (14/06/2002)
+-----------------------------
+* ZIP file support added
+* LSS snapshots no longer contain Cart/Rom data (LSS3 format)
+* Backwards compatibility with LSS2 added
+* Rendering subsystem rewritten & VBL/HBL timing fixed (Hi-Colour demos)
+* Fixed bug whereby Window could be restored in an offscreen position
