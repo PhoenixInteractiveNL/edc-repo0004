@@ -1,0 +1,2 @@
+0.73c:
+Fixed bizarre loss of keyboard input when LST window was open

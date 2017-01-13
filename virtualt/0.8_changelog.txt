@@ -1,0 +1,20 @@
+===================
+v0.8  May 11 2006
+===================
+
+1.  Added the beginnings of an Integrated Development Environment.  The IDE included a project
+    manager that supports "Tree" browsing of source files and a project settings dialog for
+    specifying assember and linker options.  Also has a multi-window edit capability using a
+    very simple text editor.  The editor will be expanded in a future release and will also
+    include features for source level debugging, such as display of breakpoints and current
+    execution location.
+
+2.  Added an 8085 assembler, but no linker.  The assembler gernerates ELF format .obj output 
+    files for use with the linker to be released in a later version.  The assembler is 
+    basically useless without the assembler, but is included in the project.
+
+3.  Added the beginnings of the Help system, although no real help info available.
+
+4.  Maybe other bug fixes but I have forgotten because I am writing this 1 year after release.
+
+

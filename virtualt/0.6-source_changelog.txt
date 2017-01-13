@@ -1,0 +1,18 @@
+===================
+v0.6  April 17 2006
+===================
+
+1.  Added CPU Registers window to the Tools menu.  This window allows viewing / modifying of
+    8085 CPU registers in addition to simple stop/step/run operations.  It is not intended as
+    a full blown debugger, but rather as a tool to be used along with a debugger to be added
+    later.
+
+2.  Completed ReMem emulation support.  VirtualT emulates rev 4 of the ReMem firmware.  All 
+    features of ReMem are emulated inclulding Rampac support.  See the ReMem documentation for
+    operation of the ReMem emulation.
+
+3.  Added Load and Save operations to the Memory Editor Window. 
+
+4.  Added MSPLAN to the T200 ROM and support for running option ROMs from T200 emulation mode.
+
+5.  Changed the name of this file from readme.txt to release.txt.

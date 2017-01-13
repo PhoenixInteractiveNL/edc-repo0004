@@ -1,0 +1,48 @@
+======================
+v1.0  February 10 2008
+======================
+
+1.  Fixed ReMem emulation in both Normal and MMU modes.  Memory mapping now consistent with
+    an actual ReMem.  Emulation supports only the latest ReMem FW version (64, 65, 66).  In 
+    MMU mode, both sector access and direct memory access work properly.  Also fixed some bugs
+    with the the Rampac emulation.
+
+2.  Added configuration page for ReMem Map display and setup.
+
+3.  Added support for M10 Emulation.
+
+4.  Added breakpoint capability to CPURegs window.  Up to 4 breakpoints can be specified and
+    enabled or disabled.
+
+5.  Added Remote control interface via sockets.  The socket interface is enabled via a command
+    line switch to specify the socket port, such as "virtualt -p 20000".  The protocol is
+    simple text command and response with async text messages sent for breakpoint and otional
+    screen output messages.  See Help for full details.
+
+6.  Added serial I/O support under Linux.  The current implementation has a few "hard coded"
+    port names in the port list, but allows the user to specify an "Other Host Port" name to
+    specify the serial device.
+
+7.  Modified the main emulatin loop so it uses fewer CPU cycles.  Previous versions consumed
+    up to 100% CPU cycles causing heat issues and reduced battery life on laptops.  Added
+    new Speed menu selections to allow finer setting of emulation speed vs. CPU utilization.
+
+8.  Fixed a bug with the emulation of interrupts and with the extended opcode DSUB flags.
+
+9.  Added a vt_client project / application to communicate with VirtualT socket interface 
+    using a very simple command line interface.
+
+10. Added a "Cold Boot" option to the Emulation menu.
+
+11. Added content to the Help system.
+
+12. Transitioned the Windows development environment to Visual Studio 2005.  The project files
+    are no longer compatible with Visual Studio 6.
+
+13. Added a feature to patch the ROM on load to show VirtualT version in the MENU. This can be
+    disabled in the "Memory Options" menu.
+    
+14. Added auto detection and creation of missing emulation directories.  For new installations,
+    all emulation directories will be created and ROM images copied from the ROMs directory.
+    
+15. Patched all ROM images with Y2K fix.

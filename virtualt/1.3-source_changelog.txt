@@ -1,0 +1,43 @@
+=======================
+v1.3  September 24 2008
+=======================
+
+1.  Fixed a bug with the Remem Overrides Rampac checkbox where it wouldn't properly override
+    the Rampac operations.
+
+2.  Fixed a bug when changing from Rampac Only to ReMem + Rampac memory mode where the Rampac
+    RAM file was not being saved properly.
+
+3.  Fixed issue while loading .BA files from the "Load from HD" feature.  During the relocation
+    of the "unsaved BASIC program", .DO and .CO files could potentially be corrupted due to
+    an error in memory pointer calculations.
+
+4.  Added features to both the "CPU Registers" and the socket interface debugger to allow
+    stepping over function call (CALL, CZ, CNZ, etc.) and RST statements.  Performing
+    multiple "step over" operations currently does not properly break at any defined breakpoints.
+
+5.  Added a feature to both the "CPU Registers" and socket interface debuggers to enable /
+    disable debugging if ISRs (Interrupt Service Routines).  If the ISR debugging is disabled,
+    the debugger will not stop / halt in the middle of an ISR, and performing single step or
+    step over functions will not "step into" an ISR.  The ISR will complete and the single 
+    step function will return control after the RET, RZ, etc. instruction has executed.  Also
+    added a shortcut key for single stepping ("s") in the socket interface.
+
+6.  Fixed a bug with Tandy 200 serial port TX_EMPTY signal handling that caused high-speed
+    transfers to overwrite data prior to being sent to the serial port.
+
+7.  Fixed an issue with printer initialization when opening the "Peripherals" window that could
+    cause it to crash the program sometimes.
+
+8.  Fixed a race condition with socket port creation vs. socket interface initialization that
+    would frequently cause the socket creation to fail under Windows. 
+
+9.  Fixed error displaying COM port list from the COM Port Setup tab under the "Host Port"
+    selection.  The list was incorrectly displaying multiple COM ports as a single entry.
+
+10. Added support for setting the time in the clock chip for all models.  Also added a tab on
+    the "Peripheral Setup" window for configuring the clock operation.  Emulated "time" can
+    now be different than the host's system time.
+
+11. Fixed the "Peripheral Setup" Ok button so it doesn't improperly give an error message that
+    the COM port could not be opened, or rather, re-opened.

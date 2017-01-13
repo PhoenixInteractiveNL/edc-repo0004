@@ -1,0 +1,349 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2000-08-09 13:33:54 .R..A       151452      1942718  ML\dasmx\dasmx120.zip
+1998-01-26 17:27:42 ....A          979               docs\manual\back.gif
+1999-02-27 23:05:54 ....A         1030               docs\manual\basback3.gif
+2004-08-29 17:01:44 ....A        10114               docs\tandy\Breakout.gif
+2004-08-29 16:57:00 ....A         8185               docs\tandy\Checkers.gif
+2004-08-29 16:57:00 ....A         6756               docs\tandy\Checkers1.gif
+1997-03-28 19:05:50 ....A         4491               docs\manual\colorbar.gif
+2004-08-29 17:01:44 ....A         3410               docs\tandy\Eggs.gif
+2001-03-09 09:09:40 ....A         3918               docs\manual\figure01.gif
+2001-03-09 09:10:18 ....A         7381               docs\manual\figure02.gif
+2001-03-09 09:12:02 ....A         4923               docs\manual\figure03.gif
+2001-03-09 09:13:14 ....A         4162               docs\manual\figure05.gif
+2001-03-09 09:14:22 ....A         8056               docs\manual\figure06.gif
+2001-03-09 09:15:00 ....A         9193               docs\manual\figure07.gif
+2001-03-09 09:15:32 ....A        10088               docs\manual\figure09.gif
+2001-03-09 09:16:06 ....A         3758               docs\manual\figure11.gif
+2001-03-09 09:16:30 ....A         2080               docs\manual\figure12.gif
+2001-03-09 09:16:58 ....A         4445               docs\manual\figure13.gif
+2001-03-09 09:18:16 ....A         5650               docs\manual\figure15.gif
+2001-03-09 09:19:18 ....A         4936               docs\manual\figure16.gif
+2001-03-09 09:19:56 ....A         3287               docs\manual\figure17.gif
+2001-03-09 09:21:28 ....A         9362               docs\manual\figure18.gif
+2001-03-09 09:22:44 ....A        10214               docs\manual\figure19.gif
+2001-03-25 14:27:54 ....A         2574               docs\manual\figure20.gif
+2001-03-09 09:24:32 ....A         8646               docs\manual\figure21.gif
+2001-03-09 09:25:04 ....A         3475               docs\manual\figure22.gif
+2001-03-09 09:25:24 ....A         3576               docs\manual\figure23.gif
+1996-06-30 18:59:06 ....A         1022               docs\manual\home.gif
+2004-08-29 17:01:44 ....A         7452               docs\tandy\Horse.gif
+2004-08-29 17:01:44 ....A         2775               docs\tandy\Lander.gif
+2004-08-29 17:00:46 ....A         5827               docs\tandy\Minicalc.gif
+1996-06-30 18:59:06 ....A          981               docs\manual\next.gif
+2004-08-29 14:32:16 ....A         9367               docs\tandy\Pinball.gif
+2004-08-29 14:32:16 ....A         4174               docs\tandy\Pinball1.gif
+2004-08-29 17:01:44 ....A         3551               docs\tandy\Pong.gif
+2004-08-29 17:00:48 ....A         7422               docs\tandy\Spiral1.gif
+2004-08-29 17:00:48 ....A         5394               docs\tandy\Spiral2.gif
+2004-08-29 17:00:48 ....A         8120               docs\tandy\Spiral3.gif
+1996-06-30 18:59:06 ....A          980               docs\manual\toc.gif
+2004-08-29 16:56:58 ....A        88358               docs\tandy\Checkers.jpg
+2004-08-29 17:01:44 ....A        70688               docs\tandy\Games.jpg
+2004-08-29 17:00:46 ....A        87161               docs\tandy\Math.jpg
+2008-02-03 12:22:04 ....A        62608               cassette\charles_pelosi\Joystick\mc-10 joystick.jpg
+2004-08-29 14:32:16 ....A        73246               docs\tandy\Pinball.jpg
+2001-03-18 19:06:54 ....A        53950               docs\manual\refcover.jpg
+2008-03-17 19:31:42 ....A         8192               rom\Alice.bin
+2004-09-19 16:42:56 ....A         8192               rom\Hackedmc10.bin
+2004-09-12 19:55:16 ....A          768               rom\match_chr.bin
+2004-09-12 05:00:04 ....A         2048               rom\match_chrx.bin
+1999-06-01 02:19:26 ....A         8192               rom\MC10.BIN
+2004-09-12 20:00:14 ....A          768               rom\mess_ntscround_chr.bin
+2004-09-12 20:03:28 ....A          768               rom\mess_ntscsquare_chr.bin
+2004-09-12 04:19:04 ....A         4096               rom\necpc_chrx.bin
+2001-03-04 03:38:26 ....A         4096               rom\nectrek_chrx.bin
+1998-02-28 10:48:32 ....A          405               ML\tasm31\MOTO.H
+2004-09-25 20:24:34 ....A           29               ML\tasm31\goasm.bat
+2001-03-25 15:41:40 ....A         5920               docs\manual\appa.htm
+2001-03-25 15:54:16 ....A         4824               docs\manual\appb.htm
+2001-03-25 17:58:50 ....A        31341               docs\manual\appc.htm
+2004-09-05 20:35:52 ....A        10888               docs\manual\appd.htm
+2004-09-05 20:36:22 ....A         6289               docs\manual\appe.htm
+2001-03-26 17:46:18 ....A        16101               docs\manual\appf.htm
+2001-03-19 18:08:04 ....A         6511               docs\manual\chap01.htm
+2001-03-19 18:06:22 ....A        13113               docs\manual\chap02.htm
+2004-09-05 20:36:42 ....A         4803               docs\manual\chap03.htm
+2004-09-05 20:37:06 ....A        25186               docs\manual\chap04.htm
+2004-09-05 20:37:34 ....A         8991               docs\manual\chap05.htm
+2004-09-05 20:37:52 ....A        13613               docs\manual\chap06.htm
+2004-09-05 20:38:28 ....A        17498               docs\manual\chap07.htm
+2004-09-05 20:38:44 ....A         8833               docs\manual\chap08.htm
+2004-09-05 20:38:58 ....A        14583               docs\manual\chap09.htm
+2004-09-05 20:39:22 ....A        20365               docs\manual\chap10.htm
+2004-09-05 20:39:38 ....A        19261               docs\manual\chap11.htm
+2004-09-05 20:43:26 ....A         9635               docs\manual\chap12.htm
+2004-09-05 20:41:04 ....A        19553               docs\manual\chap13.htm
+2004-09-05 20:41:18 ....A        17090               docs\manual\chap14.htm
+2004-09-05 20:41:32 ....A         9104               docs\manual\chap15.htm
+2004-09-05 20:41:48 ....A        21561               docs\manual\chap16.htm
+2004-09-19 20:56:52 ....A         8789               docs\reviews\Creative_Computing_October1983.htm
+2004-10-24 04:06:18 ....A         3587               docs\docs.htm
+2001-03-19 18:04:28 ....A         1855               docs\manual\index.htm
+2001-03-19 18:04:58 ....A         3749               docs\manual\intro.htm
+2004-09-07 02:21:50 ....A        12999               docs\tandy\Lost_World_Pinball.htm
+2004-09-16 02:05:12 ....A        27742               docs\tandy\Math_Design.htm
+2004-09-12 20:45:34 ....A        11361               docs\tandy\Micro_Checkers.htm
+2004-09-18 01:38:18 ....A        14471               docs\tandy\Micro_Games.htm
+2004-10-23 10:16:54 ....A        16236               docs\quickstart\QuickStart.htm
+1998-02-28 10:48:34 ....A        85550               ML\tasm31\TASMMAN.HTM
+2001-03-19 20:04:58 ....A         5462               docs\manual\toc.htm
+2004-09-19 20:36:12 ....A        13164               docs\reviews\Your_Computer_October1983.htm
+2004-09-20 08:22:54 ....A         4907               docs\other\you_can_help.htm
+2004-09-18 01:37:52 ....A         1151               docs\tandy\main.css
+2004-10-02 21:01:30 ....A         1247               docs\quickstart\main.css
+2004-08-29 17:44:32 ....A         2707               quicktyp\alert.TXT
+2008-04-29 20:16:04 ....A       128410               ML\alice.txt
+2005-03-13 19:55:48 ....A         1083               quicktyp\AST64.TXT
+2005-03-13 20:01:46 ....A         3412               cassette\charles_pelosi\aster64_readme.txt
+2008-01-10 20:45:02 ....A         3584               quicktyp\ASTEROID.TXT
+2004-11-25 16:51:04 ....A         1319               cassette\autorun_README.txt
+2004-12-27 21:14:44 ....A         4278               quicktyp\BANDIT.TXT
+2004-08-29 17:45:52 ....A         4028               quicktyp\bjack.TXT
+2004-08-31 00:42:32 ....A         2195               cassette\charles_pelosi\block_drop_README.TXT
+2008-04-30 12:40:06 ....A         4967               quicktyp\BOARDER.TXT
+2004-09-03 19:01:38 ....A         5128               quicktyp\cannons.TXT
+2005-03-13 20:34:26 ....A         1986               quicktyp\CRAM.TXT
+2004-09-09 19:38:50 ....A          732               quicktyp\csavem.txt
+2004-08-30 12:11:34 ....A         4041               quicktyp\csavem_README.TXT
+2004-08-31 00:54:56 ....A          958               cassette\charles_pelosi\defend_readme.txt
+2004-08-31 00:58:34 ....A          805               cassette\charles_pelosi\Demon_Attack_Readme.txt
+2004-08-30 02:54:38 ....A         2825               cassette\charles_pelosi\Dragon_Castles_README.txt
+2004-08-29 17:44:58 ....A         8737               quicktyp\eliza.TXT
+2004-09-18 18:25:22 ....A          317               cassette\extended_basic\extended_basic_readme.txt
+2004-10-15 14:53:20 ....A          720               cassette\charles_pelosi\freeway_readme.TXT
+2004-09-03 19:14:10 ....A         1524               quicktyp\graphicsroutines.TXT
+2002-02-21 20:08:22 ....A         1455               quicktyp\grfun.txt
+2004-08-30 12:11:06 ....A         7691               quicktyp\HAUNTED.TXT
+2004-10-28 18:21:00 ....A         2837               cassette\hirescol_README.txt
+2004-09-03 19:23:24 ....A         1419               quicktyp\Deprecated\invaders.TXT
+2008-01-10 20:45:08 ....A         2471               quicktyp\INVADERS.TXT
+2004-08-29 17:45:16 ....A         6386               quicktyp\Deprecated\jet.TXT
+2008-01-10 20:45:50 ....A         6498               quicktyp\JET.TXT
+2008-04-30 12:40:56 ....A         5387               quicktyp\JEWELER.TXT
+2004-08-30 12:11:00 ....A         6142               quicktyp\KUTENK.TXT
+2004-08-29 17:45:32 ....A         2151               quicktyp\Deprecated\life.TXT
+2008-01-10 20:46:08 ....A         2196               quicktyp\LIFE.TXT
+2008-05-09 01:38:38 ....A        31024               ML\life-ed\life_ed.txt
+2004-10-23 17:08:14 ....A          339               quicktyp\linelist.txt
+2008-01-10 20:45:14 ....A         3034               quicktyp\MARKS.TXT
+2008-04-26 22:55:42 ....A         3106               quicktyp\markscr.txt
+2004-08-29 17:44:10 ....A         2010               quicktyp\master.TXT
+2004-08-29 17:44:20 ....A         3631               quicktyp\maze.TXT
+2008-02-03 12:07:44 ....A          364               cassette\charles_pelosi\Joystick\mc-10 joystick games.txt
+2008-04-29 09:34:46 ....A       129923               ML\mc10.txt
+2004-08-29 17:33:42 ....A         5292               quicktyp\Deprecated\mcbomb.TXT
+2008-01-10 20:45:18 ....A         6127               quicktyp\MCBOMB.TXT
+2004-10-29 19:03:16 ....A         1465               cassette\mcdos\mcdos-README.txt
+2004-11-15 17:40:12 ....A         2948               quicktyp\Deprecated\mcmine.TXT
+2008-01-10 20:46:34 ....A         2961               quicktyp\MCMINE.TXT
+2008-01-10 20:44:58 ....A         4136               quicktyp\MCTETRIS.TXT
+2004-08-29 17:43:16 ....A         6169               quicktyp\mctext.TXT
+2004-08-29 17:43:30 ....A         3411               quicktyp\mctext_README.txt
+2004-08-29 17:44:02 ....A        18830               quicktyp\mctrek.TXT
+2004-09-29 00:44:10 ....A          838               quicktyp\memwina.txt
+2008-04-30 12:40:00 ....A         5722               quicktyp\MISSILE.TXT
+2008-02-18 14:52:04 ....A         2704               quicktyp\nim-bas.txt
+2004-09-06 10:39:24 ....A          236               quicktyp\nolist.txt
+2006-02-25 20:50:16 ....A          387               quicktyp\nolist_SORRY.TXT
+1998-02-28 10:48:32 ....A         2158               ML\tasm31\ORDERFRM.TXT
+2004-08-30 12:11:16 ....A         2005               quicktyp\PLAYBACK.TXT
+2004-08-29 17:45:08 ....A         5023               quicktyp\poetry.TXT
+2004-08-29 17:45:42 ....A         8795               quicktyp\Deprecated\poker.TXT
+2008-01-10 20:46:24 ....A         8915               quicktyp\POKER.TXT
+2004-09-05 21:14:52 ....A          327               quicktyp\printercheck.txt
+2004-08-29 17:44:48 ....A         9703               quicktyp\Deprecated\rat.TXT
+2008-01-10 20:45:36 ....A         9430               quicktyp\RAT.TXT
+2008-04-10 11:09:28 ....A         1560               cassette\GregD\ReadMe.txt
+2008-05-04 02:20:22 ....A        19455               readme.txt
+2004-09-18 18:41:32 ....A          433               cassette\charles_pelosi\README_1ST.txt
+2008-01-15 03:42:44 ....A          935               cassette\JimG\README_1ST.txt
+2008-04-28 01:15:42 ....A         1246               cassette\GregD\README_1ST.txt
+2008-04-29 00:53:34 ....A        12019               cassette\readme_c.txt
+2004-08-27 02:30:20 ....A         2270               cassette\tandy\LWPinball\readme_i.txt
+2004-08-29 00:04:20 ....A         1262               cassette\tandy\MicroCheckers\readme_i.txt
+2004-08-29 00:06:40 ....A         3306               cassette\tandy\MathDesign\readme_i.txt
+2004-08-29 21:14:24 ....A          745               cassette\tandy\Compac\readme_i.txt
+2004-09-18 18:36:08 ....A         1835               cassette\tandy\MicroGames\readme_i.txt
+2008-05-09 02:41:46 ....A         2427               cassette\Tamer\readme_lifeed.txt
+2008-05-04 02:26:38 ....A        10146               quicktyp\README_qt.txt
+2008-03-17 19:51:36 ....A         1190               rom\readme_r.txt
+2004-09-18 18:29:30 ....A           99               cassette\tandy\readme_t.txt
+2008-04-28 06:36:48 ....A         1583               tools\readme_t.txt
+2004-10-03 21:37:24 ....A         1276               ML\tasm31\readme_tasm.txt
+2004-08-31 22:13:40 ....A           43               cassette\charles_pelosi\roadrace_readme.txt
+2004-11-15 17:39:26 ....A         2584               quicktyp\Deprecated\SENTINEL.TXT
+2008-04-30 12:41:06 ....A         3127               quicktyp\SENTINEL.TXT
+2004-09-18 02:07:02 ....A          351               quicktyp\sg6.TXT
+2004-08-29 17:44:40 ....A         5212               quicktyp\Deprecated\solit.TXT
+2008-01-10 20:46:30 ....A         6638               quicktyp\solit.TXT
+2004-08-30 12:11:10 ....A         6351               quicktyp\SOLITAIR.TXT
+2008-01-10 20:57:54 ....A         1273               cassette\extended_basic\SOUND.TXT
+2004-09-06 11:53:06 ....A         2837               quicktyp\sounddem.TXT
+2002-02-21 17:28:30 ....A         1178               quicktyp\sparkle.txt
+2004-08-29 17:45:24 ....A         8854               quicktyp\subsrch.TXT
+2004-10-28 15:50:08 ....A         2419               cassette\Pollock\supcload_readme.txt
+2006-06-11 16:34:08 ....A         2032               cassette\tables_readme.txt
+2004-09-26 07:23:48 ....A          148               ML\tasm31\testasm.txt
+2008-02-23 22:09:22 ....A         1423               quicktyp\testemu.txt
+2008-04-30 01:57:02 ....A          827               quicktyp\testqt.txt
+2008-01-10 20:45:28 ....A         3411               quicktyp\TEXT2_README.TXT
+2004-09-03 17:04:44 ....A         7189               quicktyp\texted.txt
+2007-07-21 10:58:28 ....A          757               ML\TutorialML\tut1.txt
+2008-01-10 16:31:04 ....A        38199               ML\TutorialML\tut14a.txt
+2007-07-21 16:54:18 ....A          893               ML\TutorialML\tut2.txt
+2007-07-23 18:16:26 ....A          774               ML\TutorialML\tut3.txt
+2007-07-23 17:48:20 ....A          804               ML\TutorialML\tut4.txt
+2007-07-23 18:39:20 ....A          835               ML\TutorialML\tut5.txt
+2007-07-23 20:43:54 ....A          341               ML\TutorialML\tut6a.txt
+2007-07-23 21:18:40 ....A          802               ML\TutorialML\tut6b.txt
+2007-07-23 21:40:48 ....A          579               ML\TutorialML\tut6c.txt
+2007-07-27 11:09:46 ....A         1082               ML\TutorialML\tut7a.txt
+2007-07-27 11:20:28 ....A          542               ML\TutorialML\tut7b.txt
+2007-08-07 16:43:14 ....A         1974               ML\TutorialML\tut8a.txt
+2007-08-07 16:35:12 ....A          639               ML\TutorialML\tut8b.txt
+2006-05-09 16:35:52 ....A        11575               docs\other\UsingTheEmulator.txt
+2008-01-10 20:46:04 ....A         5440               quicktyp\VADER.TXT
+2004-10-03 05:55:30 ....A          210               quicktyp\vmc10.txt
+2008-04-30 12:40:10 ....A         1759               quicktyp\ZOMBIE.TXT
+2008-05-09 02:31:38 ....A        16871               default.ini
+1999-06-19 19:03:34 ....A           68               mc10.ini
+2008-04-08 19:27:28 ....A      1441792               ML\TutorialML\Assembly Language Programming.ppt
+2004-08-26 15:13:34 ....A        26269               cassette\extended_basic\ExtendedBasicV1.pdf
+2008-03-18 18:28:12 ....A        57601               cassette\charles_pelosi\Joystick\JOYSTICK.PDF
+2004-10-23 15:57:32 ....A         1622               cassette\argo.c10
+2004-09-15 20:24:38 ....A         2833               cassette\assemble.c10
+2008-02-03 11:55:28 ....A         1425               cassette\charles_pelosi\Joystick\ASTER-joy.C10
+2004-08-31 00:24:58 ....A         1376               cassette\charles_pelosi\aster64.C10
+2004-11-25 16:46:38 ....A          918               cassette\autorun.c10
+2004-09-11 20:06:46 ....A          365               cassette\backup.c10
+2004-10-23 19:16:52 ....A         1390               cassette\BASKETBA.C10
+2008-02-03 11:56:10 ....A         2495               cassette\charles_pelosi\Joystick\BDROP-joy.C10
+2004-04-12 20:11:26 ....A         2411               cassette\charles_pelosi\block_drop.C10
+2008-02-03 11:57:24 ....A         2122               cassette\charles_pelosi\Joystick\BREAKOUT-joy.C10
+2004-08-29 06:23:02 ....A         2041               cassette\tandy\MicroGames\breakout.c10
+2007-05-30 12:41:24 ....A          323               cassette\GregD\BubbleSort.c10
+2004-10-23 17:13:08 ....A         1422               cassette\catch.c10
+2004-08-28 11:47:28 ....A         2602               cassette\tandy\MicroCheckers\checkers.c10
+2004-09-17 18:51:48 ....A          446               cassette\Clock.c10
+2004-10-23 19:20:34 ....A         1960               cassette\decode.c10
+2008-02-03 11:57:54 ....A         1729               cassette\charles_pelosi\Joystick\DEFEND-joy.C10
+2004-04-29 17:59:48 ....A         1641               cassette\charles_pelosi\defend.C10
+2008-02-03 11:58:28 ....A         3037               cassette\charles_pelosi\Joystick\DEMON-joy.C10
+2004-05-20 07:22:30 ....A         2977               cassette\charles_pelosi\Demon_Attack.C10
+2004-09-10 20:16:40 ....A         3719               cassette\disass1.c10
+2004-10-23 19:28:32 ....A         5199               cassette\disass2.c10
+2004-10-29 18:46:54 ....A         7197               cassette\mcdos\disk1.c10
+2004-10-29 18:47:34 ....A         9783               cassette\mcdos\disk2.c10
+2004-04-13 17:10:40 ....A         5808               cassette\charles_pelosi\Dragon_castles.C10
+2004-09-13 19:41:18 ....A         2254               cassette\ducshoot.c10
+2004-08-29 06:31:36 ....A         2265               cassette\tandy\MicroGames\eggs.c10
+2004-08-30 03:29:24 ....A         2844               cassette\extended_basic\extended_basic.C10
+2008-02-03 12:00:20 ....A         2211               cassette\charles_pelosi\Joystick\FREEWAY-joy.C10
+2004-10-15 14:42:36 ....A         2186               cassette\charles_pelosi\FREEWAY.C10
+2004-10-05 18:47:32 ....A         3125               cassette\frogger.c10
+2004-10-23 15:46:20 ....A         3154               cassette\gap.c10
+2008-05-09 02:24:10 ....A         1374               cassette\Tamer\glidergun_life.C10
+1999-11-05 04:12:20 ....A          786               cassette\GRLOOP.C10
+2004-11-02 11:24:38 ....A         3794               cassette\groan.c10
+2004-10-05 18:41:56 ....A         2795               cassette\hangman.c10
+2004-10-29 18:07:20 ....A         2632               cassette\hb4400.C10
+2004-10-29 18:04:08 ....A         3022               cassette\hb4500.c10
+2004-10-29 18:06:18 ....A         3026               cassette\hb7500.c10
+2004-10-28 17:56:58 ....A         1663               cassette\hires.c10
+2004-10-28 17:49:46 ....A         1796               cassette\hirescol.c10
+2004-08-29 11:10:24 ....A         1685               cassette\tandy\MicroGames\horse.c10
+2004-09-10 19:05:46 ....A          918               cassette\ID_CSAVE.C10
+2004-10-28 16:25:44 ....A          831               cassette\io_rec.c10
+1999-10-27 08:15:30 ....A          894               cassette\KALEIDO.C10
+2004-11-11 20:20:00 ....A          829               cassette\kaleidoa.c10
+2007-06-25 13:57:50 ....A          388               cassette\GregD\Kaleidoscope.c10
+2004-08-29 10:57:02 ....A         1190               cassette\tandy\MicroGames\lander.c10
+2004-11-11 19:58:26 ....A         2629               cassette\leapfrog.c10
+2008-05-09 01:58:30 ....A         2740               cassette\Tamer\LIFE-ED.C10
+2008-04-29 00:57:06 ....A          564               cassette\llist.c10
+2008-02-11 20:21:10 ....A         1384               cassette\GregD\LPrintPi.c10
+2004-11-02 11:17:28 ....A         3189               cassette\masterm.c10
+2002-02-21 14:58:48 ....A         2545               cassette\tandy\Compac\Mccom.c10
+2004-09-11 19:05:56 ....A         1240               cassette\mcdos\mcdos.c10
+2004-09-21 09:37:08 ....A         2723               cassette\Mcos.c10
+2004-11-11 20:11:10 ....A         4691               cassette\mcword.c10
+2004-10-23 16:18:00 ....A         3030               cassette\milo.c10
+2004-08-28 23:50:24 ....A         1812               cassette\tandy\MathDesign\minicalc.c10
+2006-04-19 18:15:38 ....A         2404               cassette\MMANIA.C10
+2008-01-10 20:45:06 ....A         7532               cassette\JimG\MONSTER2.C10
+2004-10-28 13:53:34 ....A         1776               cassette\morse.c10
+2004-10-23 16:21:54 ....A         1211               cassette\numbers.c10
+2008-05-07 22:01:44 ....A         1374               cassette\Tamer\oscillators_life.C10
+2006-07-25 20:57:52 ....A        14825               cassette\GregD\Pac-Man.c10
+2004-09-07 20:18:24 ....A         1034               cassette\pagelist.c10
+2004-08-27 02:12:54 ....A        12342               cassette\tandy\LWPinball\pinball.c10
+2004-08-29 06:06:20 ....A         1570               cassette\tandy\MicroGames\pong.c10
+2004-10-23 16:25:12 ....A         2494               cassette\pontoon.c10
+2007-05-30 12:37:46 ....A          434               cassette\GregD\QuickSort.c10
+2007-06-29 20:03:44 ....A          583               cassette\GregD\ReverseVideo.c10
+2008-04-10 11:01:48 ....A          491               cassette\GregD\RG2LIFE.c10
+2004-08-31 01:16:00 ....A         2696               cassette\charles_pelosi\roadrace.C10
+2004-09-13 19:47:40 ....A         8817               cassette\ROM1_3.C10
+2008-05-09 02:02:52 ....A         1374               cassette\Tamer\rpentomino_life.C10
+2008-02-03 12:00:52 ....A         2704               cassette\charles_pelosi\Joystick\RRACE-joy.C10
+2004-09-15 18:58:28 ....A         3676               cassette\sg6bom.c10
+2004-11-11 20:20:34 ....A         2514               cassette\skills.c10
+2004-08-31 22:22:30 ....A         2998               cassette\SOUND.C10
+2004-10-23 18:31:26 ....A        15320               cassette\speech.c10
+2004-09-07 21:02:22 ....A          916               cassette\speed.c10
+2006-06-03 19:24:46 ....A         1337               cassette\SPELLIT.C10
+2004-08-28 23:50:34 ....A         1677               cassette\tandy\MathDesign\spirals.c10
+1999-11-04 23:14:12 ....A          849               cassette\SQUARES.C10
+2004-10-28 15:24:38 ....A          718               cassette\Pollock\supcload.c10
+2006-06-11 16:25:44 ....A          729               cassette\TABLES.C10
+2007-08-29 10:06:58 ....A        15938               cassette\GregD\Tetris.c10
+2007-08-14 21:06:40 ....A         1112               cassette\GregD\Tetris4K.c10
+2004-09-15 20:04:12 ....A          780               cassette\tpindex.c10
+2004-11-11 19:44:40 ....A         1501               cassette\tune.c10
+2004-11-11 19:42:18 ....A         3737               cassette\walloons.c10
+2008-01-15 19:27:22 ....A         2696               cassette\charles_pelosi\mc-10_roadrace_T.CAS
+2008-04-29 20:22:02 ....A       238900               ML\alice.LST
+2008-04-29 20:21:52 ....A       239157               ML\mc10.LST
+2006-01-22 12:35:10 ....A         3675               ML\dasmx\ram.SYM
+1998-02-28 10:48:00 ....A        14071               ML\tasm31\TASM68.TAB
+2003-01-01 21:38:34 ....A        57344       182740  tools\C10TOWAV.exe
+1997-06-08 01:02:38 ....A        19197               tools\DC.EXE
+2002-12-27 12:00:20 ....A        11925               tools\FIXCAS.EXE
+2005-07-02 02:52:58 ....A        57344               tools\monowav.exe
+1998-02-28 10:50:32 ....A       215072               ML\tasm31\TASM.EXE
+2008-05-09 01:46:46 ....A       299008               VMC10.exe
+2005-11-15 02:02:22 D....            0            0  tools
+2005-11-15 02:02:22 D....            0            0  screenshots
+2005-11-15 02:02:22 D....            0            0  rom
+2008-01-11 04:24:16 D....            0            0  quicktyp\Deprecated
+2005-11-15 02:02:22 D....            0            0  quicktyp
+2008-01-15 22:44:24 D....            0            0  ML\TutorialML
+2005-11-15 02:02:22 D....            0            0  ML\tasm31
+2008-05-09 02:33:08 D....            0            0  ML\life-ed
+2008-01-16 19:26:16 D....            0            0  ML\dasmx
+2008-01-16 19:16:54 D....            0            0  ML
+2005-11-15 02:02:22 D....            0            0  docs\tandy
+2005-11-15 02:02:22 D....            0            0  docs\reviews
+2005-11-15 02:02:22 D....            0            0  docs\quickstart
+2005-11-15 02:02:22 D....            0            0  docs\other
+2005-11-15 02:02:22 D....            0            0  docs\manual
+2005-11-15 02:02:22 D....            0            0  docs
+2005-11-15 02:02:22 D....            0            0  cassette\tandy\MicroGames
+2005-11-15 02:02:22 D....            0            0  cassette\tandy\MicroCheckers
+2005-11-15 02:02:22 D....            0            0  cassette\tandy\MathDesign
+2005-11-15 02:02:22 D....            0            0  cassette\tandy\LWPinball
+2005-11-15 02:02:22 D....            0            0  cassette\tandy\Compac
+2005-11-15 02:02:22 D....            0            0  cassette\tandy
+2008-05-07 00:23:34 D....            0            0  cassette\Tamer
+2008-04-29 07:08:22 D....            0            0  cassette\Pollock
+2008-01-17 11:04:54 D....            0            0  cassette\mcdos
+2008-01-11 04:32:56 D....            0            0  cassette\JimG
+2008-01-11 04:40:56 D....            0            0  cassette\GregD
+2005-11-15 02:02:22 D....            0            0  cassette\extended_basic
+2008-04-02 01:07:08 D....            0            0  cassette\charles_pelosi\Joystick
+2005-11-15 02:02:22 D....            0            0  cassette\charles_pelosi
+2005-11-15 02:02:22 D....            0            0  cassette
+------------------- ----- ------------ ------------  ------------------------
+2008-05-09 02:41:46            4995898      2125458  314 files, 31 folders

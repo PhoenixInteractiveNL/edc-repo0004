@@ -1,0 +1,33 @@
+===================
+v0.4  August 3 2005
+===================
+
+1.  Added a directory structure to deal with multiple emulation platforms.  Each model has its
+    own directory.  Each directory contains the ROM and RAM files for emulation of that specific
+    model.  This directory structure must be maintained since the emulator searches for the
+    ROM file using this tree structure.  The directories are:
+
+    <root>
+     |
+     +-- M100
+     +-- M102
+     +-- T200
+     +-- PC8201
+
+2.  Option ROMs are now loaded based on the model being emulated.  Old Option ROM selection
+    will be lost and must be re-selected.
+
+3.  Support for the M102, T200, and PC8201 have been added.  Loading and saving BASIC files
+    for the PC8201 will cause an error that will "crash" the emulation and dump the RAM contents.
+    The BASIC tokens for the NEC machines are different than the Tandy machines and the tokenizer
+    has not been updated yet.
+
+4.  Partial support for ReMem and Rampac have been added under the "Emulation,  Memory Options"
+    menu item.  Emulation is not fully supported yet and selecting anything but "Base Memory"
+    will cause unexpected results.
+
+5.  A HEX memory editor has been added in the "Tools,  Memory Editor" menu item.  The editor is
+    fully functional except the "Load" and "Save" options under the file menu.
+
+6.  The "Tools,  Disassembler" has been updated to disassemble the M102, T200, and PC8201 ROMS.
+

@@ -1,0 +1,5 @@
+===================
+v0.7  April 20 2006
+===================
+
+1.  Fixed memory access issue in M100/M102 modes when not in ReMem emulation mode.

@@ -1,0 +1,47 @@
+===================
+v1.1  April 16 2008
+===================
+
+1.  Fixed a bug with Rampac Only emulation.  When this Memory Configuration was weleted, 
+    the I/O operations were returning without performing any action because they were 
+    checking for a NULL ReMem RAM pointer.
+
+2.  Fixed issue with Rampac and Base Memory file saving when switching the memory configurtion
+    from Rampac to ReMem + Rampac mode.
+
+3.  Added option to control whether ReMem's "Rampac Emulation" should override the Rampac
+    emulation mode.  When ReMem + Rampac mode is selected, ReMem can be configured to emulate 
+    the Rampac access method and write to ReMem memory space.  The Memory Setup dialog now
+    provides checkbox to control if Rampac accesses are directed to ReMem memory space or to
+    Rampac memory space during this condition.
+
+4.  Added LPT Device emulation support and configuration options on the Peripheral Setup dialog.
+    Added printer icon to main window to show printer status and provide a Popup menu
+    for printer control.
+
+5.  Added Emulated printer support for printing to Files and Host Port devices.
+
+6.  Added Epson FX-80 printer emulation with output to different "Papers".  Current papers
+    include Postscript files, "Virtual Paper" (FLTK Window), Windows Printer, and Linux 'lpr'
+    command line printing.
+
+7.  Fixed issue with default (cold boot) year setting on M10 and PC-8201a models.
+
+8.  Added an option to the COM emulation to loop back DTR to DSR and CTS to RTS to emulate a
+    "loopback" cable connected to the serial port.  This option can be enabled from the COM
+    setup tab.
+
+9.  Fixed issue with Serial emulation on Linux in Base Memory emulation mode.  Received bytes
+    were not trigginering the INT6.5 interrupt.
+
+10. Fixed bug when cancelling file save operation that caused the program to crash.
+
+11. Added support for Kyocera KC85 emulation.
+
+12. Fixed bug with "Make OptROM Read/Write" option to save write operations between
+    bank switch operations.
+
+13. Added FLASH Program / Erase state machine to ReMem emulation.  State Machine supports
+    Programming, Chip and Sector Erase, CFI Query, Autoselect, and Reset commands.  Does
+    not support sector protection.
+ 

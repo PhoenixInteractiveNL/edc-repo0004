@@ -1,0 +1,62 @@
+====================
+v1.6 April 24, 2014
+====================
+
+1.  Fixed issue with remote interface simulated keystokes where the keys wouldn't
+    always be regconized.  There was a race condition between the remote thread
+	and the simulation thread.
+
+2.  Completed the 8085 relocating linker!!  This was the primary reason for this
+    release in fact.  Many, many changes to get to this point.
+
+3.  Modified the IDE with new tabs for selecting the file to edit.  The old tabs used
+    the standard FLTK tab control and were really ugly, plus had an issue with tab
+	width calculations with regard to mouse presses to select the tab.
+
+4.  Updated GNUmakefile to auto-generate dependencies and use wildcard search for
+    selecting source files vs. specifying everything manually.
+
+5.  Added feature to FX80 printer emulation to perform auto word-wrap selectable via
+    the printer setup page.
+
+6.  Modified CPU speed indicator to show 2 decimal places precision for speeds less than
+    10 MHz.
+
+7.  Made the FX80 Virtual Paper display resizeable.
+
+8.  MAJOR modifications to CPU Registers window to implement program tracing with 
+    scrolling, configurable font sizes and trace depths, auto-redraw vs manual
+    redraw button, saving of breakpoints and window position when VirtualT terminates,
+    resizeable window, saving trace data to a file, keyboard shortcuts.
+    
+9.  Added saving and restoring of opened windows when VirtualT is shutdown and restarted.
+
+10. Now reports error if REX / ReMem memory cannot be loaded / saved.
+
+11. Updated REX emulation to support REX3 for PC8201 state machine changes.
+
+12. Created a Watch Variables Widget and added it to the Memory Editor Window.  This
+    will also be used in the IDE debugger.
+    
+13. Added options to Memory Editor Window to use black background with color coded text
+    and the ability to set the font size.
+
+14. Started converting the preferences file to use preference groups to help organize
+    the growing list of entries in the file.
+
+15. Completed the "-nogui" option under Linux and added console interface control.  This
+    provides an identical interface to the existing socket / telnet control interface.
+
+16. Added emulated NADSBox (minimal implementation so far) and controls in Peripheral
+    Setup to connect it to the serial port.
+
+17. Added TPDD Server (NADSBox) packet log viewer window to Tools menu.
+
+18. Added support for NEC PC-8300 emulation.
+
+19. Started adding support to Disassembler window to disassemble things other than the
+    main ROM.
+    
+20. Added color syntax hilighting, Load and Save, and Find operations to Disassembler window.
+
+21. Modified serial.c to map 75 baud = 57600 and 110 baud = 115200.
