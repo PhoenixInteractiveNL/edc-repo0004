@@ -1,0 +1,9 @@
+New in iNES 4.9
+
+* Added waveforms to DiskSystem sound chip emulation.
+* Added volume envelopes to DiskSystem sound chip emulation.
+* Computing effective waveform power when simulating samples via MIDI.
+* Fixed triangle channel volume when playing via MIDI.
+* Fixed "Hit MIDI Drums" option in iNES-Windows.
+* Added "Nearest Neighbor" option to disable linear interpolation.
+* DiskSystem disks now get loaded starting with side A.

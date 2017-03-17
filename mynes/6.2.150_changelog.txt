@@ -1,0 +1,6 @@
+Version 6.2.150
+--------------
+* Improved: emulation code generally, the emulation now should work faster.
+* Improved: sound playback, now it's more accurate and the emulation goes faster.
+* Fixed: a bug in sprite 0 hit, the bkg enabled flag was never checked when sprite 0 hit flag sets.
+* Fixed: a bug when the emu crashes sometimes when attempting to open a rom and already running a game.

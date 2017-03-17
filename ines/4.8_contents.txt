@@ -1,0 +1,27 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-01-05 05:54:47 ....A        49843        19084  iNES.html
+2013-05-02 20:04:58 ....A          192               Palettes\ASQ-RealityA.pal
+2013-05-02 20:04:58 ....A          192               Palettes\ASQ-RealityB.pal
+2013-05-02 20:04:58 ....A          192               Palettes\BMF-Final2.pal
+2013-05-02 20:04:58 ....A          192               Palettes\BMF-Final3.pal
+2005-01-24 13:00:00 ....A          640               Palettes\ChrisCovell.pal
+2015-09-26 07:22:06 ....A          192               Palettes\Dendy.pal
+2016-11-18 12:23:46 ....A          192               Palettes\FBX-NESClassic.pal
+2016-11-19 06:15:28 ....A          192               Palettes\FBX-Nostalgia.pal
+2013-05-02 20:04:58 ....A          192               Palettes\FCEU13.pal
+2013-05-02 20:04:58 ....A          192               Palettes\FCEU15.pal
+2013-05-02 20:04:58 ....A          192               Palettes\FCEUX.pal
+2005-01-24 13:00:00 ....A          640               Palettes\iNES-Old.pal
+2013-05-02 20:04:58 ....A          192               Palettes\Nestopia-RGB.pal
+2013-05-02 20:04:58 ....A          192               Palettes\Nestopia-YUV.pal
+2008-05-06 13:00:00 ....A          576               Palettes\RP2C04-001.pal
+2008-05-06 13:00:00 ....A          576               Palettes\RP2C04-002.pal
+2008-05-06 13:00:00 ....A          576               Palettes\RP2C04-003.pal
+2008-05-06 13:00:00 ....A          576               Palettes\RP2C05-004.pal
+2014-09-06 20:40:34 ....A          192               Palettes\Sony-CXA2025AS-US.pal
+2016-06-19 06:16:14 ....A          192               Palettes\Unsaturated-V6.pal
+2017-01-11 02:59:05 ....A       168960       136276  iNES.exe
+2017-03-17 11:33:09 D....            0            0  Palettes
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 11:33:09             225075       155360  22 files, 1 folders

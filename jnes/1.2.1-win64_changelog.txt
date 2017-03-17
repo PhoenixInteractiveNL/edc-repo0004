@@ -1,0 +1,3 @@
+Version 1.2.1 1/15/2017
+  * fixed pov inputs 
+  * fixed windows xp 

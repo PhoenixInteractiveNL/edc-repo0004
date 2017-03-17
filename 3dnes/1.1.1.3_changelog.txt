@@ -1,4 +1,4 @@
-Changes - 23rd September 2016
------------------------------
-
-UNKNOWN
+- Version 1.1.3 - 12/10/2016
+	+ Change emulation speed realtime
+	+ Change HotKey Marking - () -> red color
+	+ Fix manual input mapping issues in some controllers

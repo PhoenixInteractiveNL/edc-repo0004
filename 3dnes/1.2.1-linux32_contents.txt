@@ -1,0 +1,79 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-12-05 11:35:28 ....A         1653     14066670  3DNes_Data\Mono\etc\mono\config
+2016-12-10 16:31:34 ....A        78508               3DNes_Data\globalgamemanagers
+2016-12-10 16:31:34 ....A       347412               3DNes_Data\level0
+2016-12-05 11:35:28 ....A       839284               3DNes_Data\Resources\unity default resources
+2016-12-05 11:35:28 ....A       153100               3DNes_Data\Resources\unity_builtin_extra
+2016-12-05 11:35:28 ....A       296055               3DNes_Data\ScreenSelector.png
+2016-12-05 11:35:28 ....A        19163               3DNes_Data\Resources\UnityPlayer.png
+2016-12-05 11:35:28 ....A        25817               3DNes_Data\Mono\etc\mono\mconfig\config.xml
+2016-12-05 11:35:28 ....A        58196               3DNes_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+2016-12-05 11:35:28 ....A        60453               3DNes_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+2016-12-05 11:35:28 ....A       311984               3DNes_Data\Mono\etc\mono\browscap.ini
+2016-12-05 10:15:54 ....A       800768               Manual.doc
+2016-12-05 11:35:28 ....A       391224               3DNes_Data\Managed\UnityEngine.dll.mdb
+2016-12-05 11:35:28 ....A      2798920               3DNes_Data\Mono\x86_64\libmono.so
+2016-12-05 11:35:28 ....A      3134952               3DNes_Data\Mono\x86\libmono.so
+2016-12-05 11:35:28 ....A        92880               3DNes_Data\Plugins\x86_64\libzipw.so
+2016-12-05 11:35:28 ....A        95376               3DNes_Data\Plugins\libzipw.so
+2016-12-05 11:35:28 ....A       100088               3DNes_Data\Plugins\x86\libzipw.so
+2016-12-05 11:35:28 ....A        47153               3DNes_Data\Plugins\x86\ScreenSelector.so
+2016-12-05 11:35:28 ....A        53732               3DNes_Data\Plugins\x86_64\ScreenSelector.so
+2016-12-10 16:31:34 ....A       134360               3DNes_Data\globalgamemanagers.assets
+2016-12-05 11:35:26 ....A       751408               3DNes_Data\resources.assets
+2016-12-05 11:35:28 ....A       308504               3DNes_Data\sharedassets0.assets
+2016-12-05 11:35:28 ....A         1605               3DNes_Data\Mono\etc\mono\2.0\Browsers\Compat.browser
+2016-12-05 11:35:28 ....A        17258               3DNes_Data\Mono\etc\mono\1.0\machine.config
+2016-12-05 11:35:28 ....A        27625               3DNes_Data\Mono\etc\mono\2.0\machine.config
+2016-12-05 11:35:28 ....A        11686               3DNes_Data\Mono\etc\mono\2.0\web.config
+2016-12-10 16:37:40 ....A         2413               changes.log
+2016-12-05 11:35:28 ....A         2618               3DNes_Data\Mono\etc\mono\2.0\settings.map
+2016-12-05 11:35:26 ....A     22382688               3DNes_Data\resources.assets.resS
+2016-12-05 11:35:28 ....A       473904               3DNes_Data\sharedassets0.assets.resS
+2016-12-05 11:35:26 ....A     25668752               3DNes.x86
+2016-12-10 16:31:34 ....A        10240      3076885  3DNes_Data\Managed\Assembly-CSharp-firstpass.dll
+2016-12-10 16:31:34 ....A      1363456               3DNes_Data\Managed\Assembly-CSharp.dll
+2016-12-05 11:35:28 ....A        39936               3DNes_Data\Managed\corelib.dll
+2016-12-05 11:35:28 ....A       139264               3DNes_Data\Managed\DOTween.dll
+2016-12-05 11:35:28 ....A         9728               3DNes_Data\Managed\DOTween43.dll
+2016-12-05 11:35:28 ....A        20480               3DNes_Data\Managed\DOTween46.dll
+2016-12-05 11:35:28 ....A         5632               3DNes_Data\Managed\DOTween50.dll
+2016-12-05 11:35:28 ....A        96256               3DNes_Data\Managed\Mono.Data.Tds.dll
+2016-12-05 11:35:28 ....A       184320               3DNes_Data\Managed\Mono.Posix.dll
+2016-12-05 11:35:28 ....A       294912               3DNes_Data\Managed\Mono.Security.dll
+2016-12-05 11:35:28 ....A      2590208               3DNes_Data\Managed\mscorlib.dll
+2016-12-05 11:35:28 ....A       507392               3DNes_Data\Managed\Newtonsoft.Json.dll
+2016-12-05 11:35:28 ....A       124928               3DNes_Data\Managed\System.Configuration.dll
+2016-12-05 11:35:28 ....A        22528               3DNes_Data\Managed\System.Configuration.Install.dll
+2016-12-05 11:35:28 ....A       297472               3DNes_Data\Managed\System.Core.dll
+2016-12-05 11:35:28 ....A       856064               3DNes_Data\Managed\System.Data.dll
+2016-12-05 11:35:28 ....A      1679360               3DNes_Data\Managed\System.dll
+2016-12-05 11:35:28 ....A       448512               3DNes_Data\Managed\System.Drawing.dll
+2016-12-05 11:35:28 ....A        46592               3DNes_Data\Managed\System.EnterpriseServices.dll
+2016-12-05 11:35:28 ....A        48640               3DNes_Data\Managed\System.Management.dll
+2016-12-05 11:35:28 ....A       135168               3DNes_Data\Managed\System.Security.dll
+2016-12-05 11:35:28 ....A        27648               3DNes_Data\Managed\System.Transactions.dll
+2016-12-05 11:35:28 ....A      1270272               3DNes_Data\Managed\System.Xml.dll
+2016-12-05 11:35:28 ....A         3072               3DNes_Data\Managed\UnityEngine.Analytics.dll
+2016-12-05 11:35:28 ....A      1114112               3DNes_Data\Managed\UnityEngine.dll
+2016-12-05 11:35:28 ....A       236032               3DNes_Data\Managed\UnityEngine.Networking.dll
+2016-12-05 11:35:28 ....A       221696               3DNes_Data\Managed\UnityEngine.UI.dll
+2016-12-05 11:35:28 ....A         6144               3DNes_Data\Managed\verified.dll
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Resources
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Plugins\x86_64
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Plugins\x86
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Plugins
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Mono\x86_64
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Mono\x86
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Mono\etc\mono\mconfig
+2017-03-17 09:29:28 D....            0            0  3DNes_Data\Mono\etc\mono\2.0\Browsers
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Mono\etc\mono\2.0
+2017-03-17 09:29:28 D....            0            0  3DNes_Data\Mono\etc\mono\1.0
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Mono\etc\mono
+2017-03-17 09:29:28 D....            0            0  3DNes_Data\Mono\etc
+2017-03-17 09:29:29 D....            0            0  3DNes_Data\Mono
+2017-03-17 09:29:28 D....            0            0  3DNes_Data\Managed
+2017-03-17 09:29:30 D....            0            0  3DNes_Data
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 09:29:30           71289603     17143555  60 files, 15 folders

@@ -1,0 +1,12 @@
+New in iNES 4.8
+  * Fixed DPCM sound channel (Journey To Silius, Castlevania 2, etc). 
+  * Fixed sawtooth sound channel linear counter. 
+  * Added support for binary .PAL files used by other emulators. 
+  * Added "Force 4:3 Screen" option to iNES-Windows. 
+  * Fixed 44kHz sound hiccups when 50Hz sync selected in iNES-Windows. 
+  * Disabled Direct3D antialiasing when magnifying by x3 or more. 
+  * iNES-Windows will use the last loaded .PAL file automatically. 
+  * iNES-Windows will not overwrite last .NES file name with .PAL or .STA names. 
+  * Keys [1]-[8] will toggle individual sound channels in iNES-Windows. 
+  * Key [0] will toggle all sound channels in iNES-Windows. 
+  * Added -4x3 command line option to iNES-Unix. 

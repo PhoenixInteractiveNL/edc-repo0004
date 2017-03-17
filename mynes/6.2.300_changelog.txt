@@ -1,0 +1,4 @@
+Version 6.2.300
+--------------
+* Improved: emulation threading code to reduce cpu usage (it was using full cpu power). 
+* Fixed: sound playback pitch and sync loosing. MyNes now adjust the pitch automatically to avoid sync loose.

@@ -1,0 +1,37 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-01-15 22:26:42 ....A        44234       102908  readme.html
+2016-12-24 22:43:35 ....A        19939               cheats_supported.txt
+2016-12-24 22:43:36 ....A       570265               Jnes.cht
+2010-01-07 04:27:22 ....A          435               palettes\file_id.diz
+2016-12-25 04:09:50 ....A         4285               languages\en.msg.example
+2010-06-19 19:34:42 ....A         3594               languages\chs.msg
+2010-02-12 02:40:54 ....A         4446               languages\cz.msg
+2012-04-21 17:36:54 ....A         4624               languages\de.msg
+2010-01-07 04:00:06 ....A         3815               languages\es.msg
+2010-01-07 04:00:06 ....A         3692               languages\est.msg
+2011-04-13 03:53:52 ....A         3823               languages\fi.msg
+2010-01-07 04:00:06 ....A         3886               languages\fr.msg
+2011-10-13 01:55:38 ....A         3814               languages\gl.msg
+2011-04-13 02:05:14 ....A         3974               languages\hun.msg
+2010-01-07 04:00:06 ....A         3886               languages\ita.msg
+2010-01-07 04:00:06 ....A         3874               languages\lt.msg
+2013-10-05 01:13:26 ....A         4500               languages\nl.msg
+2012-04-21 17:36:54 ....A         4401               languages\pl.msg
+2012-03-25 14:50:24 ....A         4477               languages\pt-br.msg
+2011-10-13 01:55:38 ....A         3804               languages\pt-gz.msg
+2011-08-29 01:20:18 ....A         3829               languages\ro.msg
+2011-04-20 01:25:34 ....A         5316               languages\ru.msg
+2015-10-05 04:08:52 ....A         5679               languages\sr.msg
+2013-12-28 22:19:58 ....A         6625               languages\th.msg
+2010-10-07 03:08:18 ....A         3847               languages\tr.msg
+2011-04-13 03:53:52 ....A         3997               languages\tt.msg
+2011-04-19 02:36:18 ....A         5314               languages\ukr.msg
+2010-01-07 04:27:22 ....A          192               palettes\accurate.pal
+2010-01-07 04:27:22 ....A          192               palettes\mattc.pal
+2017-01-15 22:28:04 ....A       277504       326128  Jnes.exe
+2017-01-15 22:27:52 ....A       207360               filters.dll
+2017-03-17 19:11:29 D....            0            0  palettes
+2017-03-17 19:11:29 D....            0            0  languages
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 19:11:29            1219623       429036  31 files, 2 folders

@@ -1,0 +1,3 @@
+Sega Game Gear emulation
+NES: Fixed Aladdin (SuperGame) hang when starting game
+NES: Added Mapper 190 (Magic Kid GooGoo) support

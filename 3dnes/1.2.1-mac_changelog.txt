@@ -1,0 +1,5 @@
+- Version 1.2.1 - 10/12/2016
+	- Fix the bug: wrong view orientation in FPS mode before first button press
+	- Fix the crash when press Exit button on fullscreen mode
+	- Fix object tracking implementation bug
+	- Reduce black line glitch when render large flat surface

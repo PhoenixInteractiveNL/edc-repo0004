@@ -1,0 +1,6 @@
+- Version 1.2 - 06/12/2016
+	+ Reduce input lag
+	+ Support virtual reality with stereoscopic mode
+	+ Enable/disable vsync 
+	+ TrinusVR intergration with head tracking(Pro feature)
+	+ First Person View gameplay and first person view control experimentation(Pro feature) 

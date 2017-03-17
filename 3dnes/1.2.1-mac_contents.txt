@@ -1,0 +1,125 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-12-05 11:25:04 ....A     29232140     14546890  3DNes.app\Contents\MacOS\3DNes
+2016-12-05 11:25:04 ....A          161               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeDirectory
+2016-12-05 11:25:04 ....A           12               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeRequirements
+2016-12-05 11:25:04 ....A         2109               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeResources
+2016-12-05 11:25:02 ....A         1691               3DNes.app\Contents\Data\Managed\etc\mono\config
+2016-12-10 16:25:48 ....A        78508               3DNes.app\Contents\Resources\Data\globalgamemanagers
+2016-12-05 11:25:04 ....A       237952               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\MacOS\InControlNative
+2016-12-10 16:25:48 ....A       347412               3DNes.app\Contents\Resources\Data\level0
+2016-12-05 11:25:04 ....A       197216               3DNes.app\Contents\Plugins\libzipw.bundle\Contents\MacOS\libzipw
+2016-12-05 11:25:04 ....A       828812               3DNes.app\Contents\Resources\unity default resources
+2016-12-05 11:25:04 ....A       260528               3DNes.app\Contents\Resources\Data\Resources\unity_builtin_extra
+2016-12-05 11:25:06 ....A       296055               3DNes.app\Contents\Resources\ScreenSelector.png
+2016-12-05 11:25:04 ....A         4397               3DNes.app\Contents\Resources\UnityPlayerIcon.png
+2016-12-05 11:25:02 ....A        25817               3DNes.app\Contents\Data\Managed\etc\mono\mconfig\config.xml
+2016-12-05 11:25:04 ....A      2109547               3DNes.app\Contents\Resources\Data\Managed\UnityEngine.xml
+2016-12-05 11:25:02 ....A        58196               3DNes.app\Contents\Data\Managed\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx
+2016-12-05 11:25:02 ....A        60453               3DNes.app\Contents\Data\Managed\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+2016-12-05 11:25:02 ....A       311984               3DNes.app\Contents\Data\Managed\etc\mono\browscap.ini
+2016-12-05 10:15:54 ....A       800768               Manual.doc
+2016-12-05 11:25:04 ....A       394194               3DNes.app\Contents\Resources\Data\Managed\UnityEngine.dll.mdb
+2016-12-05 11:25:04 ....A        95376               3DNes.app\Contents\Plugins\libzipw.so
+2016-12-10 16:25:48 ....A       135776               3DNes.app\Contents\Resources\Data\globalgamemanagers.assets
+2016-12-05 11:25:04 ....A       751408               3DNes.app\Contents\Resources\Data\resources.assets
+2016-12-05 11:25:04 ....A       560072               3DNes.app\Contents\Resources\Data\sharedassets0.assets
+2016-12-05 11:25:02 ....A         1605               3DNes.app\Contents\Data\Managed\etc\mono\2.0\Browsers\Compat.browser
+2016-12-05 11:25:02 ....A        17258               3DNes.app\Contents\Data\Managed\etc\mono\1.0\machine.config
+2016-12-05 11:25:02 ....A        27625               3DNes.app\Contents\Data\Managed\etc\mono\2.0\machine.config
+2016-12-05 11:25:02 ....A        11686               3DNes.app\Contents\Data\Managed\etc\mono\2.0\web.config
+2016-12-05 11:25:02 ....A      3149060               3DNes.app\Contents\Frameworks\MonoEmbedRuntime\osx\libmono.0.dylib
+2016-12-05 11:25:02 ....A       350040               3DNes.app\Contents\Frameworks\MonoEmbedRuntime\osx\libMonoPosixHelper.dylib
+2016-12-05 11:25:06 ....A       549191               3DNes.app\Contents\Resources\PlayerIcon.icns
+2016-12-10 16:37:40 ....A         2413               changes.log
+2016-12-05 11:25:02 ....A         2618               3DNes.app\Contents\Data\Managed\etc\mono\2.0\settings.map
+2016-12-05 11:25:04 ....A           94               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeDirectory.meta
+2016-12-05 11:25:04 ....A           94               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeRequirements.meta
+2016-12-05 11:25:04 ....A           94               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeResources.meta
+2016-12-05 11:25:04 ....A           94               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeSignature.meta
+2016-12-05 11:25:04 ....A          107               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents.meta
+2016-12-05 11:25:04 ....A          157               3DNes.app\Contents\Plugins\libzipw.bundle\Contents.meta
+2016-12-05 11:25:04 ....A           90               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\MacOS\InControlNative.meta
+2016-12-05 11:25:04 ....A           90               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\Info.plist.meta
+2016-12-05 11:25:04 ....A          184               3DNes.app\Contents\Plugins\libzipw.bundle\Contents\Info.plist.meta
+2016-12-05 11:25:04 ....A          184               3DNes.app\Contents\Plugins\libzipw.bundle\Contents\MacOS\libzipw.meta
+2016-12-05 11:25:04 ....A          107               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\MacOS.meta
+2016-12-05 11:25:04 ....A          157               3DNes.app\Contents\Plugins\libzipw.bundle\Contents\MacOS.meta
+2016-12-05 11:25:04 ....A          112               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature.meta
+2016-12-05 11:25:04 ....A          309               3DNes.app\Contents\Resources\KeyConfig.nib\classes.nib
+2016-12-05 11:25:04 ....A          787               3DNes.app\Contents\Resources\MainMenu.nib\classes.nib
+2016-12-05 11:25:04 ....A         1299               3DNes.app\Contents\Resources\ScreenSelector.nib\classes.nib
+2016-12-05 11:25:04 ....A          450               3DNes.app\Contents\Resources\KeyConfig.nib\info.nib
+2016-12-05 11:25:04 ....A          471               3DNes.app\Contents\Resources\ScreenSelector.nib\info.nib
+2016-12-05 11:25:04 ....A          622               3DNes.app\Contents\Resources\MainMenu.nib\info.nib
+2016-12-05 11:25:04 ....A         3934               3DNes.app\Contents\Resources\KeyConfig.nib\keyedobjects.nib
+2016-12-05 11:25:04 ....A        10428               3DNes.app\Contents\Resources\MainMenu.nib\keyedobjects.nib
+2016-12-05 11:25:04 ....A        17556               3DNes.app\Contents\Resources\ScreenSelector.nib\keyedobjects.nib
+2016-12-05 11:25:04 ....A          300               3DNes.app\Contents\Resources\DefaultPreferences.plist
+2016-12-05 11:25:02 ....A         1133               3DNes.app\Contents\Info.plist
+2016-12-05 11:25:04 ....A         1359               3DNes.app\Contents\Plugins\libzipw.bundle\Contents\Info.plist
+2016-12-05 11:25:04 ....A         1362               3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\Info.plist
+2016-12-05 11:25:04 ....A     22382688               3DNes.app\Contents\Resources\Data\resources.assets.resS
+2016-12-05 11:25:04 ....A       473904               3DNes.app\Contents\Resources\Data\sharedassets0.assets.resS
+2016-12-05 11:25:04 ....A        20908               3DNes.app\Contents\Resources\Ageia.tif
+2016-12-05 11:25:04 ....A        22702               3DNes.app\Contents\Resources\Mono.tif
+2016-12-10 16:25:52 ....A        10240      3079900  3DNes.app\Contents\Resources\Data\Managed\Assembly-CSharp-firstpass.dll
+2016-12-10 16:25:52 ....A      1363456               3DNes.app\Contents\Resources\Data\Managed\Assembly-CSharp.dll
+2016-12-05 11:25:04 ....A        39936               3DNes.app\Contents\Resources\Data\Managed\corelib.dll
+2016-12-05 11:25:04 ....A       139264               3DNes.app\Contents\Resources\Data\Managed\DOTween.dll
+2016-12-05 11:25:04 ....A         9728               3DNes.app\Contents\Resources\Data\Managed\DOTween43.dll
+2016-12-05 11:25:04 ....A        20480               3DNes.app\Contents\Resources\Data\Managed\DOTween46.dll
+2016-12-05 11:25:04 ....A         5632               3DNes.app\Contents\Resources\Data\Managed\DOTween50.dll
+2016-12-05 11:25:04 ....A        96256               3DNes.app\Contents\Resources\Data\Managed\Mono.Data.Tds.dll
+2016-12-05 11:25:04 ....A       184320               3DNes.app\Contents\Resources\Data\Managed\Mono.Posix.dll
+2016-12-05 11:25:04 ....A       294912               3DNes.app\Contents\Resources\Data\Managed\Mono.Security.dll
+2016-12-05 11:25:04 ....A      2590208               3DNes.app\Contents\Resources\Data\Managed\mscorlib.dll
+2016-12-05 11:25:04 ....A       507392               3DNes.app\Contents\Resources\Data\Managed\Newtonsoft.Json.dll
+2016-12-05 11:25:04 ....A       124928               3DNes.app\Contents\Resources\Data\Managed\System.Configuration.dll
+2016-12-05 11:25:04 ....A        22528               3DNes.app\Contents\Resources\Data\Managed\System.Configuration.Install.dll
+2016-12-05 11:25:04 ....A       297472               3DNes.app\Contents\Resources\Data\Managed\System.Core.dll
+2016-12-05 11:25:04 ....A       856064               3DNes.app\Contents\Resources\Data\Managed\System.Data.dll
+2016-12-05 11:25:04 ....A      1679360               3DNes.app\Contents\Resources\Data\Managed\System.dll
+2016-12-05 11:25:04 ....A       448512               3DNes.app\Contents\Resources\Data\Managed\System.Drawing.dll
+2016-12-05 11:25:04 ....A        46592               3DNes.app\Contents\Resources\Data\Managed\System.EnterpriseServices.dll
+2016-12-05 11:25:04 ....A        48640               3DNes.app\Contents\Resources\Data\Managed\System.Management.dll
+2016-12-05 11:25:04 ....A       135168               3DNes.app\Contents\Resources\Data\Managed\System.Security.dll
+2016-12-05 11:25:04 ....A        27648               3DNes.app\Contents\Resources\Data\Managed\System.Transactions.dll
+2016-12-05 11:25:04 ....A      1270272               3DNes.app\Contents\Resources\Data\Managed\System.Xml.dll
+2016-12-05 11:25:04 ....A         3072               3DNes.app\Contents\Resources\Data\Managed\UnityEngine.Analytics.dll
+2016-12-05 11:25:04 ....A      1121792               3DNes.app\Contents\Resources\Data\Managed\UnityEngine.dll
+2016-12-05 11:25:04 ....A       236032               3DNes.app\Contents\Resources\Data\Managed\UnityEngine.Networking.dll
+2016-12-05 11:25:04 ....A       221696               3DNes.app\Contents\Resources\Data\Managed\UnityEngine.UI.dll
+2016-12-05 11:25:04 ....A         6144               3DNes.app\Contents\Resources\Data\Managed\verified.dll
+2016-12-05 11:25:04 ....A            0            0  3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature\CodeSignature
+2017-03-17 09:33:03 D....            0            0  3DNes.app\Contents\Resources\ScreenSelector.nib
+2017-03-17 09:33:03 D....            0            0  3DNes.app\Contents\Resources\MainMenu.nib
+2017-03-17 09:33:03 D....            0            0  3DNes.app\Contents\Resources\KeyConfig.nib
+2017-03-17 09:33:02 D....            0            0  3DNes.app\Contents\Resources\Data\Resources
+2017-03-17 09:33:02 D....            0            0  3DNes.app\Contents\Resources\Data\Managed
+2017-03-17 09:33:03 D....            0            0  3DNes.app\Contents\Resources\Data
+2017-03-17 09:33:03 D....            0            0  3DNes.app\Contents\Resources
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins\libzipw.bundle\Contents\MacOS
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins\libzipw.bundle\Contents
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins\libzipw.bundle
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\_CodeSignature
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins\InControlNative.bundle\Contents\MacOS
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins\InControlNative.bundle\Contents
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins\InControlNative.bundle
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents\Plugins
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\MacOS
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Frameworks\MonoEmbedRuntime\osx
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Frameworks\MonoEmbedRuntime
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Frameworks
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Data\Managed\etc\mono\mconfig
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Data\Managed\etc\mono\2.0\Browsers
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Data\Managed\etc\mono\2.0
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Data\Managed\etc\mono\1.0
+2017-03-17 09:32:59 D....            0            0  3DNes.app\Contents\Data\Managed\etc\mono
+2017-03-17 09:32:58 D....            0            0  3DNes.app\Contents\Data\Managed\etc
+2017-03-17 09:32:58 D....            0            0  3DNes.app\Contents\Data\Managed
+2017-03-17 09:32:58 D....            0            0  3DNes.app\Contents\Data
+2017-03-17 09:33:00 D....            0            0  3DNes.app\Contents
+2017-03-17 09:32:58 D....            0            0  3DNes.app
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 09:33:03           75651600     17626790  92 files, 29 folders
