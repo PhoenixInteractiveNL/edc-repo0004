@@ -1,0 +1,8 @@
+ What's new for version 5.30b (01/11/2017)
+ -----------------------------------------
+ - Fixed a few problems in the GUI dialogs.
+ - Fixed a yellow vertical scanline in the 4x squared blitter.
+ - Fixed a glitch displaying status messages during gameplay.
+ - Fixed PPU clipping and motion blur enable/disable flag in the GUI.
+ - Triple buffering should set the video flag to fullscreen, fixed.
+ - Fixed version number in the documentation.

@@ -1,0 +1,14 @@
+ What's new for version 5.41 (01/20/2017)
+ ----------------------------------------
+ - Custom fullscreen mode should be working again.
+ - Fixed input devices GUI dialog.
+ - Fixed a few problems with the wallpaper.
+ - Switching to fullscreen mode should look at custom fullscreen settings,
+instead of using the current desktop resolution! Problem fixed!
+ - Switching to fullscreen mode should reset the upscaler to the original
+(256x240) if its height is greater than the screen height. Problem fixed!
+ - Added a blitter checking on GUI init routine to avoid blitting problems.
+ - Fixed blitting position on video resolution change.
+ - Fixed a few annoyances in the upscaler stuff.
+ - Added colors to a few GUI alert boxes, plus minor cosmetic changes.
+ - Documentation updated with new information.

@@ -1,0 +1,7 @@
+ What's new for version 5.30d (01/14/2017)
+ -----------------------------------------
+ - Fixed program behaviour on startup, now it runs in background again.
+ - Fixed mapper 32 (Irem G-101).
+ - Fixed a bug setting mapper 90 nametable control flag.
+ - Fixed APU volume clipping.
+ - A few color style labels were slightly changed.

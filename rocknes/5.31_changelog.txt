@@ -1,0 +1,22 @@
+ What's new for version 5.31 (01/17/2017)
+ ----------------------------------------
+ - Reworked screen upscalers, put back the 4:3 VGA aspect ratio.
+ - Changed the default screen upscaler to 1 (2x size).
+ - Fixed a bug reading the screen size setting from config file.
+ - Fixed motion blur flag parsing from config file.
+ - Fixed hotkeys, DiskDude detection and PPU clipping enable/disable flags.
+ - Fixed a few values in the "Restore defaults" option.
+ - Fixed mapper 90 IRQs, no more flickering scorebars.
+ - Fixed mappers 101 (Jaleco JF-10) and 243 (SACHEN).
+ - Added mapper 150 (SACHEN v2) and removed mapper 110 (bad number).
+ - On ROM loading, the mapper number is now displayed if not supported.
+ - Fixed grayscales and mushroom color styles.
+ - Improved red, green and blue emphasis color styles.
+ - Improved magenta color style, looks much better.
+ - Added 3 new color styles: olive, nocturn and sketch.
+ - Replaced the negative sepia color style by sepia alt. brightness.
+ - Fixed various typos in the GUI dialogs.
+ - Added a short main menu if the resolution is less than 480p.
+ - Program version information was outdated! It's ok now.
+ - Other minor fixes there and there, cleanups.
+ - New superb program icon!
