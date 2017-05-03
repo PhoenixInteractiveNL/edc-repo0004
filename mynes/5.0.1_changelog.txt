@@ -1,0 +1,15 @@
+What's new in version 5.0.1:
+============================
+* Added MLV library for ListView instead of normal listview.
+* Added ability to manage columns of the listview.
+* Added thumbnails view.
+* Added welcome window which get shown at the program startup and give ability to play recent game or recent save state.
+* Added INES format file header editor.
+* Added INES files fixer tool.
+* Added ability to rate each game.
+* Added ability to store additional info for each rom in the beowser.
+* Added zapper support to SDL .Net renderer.
+* Added playd times counter which count play times of a game.
+* Improved: the cache rebuild operation will not delete rom in the list if it's already exist to keep the rating, snapshot, cover....etc
+* Imporved: you can open rom information of a rom even that rom is not on emulation.
+* Fixed: a lot of bugs.

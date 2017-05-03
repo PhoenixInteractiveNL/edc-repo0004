@@ -1,0 +1,36 @@
+2017/04/06
+
+* Version 0.95.5
+
+* Review the DISK module as a whole, change the following
+
+- Comprehensively reviewing the data sheet, D 88 specification and operation of MB 8877
+Fix the differences, work as far as possible to ensure that all functions do not inconvenience
+Implemented in (disk module, old memory without FDC material, hand held
+It was based on what I made in a few days with software analysis
+Although it is in the range that can be done this time, it is roughly exact
+It should have worked)
+
+- Added FDC command of Read Track / Write Track (format)
+
+- A countermeasure against 17 sectors problem of Write Track and a function to ignore CRC error
+add to
+
+- Set CRC value of FDC Read ID
+
+- Seek time came to refer at seek
+
+- Corrected to check discontinuous disks to some extent on the way
+            (In particular, binary of arbitrary size in 2D format is regarded as FDD and reading
+It became possible. Convenient for exchanging data on PC)
+
+- Because it was rarely used for the 2D format, it was quite a long time ago
+Fixed bug that did not set some internal status from
+(After driving the standard format 320 KB drive in D88 format for each drive
+It seems that you did not encounter problems as it did not surf)
+
+- For internal IPL, a disk whose data area is other than N = 1 (256 bytes)
+Changes to be able to read, fine modification to reflect the I / O port of the disk
+Good
+
+* When FD media is not available, status display is changed to * when motor is ON

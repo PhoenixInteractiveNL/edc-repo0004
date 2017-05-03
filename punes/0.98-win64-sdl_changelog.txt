@@ -1,0 +1,4 @@
+- Windows: fixed a bug (introduced in the rewriting of the audio subsystem of version 0.97) that did not allow the correct synchronization between threads distorting the sound after a few minutes of use.
+- fixed a typo in the config file configuration for the "panning" option.
+- converted to autotools build system.
+- from now puNES is an open-source project (https://github.com/punesemu/puNES). I will continue to release binaries for Linux versions even though I do not think will serve much longer. At compile time, you can specify whether you want to use the QT5 instead of QT4 passing the "--enable-qt5" to configure.

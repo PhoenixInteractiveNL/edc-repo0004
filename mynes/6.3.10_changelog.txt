@@ -1,0 +1,4 @@
+What's New in version 6.3.10
+----------------------------
+* Added: new handler for BlipBuffer, blipbuffer updated to the latest version. My Nes now sounds even better.
+* Improved: emulation speed control.

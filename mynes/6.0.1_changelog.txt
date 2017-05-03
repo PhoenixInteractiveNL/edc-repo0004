@@ -1,0 +1,5 @@
+What's New in Version 6.0.1
+---------------------------
+. Fixed: Triangle sound channel curroption for low frequencies (freq < 4)
+. Fixed: "Battletoads" hangs on stage 2 fixed, the problem was in 'DMC DMA occuring and game asserts other DMC DMA'
+. Fixed: The "Detect" window for the Launcher never work when the default installed Language in Windows is not English (US)

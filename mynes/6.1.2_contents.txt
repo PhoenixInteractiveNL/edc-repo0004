@@ -1,0 +1,302 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-06-26 11:27:26 ....A          150      1096398  Help\icons\1.gif
+2004-06-26 11:21:42 ....A          159               Help\icons\11.gif
+2004-06-26 11:25:54 ....A          167               Help\icons\2.gif
+2003-08-11 21:27:08 ....A           68               Help\icons\arrowdn.gif
+2003-08-11 21:27:08 ....A           70               Help\icons\arrowrt.gif
+2002-10-28 20:05:28 ....A           55               Help\icons\blank.gif
+2013-02-06 16:22:36 ....A         1382               Help\scr\template\btn_next_g.gif
+2013-02-06 16:22:36 ....A         1390               Help\scr\template\btn_next_n.gif
+2013-02-06 16:22:36 ....A         1392               Help\scr\template\btn_prev_g.gif
+2013-02-06 16:22:36 ....A         1381               Help\scr\template\btn_prev_n.gif
+2004-04-22 18:01:04 ....A           73               Help\icons\cminus.gif
+2004-04-22 18:01:18 ....A           74               Help\icons\cplus.gif
+2003-11-09 18:41:46 ....A           79               Help\icons\daminus.gif
+2003-11-09 18:41:46 ....A           84               Help\icons\daplus.gif
+2003-11-09 18:41:46 ....A           67               Help\icons\downangle.gif
+2013-02-06 16:22:36 ....A         1512               Help\scr\template\hgrad.gif
+2008-07-31 17:45:42 ....A          157               Help\images\hideall.gif
+2003-11-09 18:41:46 ....A           69               Help\icons\line.gif
+2013-02-06 16:22:36 ....A         1409               Help\scr\template\logo.gif
+2003-12-06 19:40:02 ....A           79               Help\icons\minus.gif
+2008-07-31 17:44:48 ....A          156               Help\images\next.gif
+2003-12-06 19:39:14 ....A           84               Help\icons\plus.gif
+2008-07-31 17:44:22 ....A          156               Help\images\previous.gif
+2008-07-30 17:15:42 ....A         1476               Help\images\print.gif
+2008-07-31 17:45:18 ....A          154               Help\images\showall.gif
+2003-12-06 18:00:28 ....A           59               Help\icons\sline.gif
+2003-12-06 18:00:04 ....A           82               Help\icons\sminus.gif
+2003-12-06 17:59:48 ....A           86               Help\icons\splus.gif
+2003-11-09 18:41:46 ....A           81               Help\icons\tminus.gif
+2003-11-09 18:41:46 ....A           86               Help\icons\tplus.gif
+2003-11-09 18:41:46 ....A           71               Help\icons\tshaped.gif
+2003-11-09 18:41:46 ....A           81               Help\icons\uaminus.gif
+2003-11-09 18:41:46 ....A           86               Help\icons\uaplus.gif
+2003-11-09 18:41:46 ....A           69               Help\icons\upangle.gif
+2009-08-05 23:28:40 ....A        15664               Help\back.jpg
+2014-08-21 17:35:26 ....A        21899               Help\scr\info_tab_snap.JPG
+2014-08-21 15:55:38 ....A        44745               Help\scr\launcher_detet_snap.JPG
+2014-08-21 10:34:53 ....A       252202               Help\scr\launcher_snap.JPG
+2014-08-21 17:45:53 ....A        49735               Help\scr\manuals_snap.JPG
+2014-08-21 17:17:46 ....A        51290               Help\scr\Snapshots_Tab.JPG
+2014-08-20 17:33:25 ....A         1627               Help\scr\CART.png
+2014-08-21 20:24:53 ....A          314               Help\scr\Adding_And_Assiging_Files_files\colorschememapping.xml
+2014-08-21 20:37:56 ....A          314               Help\scr\Game_files\colorschememapping.xml
+2014-08-21 20:38:51 ....A          314               Help\scr\How_To_files\colorschememapping.xml
+2014-08-21 20:40:37 ....A          314               Help\scr\Inputs_files\colorschememapping.xml
+2014-08-21 20:43:09 ....A          314               Help\scr\Introduction_files\colorschememapping.xml
+2014-08-21 20:47:52 ....A          314               Help\scr\Navifating_files\colorschememapping.xml
+2014-08-21 20:49:52 ....A          314               Help\scr\Paths_files\colorschememapping.xml
+2014-08-21 20:50:09 ....A          314               Help\scr\Play_4_Players_files\colorschememapping.xml
+2014-08-21 20:50:26 ....A          314               Help\scr\Play_A_Game_files\colorschememapping.xml
+2014-08-21 20:51:15 ....A          314               Help\scr\Preferences_files\colorschememapping.xml
+2014-08-21 20:51:46 ....A          314               Help\scr\Region_files\colorschememapping.xml
+2014-08-21 20:52:09 ....A          314               Help\scr\Save_Or_Load_State_files\colorschememapping.xml
+2014-08-21 20:53:41 ....A          314               Help\scr\Show_Rom_Info_files\colorschememapping.xml
+2014-08-21 20:56:40 ....A          314               Help\scr\Use_Turbo_files\colorschememapping.xml
+2014-08-21 20:57:29 ....A          314               Help\scr\Video_files\colorschememapping.xml
+2014-08-22 08:18:33 ....A          314               Help\scr\Improve_Performance_With_Frame_Skip_files\colorschememapping.xml
+2014-08-22 09:32:04 ....A          314               Help\scr\Detect_Info_Files_files\colorschememapping.xml
+2014-08-22 09:37:20 ....A          314               Help\scr\Play_Using_Zapper_files\colorschememapping.xml
+2014-08-22 09:38:15 ....A          314               Help\scr\Language_files\colorschememapping.xml
+2014-08-22 09:38:35 ....A          314               Help\scr\Game_Genie_files\colorschememapping.xml
+2014-08-22 09:38:53 ....A          314               Help\scr\Palettes_files\colorschememapping.xml
+2014-08-22 09:39:32 ....A          314               Help\scr\Launcher_files\colorschememapping.xml
+2014-08-22 09:39:49 ....A          314               Help\scr\Fisrt_Time_Launching_The_Launcher_files\colorschememapping.xml
+2014-08-22 09:40:33 ....A          314               Help\scr\Search_The_Database_files\colorschememapping.xml
+2014-08-22 09:40:46 ....A          314               Help\scr\Info_Tabs_files\colorschememapping.xml
+2014-08-22 09:41:05 ....A          314               Help\scr\Snapshots_files\colorschememapping.xml
+2014-08-22 09:41:21 ....A          314               Help\scr\Info_files\colorschememapping.xml
+2014-08-22 09:41:33 ....A          314               Help\scr\Manuals_files\colorschememapping.xml
+2014-08-22 09:41:44 ....A          314               Help\scr\Misc_files\colorschememapping.xml
+2014-08-22 09:42:04 ....A          314               Help\scr\Command_Lines_files\colorschememapping.xml
+2014-08-22 09:42:16 ....A          314               Help\scr\Truobleshooting_files\colorschememapping.xml
+2014-08-22 09:42:30 ....A          314               Help\scr\Settings_files\colorschememapping.xml
+2014-08-23 10:10:45 ....A          314               Help\scr\Machine_files\colorschememapping.xml
+2014-08-23 10:13:24 ....A          314               Help\scr\System_Requirements_files\colorschememapping.xml
+2014-08-23 10:19:38 ....A          314               Help\scr\Features_And_Specification_files\colorschememapping.xml
+2014-08-23 10:21:20 ....A          314               Help\scr\Copyright_Notice_files\colorschememapping.xml
+2014-08-23 10:23:06 ....A          314               Help\scr\Audio_files\colorschememapping.xml
+2014-10-18 10:43:08 ....A          314               Help\scr\What's_New_files\colorschememapping.xml
+2012-10-22 17:20:07 ....A      1972088               database.xml
+2014-08-21 20:24:53 ....A          291               Help\scr\Adding_And_Assiging_Files_files\filelist.xml
+2014-08-21 20:37:56 ....A          206               Help\scr\Game_files\filelist.xml
+2014-08-21 20:38:51 ....A          208               Help\scr\How_To_files\filelist.xml
+2014-08-21 20:40:37 ....A          208               Help\scr\Inputs_files\filelist.xml
+2014-08-21 20:43:09 ....A          214               Help\scr\Introduction_files\filelist.xml
+2014-08-21 20:47:52 ....A          212               Help\scr\Navifating_files\filelist.xml
+2014-08-21 20:49:52 ....A          207               Help\scr\Paths_files\filelist.xml
+2014-08-21 20:50:09 ....A          216               Help\scr\Play_4_Players_files\filelist.xml
+2014-08-21 20:50:26 ....A          213               Help\scr\Play_A_Game_files\filelist.xml
+2014-08-21 20:51:15 ....A          213               Help\scr\Preferences_files\filelist.xml
+2014-08-21 20:51:46 ....A          208               Help\scr\Region_files\filelist.xml
+2014-08-21 20:52:09 ....A          220               Help\scr\Save_Or_Load_State_files\filelist.xml
+2014-08-21 20:53:41 ....A          215               Help\scr\Show_Rom_Info_files\filelist.xml
+2014-08-21 20:56:40 ....A          211               Help\scr\Use_Turbo_files\filelist.xml
+2014-08-21 20:57:29 ....A          207               Help\scr\Video_files\filelist.xml
+2014-08-22 08:18:33 ....A          237               Help\scr\Improve_Performance_With_Frame_Skip_files\filelist.xml
+2014-08-22 09:32:04 ....A          219               Help\scr\Detect_Info_Files_files\filelist.xml
+2014-08-22 09:37:20 ....A          219               Help\scr\Play_Using_Zapper_files\filelist.xml
+2014-08-22 09:38:15 ....A          210               Help\scr\Language_files\filelist.xml
+2014-08-22 09:38:35 ....A          212               Help\scr\Game_Genie_files\filelist.xml
+2014-08-22 09:38:53 ....A          210               Help\scr\Palettes_files\filelist.xml
+2014-08-22 09:39:32 ....A          210               Help\scr\Launcher_files\filelist.xml
+2014-08-22 09:39:49 ....A          235               Help\scr\Fisrt_Time_Launching_The_Launcher_files\filelist.xml
+2014-08-22 09:40:33 ....A          221               Help\scr\Search_The_Database_files\filelist.xml
+2014-08-22 09:40:46 ....A          211               Help\scr\Info_Tabs_files\filelist.xml
+2014-08-22 09:41:05 ....A          211               Help\scr\Snapshots_files\filelist.xml
+2014-08-22 09:41:21 ....A          206               Help\scr\Info_files\filelist.xml
+2014-08-22 09:41:33 ....A          209               Help\scr\Manuals_files\filelist.xml
+2014-08-22 09:41:44 ....A          206               Help\scr\Misc_files\filelist.xml
+2014-08-22 09:42:05 ....A          215               Help\scr\Command_Lines_files\filelist.xml
+2014-08-22 09:42:16 ....A          217               Help\scr\Truobleshooting_files\filelist.xml
+2014-08-22 09:42:30 ....A          210               Help\scr\Settings_files\filelist.xml
+2014-08-23 10:10:45 ....A          209               Help\scr\Machine_files\filelist.xml
+2014-08-23 10:13:24 ....A          221               Help\scr\System_Requirements_files\filelist.xml
+2014-08-23 10:19:38 ....A          228               Help\scr\Features_And_Specification_files\filelist.xml
+2014-08-23 10:21:20 ....A          218               Help\scr\Copyright_Notice_files\filelist.xml
+2014-08-23 10:23:06 ....A          207               Help\scr\Audio_files\filelist.xml
+2014-10-18 10:43:08 ....A          212               Help\scr\What's_New_files\filelist.xml
+2014-08-21 20:24:53 ....A          254               Help\scr\Adding_And_Assiging_Files_files\item0001.xml
+2014-08-21 20:24:53 ....A          341               Help\scr\Adding_And_Assiging_Files_files\props002.xml
+2014-10-24 09:27:05 ....A        29205               Help\scr\Adding_And_Assiging_Files.htm
+2014-10-24 09:27:05 ....A        19012               Help\scr\Audio.htm
+2014-10-24 09:27:05 ....A        81925               Help\scr\Command_Lines.htm
+2014-10-24 09:27:04 ....A        16032               Help\scr\Copyright_Notice.htm
+2014-10-24 09:27:05 ....A         5314               Help\scr\Covers.htm
+2014-10-24 09:27:05 ....A        33961               Help\scr\Detect_Info_Files.htm
+2014-10-24 09:27:04 ....A        24850               Help\scr\Features_And_Specification.htm
+2014-10-24 09:27:05 ....A        23656               Help\scr\Fisrt_Time_Launching_The_Launcher.htm
+2014-10-24 09:27:05 ....A        12815               Help\scr\Game.htm
+2014-10-24 09:27:04 ....A        21311               Help\scr\Game_Genie.htm
+2014-10-24 09:27:04 ....A         7597               Help\scr\How_To.htm
+2014-10-24 09:27:04 ....A        20423               Help\scr\Improve_Performance_With_Frame_Skip.htm
+2014-10-24 09:27:06 ....A         1427               Help\index.htm
+2014-10-24 09:27:06 ....A          799               Help\indexh.htm
+2014-10-24 09:27:05 ....A        16056               Help\scr\Info.htm
+2014-10-24 09:27:05 ....A         7471               Help\scr\Info_Tabs.htm
+2014-10-24 09:27:05 ....A        18965               Help\scr\Inputs.htm
+2014-10-24 09:27:04 ....A         9625               Help\scr\Introduction.htm
+2014-10-24 09:27:04 ....A         7889               Help\scr\Language.htm
+2014-10-24 09:27:05 ....A        10507               Help\scr\Launcher.htm
+2014-10-24 09:27:05 ....A        19583               Help\scr\Machine.htm
+2014-10-24 09:27:05 ....A        15910               Help\scr\Manuals.htm
+2014-10-24 09:27:05 ....A         7169               Help\scr\Misc.htm
+2014-10-24 09:27:05 ....A        23954               Help\scr\Navifating.htm
+2014-10-24 09:27:05 ....A        24150               Help\scr\Palettes.htm
+2014-10-24 09:27:05 ....A        18406               Help\scr\Paths.htm
+2014-10-24 09:27:04 ....A        13273               Help\scr\Play_4_Players.htm
+2014-10-24 09:27:04 ....A        10718               Help\scr\Play_A_Game.htm
+2014-10-24 09:27:04 ....A        12605               Help\scr\Play_Using_Zapper.htm
+2014-10-24 09:27:05 ....A        16554               Help\scr\Preferences.htm
+2014-10-24 09:27:04 ....A        12306               Help\scr\Region.htm
+2014-10-24 09:27:04 ....A        12208               Help\scr\Save_Or_Load_State.htm
+2014-10-24 09:27:05 ....A        36715               Help\scr\Search_The_Database.htm
+2014-10-24 09:27:04 ....A         7476               Help\scr\Settings.htm
+2014-10-24 09:27:04 ....A        13904               Help\scr\Show_Rom_Info.htm
+2014-10-24 09:27:05 ....A        15977               Help\scr\Snapshots.htm
+2014-10-24 09:27:04 ....A         5691               Help\scr\Support.htm
+2014-10-24 09:27:04 ....A         5355               Help\scr\Switch_To_Fullscreen_Mode.htm
+2014-10-24 09:27:04 ....A        14586               Help\scr\System_Requirements.htm
+2014-10-24 09:27:05 ....A        45773               Help\scr\Truobleshooting.htm
+2014-10-24 09:27:04 ....A        13590               Help\scr\Use_Turbo.htm
+2014-10-24 09:27:05 ....A        18644               Help\scr\Video.htm
+2014-10-24 09:27:07 ....A         5908               Help\webhelpbookmark.htm
+2014-10-24 09:27:07 ....A        21259               Help\webhelpcontents.htm
+2014-10-24 09:27:06 ....A         1123               Help\webhelpframe.htm
+2014-10-24 09:27:07 ....A        12796               Help\webhelpindex.htm
+2014-10-24 09:27:07 ....A          617               Help\webhelpleft.htm
+2014-10-24 09:27:07 ....A        12051               Help\webhelplefth.htm
+2014-10-24 09:27:07 ....A         7754               Help\webhelpsearch.htm
+2014-10-24 09:27:07 ....A         2026               Help\webhelptoolbar.htm
+2014-10-24 09:27:06 ....A         3172               Help\webhelptop.htm
+2014-10-24 09:27:06 ....A          714               Help\webhelptoph.htm
+2014-10-24 09:27:04 ....A        16228               Help\scr\What's_New.htm
+2010-11-04 22:50:52 ....A        38927               GNU GENERAL PUBLIC LICENSE 3.0.html
+2008-07-31 21:55:00 ....A         2221               Help\style.css
+2014-10-24 09:27:07 ....A       100203               Help\data.js
+2014-10-24 09:27:07 ....A        11114               Help\languages.js
+2014-10-24 09:21:14 ....A         2256               Change Log.txt
+2014-08-23 10:48:00 ....A         6193               Copyright Notice.txt
+2014-10-24 09:22:10 ....A         9348               Readme.txt
+2014-08-23 10:49:50 ....A         1843               ç©šëï.txt
+2013-06-11 19:53:44 ....A       473170               Ÿé¢©¤ê¡ Ÿéäï© ©«êï¡ é©¦­¡ äëí éãŸê¡ Ÿé¬ã  éî Ÿéã© ï¡.pdf
+2009-12-31 17:08:46 ....A          192               Palettes\ASQ_realityA.pal
+2009-12-31 17:08:46 ....A          192               Palettes\ASQ_realityB.pal
+2009-12-31 17:08:46 ....A          192               Palettes\BMF_final2.pal
+2009-12-31 17:08:46 ....A          192               Palettes\BMF_final3.pal
+2009-12-31 17:08:46 ....A          192               Palettes\FCEU-13-default_nitsuja.pal
+2009-12-31 17:08:46 ....A          192               Palettes\FCEU-15-nitsuja_new.pal
+2009-12-31 17:08:46 ....A          192               Palettes\FCEUX.pal
+2005-03-03 18:30:32 ....A          192               Palettes\NTSC.pal
+2005-03-03 18:30:32 ....A          192               Palettes\PAL.pal
+2005-07-01 05:43:32 ....A          192               Palettes\pc10.pal
+2006-02-14 00:04:22 ....A         1536               Palettes\pc10emph.pal
+2005-11-20 10:03:02 ....A          192               Palettes\vs_001.pal
+2006-02-14 00:05:59 ....A         1536               Palettes\vs_001emph.pal
+2006-06-01 05:56:15 ....A          192               Palettes\vs_002.pal
+2006-06-01 05:56:16 ....A         1536               Palettes\vs_002emph.pal
+2006-06-01 05:56:41 ....A          192               Palettes\vs_003.pal
+2006-06-01 05:56:42 ....A         1536               Palettes\vs_003emph.pal
+2006-06-21 05:45:50 ....A          192               Palettes\vs_004.pal
+2006-06-21 05:44:41 ....A         1536               Palettes\vs_004emph.pal
+2014-08-21 20:24:53 ....A         3134               Help\scr\Adding_And_Assiging_Files_files\themedata.thmx
+2014-08-21 20:37:56 ....A         3134               Help\scr\Game_files\themedata.thmx
+2014-08-21 20:38:51 ....A         3134               Help\scr\How_To_files\themedata.thmx
+2014-08-21 20:40:37 ....A         3134               Help\scr\Inputs_files\themedata.thmx
+2014-08-21 20:43:09 ....A         3134               Help\scr\Introduction_files\themedata.thmx
+2014-08-21 20:47:52 ....A         3134               Help\scr\Navifating_files\themedata.thmx
+2014-08-21 20:49:52 ....A         3134               Help\scr\Paths_files\themedata.thmx
+2014-08-21 20:50:09 ....A         3134               Help\scr\Play_4_Players_files\themedata.thmx
+2014-08-21 20:50:26 ....A         3134               Help\scr\Play_A_Game_files\themedata.thmx
+2014-08-21 20:51:15 ....A         3134               Help\scr\Preferences_files\themedata.thmx
+2014-08-21 20:51:46 ....A         3134               Help\scr\Region_files\themedata.thmx
+2014-08-21 20:52:09 ....A         3134               Help\scr\Save_Or_Load_State_files\themedata.thmx
+2014-08-21 20:53:41 ....A         3134               Help\scr\Show_Rom_Info_files\themedata.thmx
+2014-08-21 20:56:40 ....A         3134               Help\scr\Use_Turbo_files\themedata.thmx
+2014-08-21 20:57:29 ....A         3134               Help\scr\Video_files\themedata.thmx
+2014-08-22 08:18:33 ....A         3134               Help\scr\Improve_Performance_With_Frame_Skip_files\themedata.thmx
+2014-08-22 09:32:04 ....A         3134               Help\scr\Detect_Info_Files_files\themedata.thmx
+2014-08-22 09:37:20 ....A         3134               Help\scr\Play_Using_Zapper_files\themedata.thmx
+2014-08-22 09:38:15 ....A         3134               Help\scr\Language_files\themedata.thmx
+2014-08-22 09:38:35 ....A         3134               Help\scr\Game_Genie_files\themedata.thmx
+2014-08-22 09:38:53 ....A         3134               Help\scr\Palettes_files\themedata.thmx
+2014-08-22 09:39:32 ....A         3134               Help\scr\Launcher_files\themedata.thmx
+2014-08-22 09:39:49 ....A         3134               Help\scr\Fisrt_Time_Launching_The_Launcher_files\themedata.thmx
+2014-08-22 09:40:33 ....A         3134               Help\scr\Search_The_Database_files\themedata.thmx
+2014-08-22 09:40:46 ....A         3134               Help\scr\Info_Tabs_files\themedata.thmx
+2014-08-22 09:41:05 ....A         3134               Help\scr\Snapshots_files\themedata.thmx
+2014-08-22 09:41:21 ....A         3134               Help\scr\Info_files\themedata.thmx
+2014-08-22 09:41:33 ....A         3134               Help\scr\Manuals_files\themedata.thmx
+2014-08-22 09:41:44 ....A         3134               Help\scr\Misc_files\themedata.thmx
+2014-08-22 09:42:04 ....A         3134               Help\scr\Command_Lines_files\themedata.thmx
+2014-08-22 09:42:16 ....A         3134               Help\scr\Truobleshooting_files\themedata.thmx
+2014-08-22 09:42:30 ....A         3134               Help\scr\Settings_files\themedata.thmx
+2014-08-23 10:10:45 ....A         3134               Help\scr\Machine_files\themedata.thmx
+2014-08-23 10:13:24 ....A         3134               Help\scr\System_Requirements_files\themedata.thmx
+2014-08-23 10:19:38 ....A         3134               Help\scr\Features_And_Specification_files\themedata.thmx
+2014-08-23 10:21:20 ....A         3134               Help\scr\Copyright_Notice_files\themedata.thmx
+2014-08-23 10:23:06 ....A         3134               Help\scr\Audio_files\themedata.thmx
+2014-10-18 10:43:08 ....A         3134               Help\scr\What's_New_files\themedata.thmx
+2014-10-24 09:42:49 ....A      1181184      1956823  MyNes.exe
+2010-08-26 15:13:10 ....A      1129472               7z.dll
+2014-10-22 08:27:53 ....A         9216               AxInterop.AcroPDFLib.dll
+2014-10-23 19:23:52 ....A       297472               Core.dll
+2014-10-22 08:27:49 ....A        12800               Interop.AcroPDFLib.dll
+2014-10-22 09:43:31 ....A       134144               MLV.dll
+2014-10-22 09:43:31 ....A       106496               MMB.dll
+2014-10-24 09:42:49 ....A       355840               ar-SY\MyNes.resources.dll
+2014-10-24 09:42:50 ....A        26112               en-US\MyNes.resources.dll
+2013-10-13 20:39:17 ....A       151040               SevenZipSharp.dll
+2012-01-26 10:06:02 ....A      3383808               SlimDX.dll
+2013-05-20 14:58:08 ....A       620718               sqlite3.dll
+2010-04-18 12:33:46 ....A       159232               System.Data.SQLite.dll
+2017-05-03 09:42:32 D....            0            0  Palettes
+2017-05-03 09:42:31 D....            0            0  Help\scr\What's_New_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Video_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Use_Turbo_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Truobleshooting_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\template
+2017-05-03 09:42:31 D....            0            0  Help\scr\System_Requirements_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Snapshots_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Show_Rom_Info_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Settings_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Search_The_Database_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Save_Or_Load_State_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Region_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Preferences_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Play_Using_Zapper_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Play_A_Game_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Play_4_Players_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Paths_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Palettes_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Navifating_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Misc_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Manuals_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Machine_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Launcher_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Language_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Introduction_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Inputs_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Info_Tabs_files
+2017-05-03 09:42:31 D....            0            0  Help\scr\Info_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Improve_Performance_With_Frame_Skip_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\How_To_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Game_Genie_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Game_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Fisrt_Time_Launching_The_Launcher_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Features_And_Specification_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Detect_Info_Files_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Copyright_Notice_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Command_Lines_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Audio_files
+2017-05-03 09:42:30 D....            0            0  Help\scr\Adding_And_Assiging_Files_files
+2017-05-03 09:42:31 D....            0            0  Help\scr
+2017-05-03 09:42:30 D....            0            0  Help\images
+2017-05-03 09:42:30 D....            0            0  Help\icons
+2017-05-03 09:42:31 D....            0            0  Help
+2017-05-03 09:42:30 D....            0            0  en-US
+2017-05-03 09:42:30 D....            0            0  ar-SY
+------------------- ----- ------------ ------------  ------------------------
+2017-05-03 09:42:32           11601827      3053221  252 files, 46 folders

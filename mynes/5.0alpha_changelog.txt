@@ -1,0 +1,17 @@
+Version 5.0 ALPHA RELEASE:
+==========================
+This is an alpha release which means it's not stable and not complete. Development in progress.
+
+* Rewriten the emulator code and the old code replaced with optimized one.
+* Cpu improved to work on instruction-clock based mode (each operation in instruction will
+  clock components instead of waiting the instruction to complete before clock the instruction cycles).
+* Added interrupt vector interrupting behavior in cpu.
+* Added interrupt check before the last cycle behavior in cpu. 
+* Improved ppu to do exact pixel timing.
+* Fixed DMC sound channel.
+* Added undocumented dma unit emulation.
+* Added Dendy system.
+* Added Turbo buttons support.
+* Changed user interface to make the main window as browser.
+* Added abiblity to change renderer.
+* Added emulation shortcuts so that user can change shortcut keys like Save State button.

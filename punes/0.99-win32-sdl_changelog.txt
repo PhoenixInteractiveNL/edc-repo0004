@@ -1,0 +1,9 @@
+- (Windows) Fixed bug that allows the monitor turned off during a game session.
+- Added "Pause" shortcut. - Better support for the submappers in NES 2.0.
+- Fix for recognize correctly the CHR RAM size with the NES 2.0.
+- Fixed saving of the option 'Permit "Up + Down" and "Left + Right"...' in the configuration file.
+- Added two new palettes (Thanks to Firebrandx for his work http://www.firebrandx.com/nespalette.html).
+- Fixed the mirroring in the VRC2 mapper.
+- Added the full support for the RetroArch's shaders (https://github.com/libretro/common-shaders).
+- OpenGL version support ".glslp" and ".cgp" (**linux** version **need** that is istalled the **nvidia-cg-toolkit** package) shaders.
+- D3D9 version support only ".cgp" shaders. Then, based on experience made in these months of development, in D3D9 version many shader ".cgp" do not work (such as CRT-royale), it seems that this shaders has been developed for the OpenGL version.

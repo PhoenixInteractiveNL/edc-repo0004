@@ -1,0 +1,1192 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-12-12 14:32:26 ....A            3      1036909  .svn\entries
+2012-12-12 14:32:26 ....A            3               .svn\format
+2012-11-28 12:03:39 ....A        14530               VS Templates\MyNesBoard.zip
+2012-09-23 19:33:49 ....A        32929               MyNes\Resources\MyNesImage.png
+2012-09-23 20:16:47 ....A        47702               MyNes\Resources\FileGame-genie-nes-front.ico
+2012-09-23 19:26:44 ....A        25214               MyNes\Resources\MyNes.ico
+2012-11-17 20:40:12 ....A         1620               NesCore\Boards\Discreet\15in1ColorDreams.cs
+2012-12-19 13:22:35 ....A        14034               NesCore\APU\Apu.cs
+2012-10-05 23:15:07 ....A         2382               NesCore\APU\Apu.Mixer.cs
+2012-12-19 00:47:10 ....A         7882               NesCore\APU\ApuChannel.cs
+2012-10-03 21:39:58 ....A         1092               NesCore\APU\ApuPlaybackDescription.cs
+2012-12-07 12:34:08 ....A         2662               NesCore\Boards\Discreet\Asder.cs
+2012-12-21 21:21:24 ....A         1530               WinRenderers\Properties\AssemblyInfo.cs
+2012-12-21 21:21:24 ....A         1533               Renderers\Properties\AssemblyInfo.cs
+2012-12-21 21:21:24 ....A         1553               CPRenderers\Properties\AssemblyInfo.cs
+2012-12-23 11:53:41 ....A         2254               NesCore\Properties\AssemblyInfo.cs
+2012-12-23 12:05:23 ....A         2277               MyNes\Properties\AssemblyInfo.cs
+2012-12-20 21:14:08 ....A         6135               WinRenderers\SlimDX\AudioDSD.cs
+2012-12-22 22:29:43 ....A         7209               WinRenderers\SlimDX\Audio\AudioDSD.cs
+2012-12-03 13:38:25 ....A         1724               NesCore\Boards\Discreet\AVENina3.cs
+2012-11-17 20:40:10 ....A         1497               NesCore\Boards\Discreet\AxROM.cs
+2012-12-14 20:35:57 ....A        15178               NesCore\Boards\Discreet\Bandai.cs
+2012-08-19 20:35:01 ....A         2406               MyNes\Browser Types\BDatabaseManager.cs
+2012-08-19 20:35:04 ....A         3111               MyNes\Browser Types\BFolder.cs
+2012-11-20 19:52:08 ....A        11634               NesCore\Boards\Board.cs
+2012-12-13 11:28:38 ....A         2455               NesCore\Debug\DefaultCommands\boards.cs
+2012-10-09 20:25:35 ....A         3515               NesCore\Boards\BoardsManager.cs
+2012-09-23 18:37:04 ....A         2990               MyNes\Browser Types\BRom.cs
+2012-08-19 20:35:08 ....A         1703               MyNes\Browser Types\BrowserDatabase.cs
+2012-11-16 21:29:07 ....A         2828               NesCore\Boards\Discreet\BxROM.cs
+2012-11-27 22:58:26 ....A         2845               NesCore\Boards\Discreet\Caltron6in1.cs
+2012-11-16 21:29:14 ....A         2283               NesCore\Boards\Discreet\Camerica.cs
+2012-12-19 22:04:58 ....A         7694               NesCore\APU\ChannelDmc.cs
+2012-10-03 22:48:03 ....A         3508               NesCore\APU\ChannelNoi.cs
+2012-10-05 20:34:04 ....A         5729               NesCore\APU\ChannelSq1.cs
+2012-10-05 20:34:02 ....A         5731               NesCore\APU\ChannelSq2.cs
+2012-10-06 18:00:59 ....A         4369               NesCore\APU\ChannelTri.cs
+2012-08-19 20:35:15 ....A         1370               MyNes\Debug\ConsoleCommands\CloseConsole.cs
+2012-11-16 21:29:17 ....A         1258               NesCore\Boards\Discreet\CNROM.cs
+2012-11-16 21:29:20 ....A         1341               NesCore\Boards\Discreet\ColorDreams.cs
+2012-08-19 20:37:21 ....A         1001               MyNes\Types\ColumnWidthsCollection.cs
+2012-08-19 20:38:53 ....A         1952               NesCore\Debug\Console.cs
+2012-09-21 12:20:52 ....A         2170               NesCore\Debug\ConsoleCommand.cs
+2012-08-19 20:38:59 ....A         2298               NesCore\Debug\ConsoleCommands.cs
+2012-08-19 20:35:39 ....A         4102               MyNes\Controls\ConsolePanel.cs
+2012-08-19 20:35:39 ....A         4102               MyNes\Debug\Controls\ConsolePanel.cs
+2012-08-19 20:35:44 ....A         1848               MyNes\Controls\ConsolePanel.Designer.cs
+2012-08-19 20:35:44 ....A         1848               MyNes\Debug\Controls\ConsolePanel.Designer.cs
+2012-12-20 23:32:28 ....A         6641               Renderers\Types\ControlProfile.cs
+2012-12-20 21:54:27 ....A         2445               Renderers\Types\ControlProfileVSUnisystemDIP.cs
+2012-12-20 21:54:33 ....A         3677               Renderers\Types\ControlsProfileMyNesShortcut.cs
+2012-12-20 21:54:38 ....A         2052               Renderers\Types\ControlsProfilePlayer.cs
+2012-12-07 10:39:11 ....A         5050               NesCore\Controls\ControlsUnit.cs
+2012-12-05 12:37:07 ....A         6748               NesCore\Boards\Discreet\Cony.cs
+2012-12-22 19:53:42 ....A         2198               CPRenderers\Shared\Input\CPJoypad.cs
+2012-11-16 21:29:23 ....A         1273               NesCore\Boards\Discreet\CPROM.cs
+2012-12-19 21:53:10 ....A        35446               NesCore\CPU\Cpu.cs
+2012-11-16 22:30:07 ....A         2019               NesCore\CPU\CpuMemory.cs
+2012-12-22 19:54:05 ....A         1524               CPRenderers\Shared\Input\CPVSUnisystemDIP.cs
+2012-12-22 19:57:40 ....A         1509               CPRenderers\Shared\Input\CPZapper.cs
+2012-08-19 20:39:01 ....A          923               NesCore\Debug\DebugCode.cs
+2012-08-19 20:39:03 ....A         1386               NesCore\Debug\DebugEventArgs.cs
+2012-08-19 20:39:06 ....A         1265               NesCore\Debug\DebugLine.cs
+2012-08-19 20:39:38 ....A          937               NesCore\Delegates.cs
+2012-12-19 14:39:28 ....A         3729               NesCore\CPU\Dma.cs
+2012-10-02 20:05:19 ....A          907               NesCore\Types\EmulationSystem.cs
+2012-09-13 18:08:30 ....A         3939               MyNes\Forms\AddEditForms\EnterNameForm.cs
+2012-09-13 18:08:30 ....A         6957               MyNes\Forms\AddEditForms\EnterNameForm.Designer.cs
+2012-11-14 14:17:58 ....A         3685               NesCore\Boards\FFE\FFE.cs
+2012-11-14 14:18:01 ....A         1462               NesCore\Boards\FFE\FFE_F3xxx.cs
+2012-11-14 14:18:05 ....A         1614               NesCore\Boards\FFE\FFE_F4xxx.cs
+2012-11-15 19:43:03 ....A         3578               NesCore\Boards\FFE\FFE_F6xxx.cs
+2012-11-14 14:18:22 ....A         2807               NesCore\Boards\FFE\FFE_F8xxx.cs
+2012-08-31 13:21:56 ....A         1763               NesCore\CPU\Types\Flags.cs
+2012-12-23 12:07:20 ....A         1801               MyNes\Forms\FormAbout.cs
+2012-12-23 12:07:20 ....A        12973               MyNes\Forms\FormAbout.Designer.cs
+2012-12-20 23:10:25 ....A         2090               MyNes\Forms\AddEditForms\FormAddControlsProfile.cs
+2012-09-13 17:46:57 ....A         5300               MyNes\Forms\AddEditForms\FormAddControlsProfile.Designer.cs
+2012-09-21 12:24:53 ....A         6423               MyNes\Debug\FormConsole.cs
+2012-09-17 19:30:56 ....A         7413               MyNes\Debug\FormConsole.Designer.cs
+2012-09-26 19:52:21 ....A         6745               MyNes\Forms\FormDetectImages.cs
+2012-09-26 19:52:40 ....A        11171               MyNes\Forms\FormDetectImages.Designer.cs
+2012-08-20 19:31:21 ....A         2393               MyNes\Forms\FormFilesList.cs
+2012-08-20 19:31:21 ....A         5373               MyNes\Forms\FormFilesList.Designer.cs
+2012-09-26 19:52:28 ....A        13308               MyNes\Forms\FormGameGenie.cs
+2012-09-26 19:52:34 ....A        30029               MyNes\Forms\FormGameGenie.Designer.cs
+2012-12-20 23:31:57 ....A         4104               MyNes\Forms\SettingForms\FormInput.cs
+2012-09-14 13:05:33 ....A         6328               MyNes\Forms\SettingForms\FormInput.Designer.cs
+2012-12-20 23:03:35 ....A         4125               MyNes\Forms\AddEditForms\FormKey.cs
+2012-09-26 19:48:45 ....A         4018               MyNes\Forms\AddEditForms\FormKey.Designer.cs
+2012-12-23 12:09:30 ....A        51029               MyNes\Forms\FormMain.cs
+2012-12-23 12:09:30 ....A       110659               MyNes\Forms\FormMain.designer.cs
+2012-12-20 23:32:01 ....A        22493               MyNes\Forms\SettingForms\FormPaletteSettings.cs
+2012-09-17 18:44:31 ....A        21803               MyNes\Forms\SettingForms\FormPaletteSettings.Designer.cs
+2012-12-20 22:29:43 ....A         3901               MyNes\Forms\SettingForms\FormPathSettings.cs
+2012-09-14 19:27:21 ....A         8986               MyNes\Forms\SettingForms\FormPathSettings.Designer.cs
+2012-12-21 22:05:22 ....A         2397               MyNes\Forms\SettingForms\FormRendererSelect.cs
+2012-12-21 22:05:22 ....A         6121               MyNes\Forms\SettingForms\FormRendererSelect.Designer.cs
+2012-12-23 11:41:20 ....A        16244               MyNes\Forms\FormRomInfo.cs
+2012-12-23 11:41:16 ....A        14374               MyNes\Forms\FormRomInfo.Designer.cs
+2012-12-20 22:31:27 ....A         3276               MyNes\Forms\SettingForms\FormSoundSettings.cs
+2012-10-03 22:17:19 ....A        12158               MyNes\Forms\SettingForms\FormSoundSettings.Designer.cs
+2012-12-21 21:26:10 ....A         3013               MyNes\Debug\FormSpeed.cs
+2012-12-21 21:23:56 ....A        12541               MyNes\Debug\FormSpeed.Designer.cs
+2012-12-20 23:32:06 ....A         5693               MyNes\Forms\SettingForms\FormVideoSettings.cs
+2012-12-20 22:34:16 ....A        19312               MyNes\Forms\SettingForms\FormVideoSettings.Designer.cs
+2012-12-07 13:25:09 ....A         2908               NesCore\Boards\Discreet\Future.cs
+2012-10-02 20:05:19 ....A         9591               NesCore\GameGenie\GameGenie.cs
+2012-10-02 20:05:19 ....A         1092               NesCore\GameGenie\GameGenieCode.cs
+2012-09-21 12:58:32 ....A         6178               NesCore\Debug\DefaultCommands\GameGenieCommands.cs
+2012-11-30 10:45:02 ....A         1290               NesCore\Boards\Discreet\GxROM.cs
+2012-09-26 19:55:57 ....A         1228               NesCore\Debug\DefaultCommands\HardResetCommand.cs
+2012-09-21 12:20:10 ....A         1653               NesCore\Debug\DefaultCommands\HelpCommand.cs
+2012-10-03 20:52:54 ....A         2034               MyNes\Types\Helper.cs
+2012-10-03 21:37:14 ....A          840               NesCore\Helper.cs
+2012-12-07 01:15:55 ....A         4104               NesCore\Boards\Discreet\HKSF3.cs
+2012-12-18 22:39:44 ....A         1213               NesCore\APU\IApuExternalChannelsMixer.cs
+2012-10-05 20:56:29 ....A         2115               NesCore\IO\Output\IAudioDevice.cs
+2012-09-14 12:17:48 ....A         1202               NesCore\IO\Input\IInputDevice.cs
+2012-10-03 19:03:16 ....A         1070               NesCore\IO\Input\IJoypad.cs
+2012-09-26 19:50:56 ....A         7625               MyNes\Controls\ImageViewer.cs
+2012-09-26 19:48:15 ....A         1847               MyNes\Controls\ImageViewer.Designer.cs
+2012-10-04 17:51:43 ....A         3142               NesCore\ROM\INESHeader.cs
+2012-12-20 21:14:08 ....A         2342               WinRenderers\SlimDX\InputDevice.cs
+2012-12-20 21:19:18 ....A         2355               WinRenderers\SlimDX\Input\InputDevice.cs
+2012-12-20 21:14:08 ....A         2380               WinRenderers\SlimDX\InputManager.cs
+2012-12-20 21:19:25 ....A         2681               WinRenderers\SlimDX\Input\InputManager.cs
+2012-09-26 19:54:28 ....A         1323               MyNes\Types\InputSettingsControl.cs
+2012-12-03 13:21:09 ....A         2113               NesCore\Boards\Discreet\Irem.cs
+2012-12-03 13:32:38 ....A         2454               NesCore\Boards\Discreet\Irem74HC161.cs
+2012-11-27 23:00:13 ....A         4890               NesCore\Boards\Discreet\IremG101.cs
+2012-11-30 10:44:01 ....A         3756               NesCore\Boards\Discreet\IremH3001.cs
+2012-12-07 10:17:21 ....A         1830               NesCore\Boards\Discreet\IremPRGHI.cs
+2012-12-21 21:42:11 ....A         1853               Renderers\IRenderer.cs
+2012-12-20 23:10:46 ....A         2166               MyNes\Forms\SettingForms\InputSettingControls\ISC_General.cs
+2012-09-26 19:48:53 ....A         3830               MyNes\Forms\SettingForms\InputSettingControls\ISC_General.Designer.cs
+2012-12-20 23:18:13 ....A        23514               MyNes\Forms\SettingForms\InputSettingControls\ISC_Player.cs
+2012-10-03 19:12:39 ....A        16748               MyNes\Forms\SettingForms\InputSettingControls\ISC_Player.Designer.cs
+2012-12-20 23:15:21 ....A        15806               MyNes\Forms\SettingForms\InputSettingControls\ISC_Profiles.cs
+2012-09-26 19:50:12 ....A         5536               MyNes\Forms\SettingForms\InputSettingControls\ISC_Profiles.Designer.cs
+2012-12-20 23:18:32 ....A        18204               MyNes\Forms\SettingForms\InputSettingControls\ISC_Shortcuts.cs
+2012-09-17 19:18:15 ....A        28732               MyNes\Forms\SettingForms\InputSettingControls\ISC_Shortcuts.Designer.cs
+2012-12-20 23:12:39 ....A        11652               MyNes\Forms\SettingForms\InputSettingControls\ISC_VSUnisystem.cs
+2012-09-20 18:34:55 ....A        18951               MyNes\Forms\SettingForms\InputSettingControls\ISC_VSUnisystem.Designer.cs
+2012-09-17 19:10:38 ....A         1761               NesCore\IO\Output\IVideoDevice.cs
+2012-09-20 17:52:46 ....A          940               NesCore\IO\Input\IVSunisystemDIP.cs
+2012-09-22 20:40:22 ....A         1209               NesCore\IO\Input\IZapper.cs
+2012-12-07 01:19:05 ....A         1860               NesCore\Boards\Discreet\JalecoEarly.cs
+2012-12-07 01:19:03 ....A         1707               NesCore\Boards\Discreet\JalecoEarly1.cs
+2012-12-05 13:01:29 ....A         1419               NesCore\Boards\Discreet\JalecoEarly2.cs
+2012-12-05 13:04:53 ....A         1298               NesCore\Boards\Konami\JalecoKonami.cs
+2012-11-15 19:37:16 ....A         7842               NesCore\Boards\Discreet\Jaleco_SS8806.cs
+2012-12-20 21:14:08 ....A         3582               WinRenderers\SlimDX\JoyButton.cs
+2012-12-20 21:19:25 ....A         3595               WinRenderers\SlimDX\Input\JoyButton.cs
+2012-12-20 21:14:08 ....A         2454               WinRenderers\SlimDX\Joypad.cs
+2012-12-20 21:19:28 ....A         2906               WinRenderers\SlimDX\Input\Joypad.cs
+2012-09-12 12:23:10 ....A         2487               MyNes\Types\ListViewItemComparer.cs
+2012-12-14 10:33:01 ....A         2394               NesCore\Boards\Other (Mappers)\Mapper015.cs
+2012-11-27 23:01:44 ....A         3937               NesCore\Boards\Other (Mappers)\Mapper043.cs
+2012-12-11 22:16:40 ....A         5276               NesCore\Boards\Other (Mappers)\Mapper044.cs
+2012-11-27 23:03:51 ....A         5540               NesCore\Boards\Other (Mappers)\Mapper045.cs
+2012-11-27 23:04:47 ....A         3924               NesCore\Boards\Other (Mappers)\Mapper047.cs
+2012-11-27 23:05:26 ....A         4204               NesCore\Boards\Other (Mappers)\Mapper049.cs
+2012-11-27 23:06:12 ....A         3433               NesCore\Boards\Other (Mappers)\Mapper050.cs
+2012-11-27 23:07:21 ....A         3139               NesCore\Boards\Other (Mappers)\Mapper051.cs
+2012-11-27 23:08:21 ....A         4634               NesCore\Boards\Other (Mappers)\Mapper052.cs
+2012-11-27 23:09:56 ....A         2899               NesCore\Boards\Other (Mappers)\Mapper053.cs
+2012-11-27 23:11:30 ....A         3210               NesCore\Boards\Other (Mappers)\Mapper057.cs
+2012-11-27 22:33:12 ....A         1650               NesCore\Boards\Other (Mappers)\Mapper058.cs
+2012-11-27 23:27:50 ....A         2600               NesCore\Boards\Other (Mappers)\Mapper060.cs
+2012-11-27 23:34:24 ....A         1787               NesCore\Boards\Other (Mappers)\Mapper061.cs
+2012-11-28 22:20:31 ....A         1819               NesCore\Boards\Other (Mappers)\Mapper062.cs
+2012-11-30 12:00:06 ....A         1469               NesCore\Boards\Other (Mappers)\Mapper070.cs
+2012-12-11 12:44:57 ....A         2134               NesCore\Boards\Other (Mappers)\Mapper074.cs
+2012-12-11 23:28:30 ....A        25795               NesCore\Boards\Other (Mappers)\Mapper090.cs
+2012-12-07 01:21:23 ....A         1534               NesCore\Boards\Other (Mappers)\Mapper093.cs
+2012-12-07 01:23:45 ....A         1429               NesCore\Boards\Other (Mappers)\Mapper094.cs
+2012-12-11 22:16:03 ....A         2662               NesCore\Boards\Other (Mappers)\Mapper095.cs
+2012-12-07 02:11:11 ....A         2644               NesCore\Boards\Other (Mappers)\Mapper096.cs
+2012-12-07 10:38:45 ....A         1223               NesCore\Boards\Other (Mappers)\Mapper099.cs
+2012-12-07 10:44:45 ....A         1252               NesCore\Boards\Other (Mappers)\Mapper101.cs
+2012-12-11 12:44:03 ....A         4499               NesCore\Boards\Other (Mappers)\Mapper115.cs
+2012-12-11 22:15:46 ....A         2661               NesCore\Boards\Other (Mappers)\Mapper118.cs
+2012-12-07 14:33:39 ....A         1305               NesCore\Boards\Other (Mappers)\Mapper140.cs
+2012-12-08 00:33:50 ....A         3129               NesCore\Boards\Other (Mappers)\Mapper142.cs
+2012-12-08 10:50:42 ....A         1470               NesCore\Boards\Other (Mappers)\Mapper143.cs
+2012-12-08 10:52:55 ....A         1465               NesCore\Boards\Other (Mappers)\Mapper145.cs
+2012-12-08 10:56:35 ....A         1500               NesCore\Boards\Other (Mappers)\Mapper146.cs
+2012-12-08 11:00:43 ....A         1593               NesCore\Boards\Other (Mappers)\Mapper147.cs
+2012-12-08 11:03:49 ....A         1290               NesCore\Boards\Other (Mappers)\Mapper148.cs
+2012-12-08 11:06:15 ....A         1257               NesCore\Boards\Other (Mappers)\Mapper149.cs
+2012-12-08 11:21:57 ....A         3676               NesCore\Boards\Other (Mappers)\Mapper150.cs
+2012-12-08 11:32:33 ....A         1774               NesCore\Boards\Other (Mappers)\Mapper151.cs
+2012-12-08 11:38:53 ....A         1578               NesCore\Boards\Other (Mappers)\Mapper152.cs
+2012-12-08 11:51:18 ....A         2688               NesCore\Boards\Other (Mappers)\Mapper154.cs
+2012-12-08 11:59:51 ....A         2019               NesCore\Boards\Other (Mappers)\Mapper156.cs
+2012-12-14 20:19:17 ....A         1296               NesCore\Boards\Other (Mappers)\Mapper159.cs
+2012-12-08 12:23:03 ....A         2963               NesCore\Boards\Other (Mappers)\Mapper164.cs
+2012-12-08 12:38:08 ....A         1813               NesCore\Boards\Other (Mappers)\Mapper169.cs
+2012-12-08 12:41:51 ....A         1677               NesCore\Boards\Other (Mappers)\Mapper171.cs
+2012-12-08 12:49:32 ....A         1263               NesCore\Boards\Other (Mappers)\Mapper173.cs
+2012-12-11 22:16:58 ....A         2476               NesCore\Boards\Other (Mappers)\Mapper182.cs
+2012-12-11 11:56:53 ....A         1964               NesCore\Boards\Other (Mappers)\Mapper185.cs
+2012-12-11 12:24:51 ....A         3296               NesCore\Boards\Other (Mappers)\Mapper186.cs
+2012-12-11 12:22:19 ....A         1546               NesCore\Boards\Other (Mappers)\Mapper188.cs
+2012-12-11 22:16:18 ....A         2208               NesCore\Boards\Other (Mappers)\Mapper189.cs
+2012-12-11 12:58:01 ....A         3915               NesCore\Boards\Other (Mappers)\Mapper191.cs
+2012-12-11 14:45:58 ....A         1733               NesCore\Boards\Other (Mappers)\Mapper193.cs
+2012-12-11 22:15:35 ....A         2102               NesCore\Boards\Other (Mappers)\Mapper196.cs
+2012-12-11 22:25:22 ....A         1478               NesCore\Boards\Other (Mappers)\Mapper200.cs
+2012-12-11 22:26:59 ....A         1312               NesCore\Boards\Other (Mappers)\Mapper201.cs
+2012-12-11 22:36:27 ....A         1685               NesCore\Boards\Other (Mappers)\Mapper202.cs
+2012-12-11 22:39:25 ....A         1371               NesCore\Boards\Other (Mappers)\Mapper203.cs
+2012-12-11 22:41:48 ....A         1556               NesCore\Boards\Other (Mappers)\Mapper204.cs
+2012-12-11 23:03:24 ....A         4755               NesCore\Boards\Other (Mappers)\Mapper205.cs
+2012-12-11 23:05:27 ....A         1414               NesCore\Boards\Other (Mappers)\Mapper206.cs
+2012-12-11 23:14:59 ....A         3950               NesCore\Boards\Other (Mappers)\Mapper207.cs
+2012-12-13 11:29:20 ....A         1252               NesCore\Boards\Other (Mappers)\Mapper209.cs
+2012-12-11 23:36:15 ....A         1357               NesCore\Boards\Other (Mappers)\Mapper210.cs
+2012-12-11 23:39:52 ....A         1116               NesCore\Boards\Other (Mappers)\Mapper211.cs
+2012-12-11 23:47:53 ....A         1923               NesCore\Boards\Other (Mappers)\Mapper212.cs
+2012-12-11 23:49:00 ....A         1308               NesCore\Boards\Other (Mappers)\Mapper213.cs
+2012-12-13 11:29:25 ....A         1360               NesCore\Boards\Other (Mappers)\Mapper214.cs
+2012-12-11 23:55:20 ....A         1303               NesCore\Boards\Other (Mappers)\Mapper216.cs
+2012-12-12 11:50:20 ....A         2647               NesCore\Boards\Other (Mappers)\Mapper222.cs
+2012-12-12 12:09:50 ....A         2616               NesCore\Boards\Other (Mappers)\Mapper225.cs
+2012-12-12 12:20:15 ....A         2657               NesCore\Boards\Other (Mappers)\Mapper226.cs
+2012-12-12 12:35:59 ....A         4711               NesCore\Boards\Other (Mappers)\Mapper227.cs
+2012-12-12 12:42:31 ....A         2687               NesCore\Boards\Other (Mappers)\Mapper228.cs
+2012-12-12 12:45:58 ....A         1542               NesCore\Boards\Other (Mappers)\Mapper229.cs
+2012-12-12 20:08:58 ....A         2578               NesCore\Boards\Other (Mappers)\Mapper230.cs
+2012-12-12 20:16:42 ....A         1491               NesCore\Boards\Other (Mappers)\Mapper231.cs
+2012-12-13 10:26:22 ....A         1971               NesCore\Boards\Other (Mappers)\Mapper232.cs
+2012-12-13 10:41:07 ....A         2575               NesCore\Boards\Other (Mappers)\Mapper233.cs
+2012-12-13 10:51:33 ....A         2927               NesCore\Boards\Other (Mappers)\Mapper234.cs
+2012-12-13 10:54:01 ....A         1457               NesCore\Boards\Other (Mappers)\Mapper240.cs
+2012-12-13 10:55:22 ....A         1259               NesCore\Boards\Other (Mappers)\Mapper241.cs
+2012-12-13 10:57:54 ....A         1382               NesCore\Boards\Other (Mappers)\Mapper242.cs
+2012-12-13 11:08:32 ....A         3204               NesCore\Boards\Other (Mappers)\Mapper243.cs
+2012-12-13 11:20:38 ....A         3376               NesCore\Boards\Other (Mappers)\Mapper245.cs
+2012-12-13 11:24:18 ....A         2082               NesCore\Boards\Other (Mappers)\Mapper246.cs
+2012-12-13 11:27:14 ....A         1141               NesCore\Boards\Other (Mappers)\Mapper255.cs
+2012-11-27 23:14:08 ....A         4025               NesCore\Boards\Discreet\MarioBaby.cs
+2012-09-29 00:50:48 ....A          550               NesCore\MathHelper.cs
+2012-09-23 12:14:20 ....A         3019               NesCore\Memory.cs
+2012-09-06 18:05:25 ....A         1480               NesCore\Types\Mirroring.cs
+2012-12-14 20:30:43 ....A        15408               NesCore\Boards\Nintendo\MMC1.cs
+2012-11-14 14:16:58 ....A         4015               NesCore\Boards\Nintendo\MMC2.cs
+2012-12-13 11:43:19 ....A        11711               NesCore\Boards\Nintendo\MMC3.cs
+2012-11-14 14:17:36 ....A         1586               NesCore\Boards\Nintendo\MMC4.cs
+2012-12-18 23:37:06 ....A        24327               NesCore\Boards\Nintendo\MMC5.cs
+2012-12-18 22:41:29 ....A         3191               NesCore\APU\MMC5\MMC5ExternalSound.cs
+2012-09-23 13:05:18 ....A         2570               NesCore\APU\MMC5\MMC5PcmSoundChannel.cs
+2012-09-23 13:05:54 ....A         3561               NesCore\APU\MMC5\MMC5SqrSoundChannel.cs
+2012-12-20 23:06:07 ....A         4845               WinRenderers\SlimDX\Input\MyNesShortcuts.cs
+2012-12-02 12:56:46 ....A         2759               NesCore\Boards\Discreet\Namco109.cs
+2012-12-05 19:54:10 ....A         2587               NesCore\Boards\Discreet\Namco118.cs
+2012-12-19 00:33:36 ....A         7541               NesCore\APU\Namco163\Namco163ExternalSound.cs
+2012-12-19 00:37:13 ....A         5231               NesCore\APU\Namco163\Namco163SoundChannel.cs
+2012-12-18 23:37:30 ....A         9471               NesCore\Boards\Discreet\Namcot106.cs
+2012-12-23 11:31:46 ....A        20206               NesCore\Nes.cs
+2012-09-06 17:22:13 ....A         9423               NesCore\Database\NesDatabase.cs
+2012-09-06 17:19:58 ....A         2357               NesCore\Database\NesDatabaseGameInfo.cs
+2012-12-07 12:16:01 ....A         6997               NesCore\Boards\Discreet\NESEVENT.cs
+2012-12-08 12:52:04 ....A         1277               NesCore\Boards\Discreet\NihonBussan.cs
+2012-09-26 19:56:18 ....A         1021               NesCore\Exceptions\NotSupportedMapperException.cs
+2012-11-14 14:17:52 ....A         1128               NesCore\Boards\Nintendo\NROM.cs
+2012-09-28 13:25:03 ....A         4333               NesCore\PPU\NTSCPaletteGenerator.cs
+2012-08-19 20:38:47 ....A         1224               NesCore\Debug\DefaultCommands\OffCommand.cs
+2012-12-20 23:20:26 ....A         3115               MyNes\Debug\ConsoleCommands\OpenRom.cs
+2012-09-17 18:05:07 ....A         4335               NesCore\PPU\PALBPaletteGenerator.cs
+2012-12-20 21:54:43 ....A         1349               Renderers\Types\PaletteSettings.cs
+2012-11-27 23:16:04 ....A         4882               NesCore\Boards\Discreet\PirateSMB3.cs
+2012-12-22 13:54:53 ....A        33429               NesCore\PPU\Ppu.cs
+2012-09-29 12:44:48 ....A         2769               NesCore\Debug\DefaultCommands\PPUConsoleCommands.cs
+2012-11-16 22:31:50 ....A         3790               NesCore\PPU\PpuMemory.cs
+2012-11-13 15:00:37 ....A         2679               NesCore\PPU\PPUTypes.cs
+2012-11-06 20:03:50 ....A         1754               NesCore\ProcessorBase.cs
+2012-12-23 11:12:32 ....A         3915               MyNes\Program.cs
+2012-09-26 19:56:21 ....A         1011               NesCore\Exceptions\ReadRomFailedException.cs
+2012-08-19 20:38:33 ....A         1121               NesCore\CPU\Types\Register.cs
+2012-12-21 18:33:31 ....A        23221               WinRenderers\SlimDX\RendererFormSlimDX.cs
+2012-12-20 21:19:54 ....A         2830               WinRenderers\SlimDX\RendererFormSlimDX.Designer.cs
+2012-12-21 21:42:25 ....A         3100               Renderers\RenderersCore.cs
+2012-12-21 14:22:43 ....A        13215               Renderers\Types\RenderersKeys.cs
+2012-10-04 19:04:12 ....A         3958               MyNes\Properties\Resources.Designer.cs
+2012-12-23 11:31:33 ....A         4889               NesCore\ROM\RomInfo.cs
+2012-10-04 18:38:38 ....A         8748               NesCore\Debug\DefaultCommands\RomInfoCommands.cs
+2012-12-07 14:12:25 ....A         1516               NesCore\Boards\Discreet\Sachen.cs
+2012-12-07 12:41:38 ....A         1878               NesCore\Boards\Discreet\SachenHackerNina.cs
+2012-12-22 20:30:54 ....A        11299               CPRenderers\SDL\Input\SDLInputManager.cs
+2012-12-23 11:01:12 ....A         1830               CPRenderers\SDL\SDLRenderer.cs
+2012-12-23 10:57:50 ....A         3355               CPRenderers\SDL\Sound\SDLsound.cs
+2012-12-23 10:54:45 ....A         4428               CPRenderers\SDL\Video\SDLvideo.cs
+2012-12-22 19:59:59 ....A        19400               CPRenderers\SDL\SDLWindow.cs
+2012-12-21 19:29:26 ....A         1897               Renderers\Settings\Settings.cs
+2012-12-23 11:10:24 ....A         7163               MyNes\Properties\Settings.Designer.cs
+2012-12-20 23:27:25 ....A         2813               Renderers\Settings\SettingsManager.cs
+2012-12-23 11:01:25 ....A         1618               WinRenderers\SlimDX\SlimDXRenderer.cs
+2012-08-19 20:38:51 ....A         1232               NesCore\Debug\DefaultCommands\SoftResetCommand.cs
+2012-12-22 21:18:29 ....A         2962               NesCore\Controls\SpeedLimiter.cs
+2012-10-02 20:05:19 ....A        17661               NesCore\Types\StateStream.cs
+2012-12-08 12:33:17 ....A         2579               NesCore\Boards\Discreet\Subor.cs
+2012-12-11 11:23:48 ....A         1312               NesCore\Boards\Sunsoft\Sunsoft.cs
+2012-11-30 11:04:08 ....A         4081               NesCore\Boards\Sunsoft\Sunsoft3.cs
+2012-11-30 11:19:43 ....A         3794               NesCore\Boards\Sunsoft\Sunsoft4.cs
+2012-12-18 23:37:52 ....A         7836               NesCore\Boards\Sunsoft\Sunsoft5.cs
+2012-12-19 00:39:29 ....A         2743               NesCore\APU\Sunsoft5B\Sunsoft5BExternalSound.cs
+2012-12-19 00:39:00 ....A         2712               NesCore\APU\Sunsoft5B\Sunsoft5BSoundChannel.cs
+2012-12-05 19:59:18 ....A         1619               NesCore\Boards\Sunsoft\SunsoftEarly.cs
+2012-11-27 23:18:25 ....A         6813               NesCore\Boards\Discreet\TaitoTC0190.cs
+2012-11-18 13:48:25 ....A         1128               NesCore\Boards\Discreet\TaitoTC0350.cs
+2012-12-03 13:49:38 ....A         2131               NesCore\Boards\Discreet\TaitoX005.cs
+2012-12-04 12:14:40 ....A         2779               NesCore\Boards\Discreet\TaitoX117.cs
+2012-11-30 10:32:11 ....A         9491               NesCore\Boards\Discreet\TengenRAMBO1.cs
+2012-12-20 21:20:00 ....A         1611               WinRenderers\Shared\Timer.cs
+2012-12-21 11:50:43 ....A         1072               CPRenderers\Shared\Timer.cs
+2012-11-06 19:51:53 ....A         2271               NesCore\TimingInfo.cs
+2012-12-07 14:02:39 ....A         7832               NesCore\Boards\Nintendo\TQROM.cs
+2012-12-08 12:50:06 ....A         2425               NesCore\Boards\Discreet\Unl22211.cs
+2012-11-14 14:18:33 ....A         1825               NesCore\Boards\FFE\UxROM.cs
+2012-12-20 21:14:08 ....A        10959               WinRenderers\SlimDX\VideoD3D.cs
+2012-12-21 20:13:00 ....A        11387               WinRenderers\SlimDX\Video\VideoD3D.cs
+2012-12-02 12:23:35 ....A         2684               NesCore\Boards\Konami\VRC1.cs
+2012-11-28 11:59:20 ....A         5070               NesCore\Boards\Konami\VRC2.cs
+2012-11-30 12:32:55 ....A         4278               NesCore\Boards\Konami\VRC3.cs
+2012-11-27 23:24:19 ....A        12849               NesCore\Boards\Konami\VRC4.cs
+2012-11-16 21:30:18 ....A         1181               NesCore\Boards\Konami\VRC4ac.cs
+2012-11-16 21:30:21 ....A         2859               NesCore\Boards\Konami\VRC4bd.cs
+2012-11-16 21:30:25 ....A         2871               NesCore\Boards\Konami\VRC4ef.cs
+2012-12-18 23:38:10 ....A         7981               NesCore\Boards\Konami\VRC6.cs
+2012-11-16 21:30:31 ....A         1162               NesCore\Boards\Konami\VRC6a.cs
+2012-11-16 21:30:34 ....A         2062               NesCore\Boards\Konami\VRC6b.cs
+2012-12-19 00:39:44 ....A         2701               NesCore\APU\VRC6\VRC6ExternalSound.cs
+2012-12-19 00:41:13 ....A         3541               NesCore\APU\VRC6\VRC6pulseSoundChannel.cs
+2012-12-19 00:43:00 ....A         3437               NesCore\APU\VRC6\VRC6sawtoothSoundChannel.cs
+2012-12-19 00:30:29 ....A         5703               NesCore\Boards\Konami\VRC7.cs
+2012-09-22 20:40:47 ....A         6535               NesCore\VSUnisystem.cs
+2012-12-20 21:19:34 ....A         2987               WinRenderers\SlimDX\Input\VSUnisystemDIP.cs
+2012-12-22 22:31:00 ....A         5409               Renderers\Shared\WaveRecorder.cs
+2012-09-10 13:14:15 ....A         1978               MyNes\Browser Types\WinTypes.cs
+2012-12-20 21:19:36 ....A         1487               WinRenderers\SlimDX\Input\Zapper.cs
+2012-12-22 21:42:39 ....A         4754               CPRenderers\CPRenderers.csproj
+2012-12-22 20:51:58 ....A        16299               MyNes\MyNes.csproj
+2012-12-20 21:48:02 ....A        17608               NesCore\NesCore.csproj
+2012-12-22 22:29:49 ....A         4026               Renderers\Renderers.csproj
+2012-12-22 22:29:49 ....A         5010               WinRenderers\WinRenderers.csproj
+2012-12-22 18:53:52 ....A         8451               MyNes.sln
+2010-11-04 22:50:52 ....A        38927               GNU GENERAL PUBLIC LICENSE 3.0.html
+2012-12-23 12:10:58 ....A          770               Credits.txt
+2012-10-16 18:50:15 ....A          207               VS Templates\Readme.txt
+2012-11-16 11:52:38 ....A         1447               NesCore\Boards\readme.txt
+2012-12-20 21:45:02 ....A          401               Renderers\Readme.txt
+2012-12-22 10:47:02 ....A          138               CPRenderers\Readme.txt
+2012-12-13 10:51:04 ....A         1316               NesCore\Boards\TODO.txt
+2012-12-18 23:31:20 ....A          101               NesCore\TODO.txt
+2012-12-23 12:27:07 ....A       316416               .svn\wc.db
+2012-12-23 11:10:24 ....A         1962               MyNes\app.config
+2012-09-13 18:08:30 ....A         5817               MyNes\Forms\AddEditForms\EnterNameForm.resx
+2012-12-23 12:07:20 ....A         7493               MyNes\Forms\FormAbout.resx
+2012-09-13 17:46:57 ....A         5817               MyNes\Forms\AddEditForms\FormAddControlsProfile.resx
+2012-09-17 19:30:56 ....A        21315               MyNes\Debug\FormConsole.resx
+2012-09-23 18:45:12 ....A         6011               MyNes\Forms\FormDetectImages.resx
+2012-08-20 19:31:21 ....A         5817               MyNes\Forms\FormFilesList.resx
+2012-09-21 10:17:39 ....A        77873               MyNes\Forms\FormGameGenie.resx
+2012-09-14 13:05:33 ....A         5817               MyNes\Forms\SettingForms\FormInput.resx
+2012-09-14 18:29:14 ....A         6011               MyNes\Forms\AddEditForms\FormKey.resx
+2012-12-23 12:09:30 ....A       114614               MyNes\Forms\FormMain.resx
+2012-09-17 18:44:31 ....A       147782               MyNes\Forms\SettingForms\FormPaletteSettings.resx
+2012-09-14 19:27:21 ....A         5817               MyNes\Forms\SettingForms\FormPathSettings.resx
+2012-12-21 22:05:22 ....A         5817               MyNes\Forms\SettingForms\FormRendererSelect.resx
+2012-12-23 11:41:16 ....A         5817               MyNes\Forms\FormRomInfo.resx
+2012-10-03 22:17:19 ....A         6013               MyNes\Forms\SettingForms\FormSoundSettings.resx
+2012-12-21 21:23:56 ....A         6011               MyNes\Debug\FormSpeed.resx
+2012-12-20 22:34:16 ....A         6013               MyNes\Forms\SettingForms\FormVideoSettings.resx
+2012-09-22 21:31:27 ....A         6013               MyNes\Forms\SettingForms\InputSettingControls\ISC_General.resx
+2012-10-03 19:12:39 ....A         5817               MyNes\Forms\SettingForms\InputSettingControls\ISC_Player.resx
+2012-09-13 18:05:39 ....A         6401               MyNes\Forms\SettingForms\InputSettingControls\ISC_Profiles.resx
+2012-09-17 19:18:15 ....A         5817               MyNes\Forms\SettingForms\InputSettingControls\ISC_Shortcuts.resx
+2012-09-20 18:34:55 ....A         5817               MyNes\Forms\SettingForms\InputSettingControls\ISC_VSUnisystem.resx
+2012-12-20 21:14:08 ....A        43943               WinRenderers\SlimDX\RendererFormSlimDX.resx
+2012-10-04 19:04:12 ....A         6703               MyNes\Properties\Resources.resx
+2012-12-23 11:10:24 ....A         2116               MyNes\Properties\Settings.settings
+2012-09-29 02:20:47 ....A        96768               MyNes.suo
+2012-12-23 12:09:45 ..H.A       827392               MyNes.v11.suo
+2012-12-22 23:56:15 ....A         4026               .svn\pristine\01\0108a445713ebdf7dbf486aea6741ecaf9c365ff.svn-base
+2012-12-12 14:36:32 ....A         2893               .svn\pristine\01\0124226592c57ff60e38cfbb4fd80d7e92007479.svn-base
+2012-12-12 14:38:08 ....A         2662               .svn\pristine\01\0192c03be3052ddd018547a6c21bf90c7783879a.svn-base
+2012-12-22 21:46:32 ....A        20992               .svn\pristine\01\01a28e6c59ff771a3cf8741c4ed950eea3b5f19e.svn-base
+2012-12-21 22:58:32 ....A         1530               .svn\pristine\01\01abf826c078a0fb69c5aeb663448325a27007f0.svn-base
+2012-12-21 22:59:44 ....A        20992               .svn\pristine\01\01e032e3c764dad05eee2f799c0d499163f87e05.svn-base
+2012-12-12 14:35:14 ....A        18951               .svn\pristine\03\03b5cda9b6a34a421f9a455e974949a036fe7821.svn-base
+2012-12-19 16:51:30 ....A       676352               .svn\pristine\03\03e3007fb5cd3c7a29423efbd11d8f561d1ca615.svn-base
+2012-12-12 14:53:21 ....A        16277               .svn\pristine\05\05e6aa8931155610759a1d5868249ba8dca36a0f.svn-base
+2012-12-21 22:59:44 ....A         1611               .svn\pristine\05\05f24c43ee8207e1e10ecd973b2173e92b7b65da.svn-base
+2012-12-12 14:38:20 ....A         3433               .svn\pristine\06\0687645a7197229cc871f94a96f706d672effe8b.svn-base
+2012-12-22 23:56:15 ....A       501760               .svn\pristine\06\068e680ee927f8e1d6a2d35204aa7540f522498e.svn-base
+2012-12-12 14:35:16 ....A        16748               .svn\pristine\06\06c6d156bc7f0a4c1ca07d6a518063c987fb8e69.svn-base
+2012-12-12 14:36:48 ....A        16897               .svn\pristine\06\06ce069540e938280665a3a5c8abab6352719f28.svn-base
+2012-12-12 14:38:34 ....A         5070               .svn\pristine\06\06ea97749d000ff4f0d3c6d397f80fede615a35d.svn-base
+2012-12-12 14:35:41 ....A         6745               .svn\pristine\07\07674accff8c0351b6ebb6a88d7489cb7051f270.svn-base
+2012-12-12 14:37:09 ....A        14462               .svn\pristine\07\077f5d7915b9f4dbaca548494d6bd6819a1f6a0e.svn-base
+2012-12-12 14:53:18 ....A         1357               .svn\pristine\07\07c57872d89c3d950a743c7d0d5b65a34ee92e41.svn-base
+2012-12-12 14:38:02 ....A         1860               .svn\pristine\08\088f8eef19941fa558c0b568750f9e83c9df2e3a.svn-base
+2012-12-19 16:51:30 ....A         2743               .svn\pristine\08\08d6632214ded4f11bbbe5dd5ef7731a5428d822.svn-base
+2012-12-12 14:38:37 ....A         2062               .svn\pristine\09\097913cb46321f1899359d348e04b9b0657caf9a.svn-base
+2012-12-22 21:46:32 ....A        19400               .svn\pristine\09\099566230dedd3ed3220eca0c78ca83e3fa58469.svn-base
+2012-12-19 16:51:30 ....A         3541               .svn\pristine\09\09b02ab5c8f3f491e1bd6cef4be3e14f0bbd4c36.svn-base
+2012-12-12 14:53:20 ....A         1362               .svn\pristine\09\09b6f5d7ca5ad3d230df68c570b9ff05bb28f571.svn-base
+2012-12-19 16:51:30 ....A         7882               .svn\pristine\0a\0a04f26e4406a8c3cf0b988b37c51684c0b4865f.svn-base
+2012-12-23 12:26:45 ....A       232448               .svn\pristine\0a\0a9a21f873633873567e0b30257235a3182e13b8.svn-base
+2012-12-19 16:51:30 ....A         2712               .svn\pristine\0a\0ac329d274deb6533d37b0482e3a097d36c6b90d.svn-base
+2012-12-12 14:38:05 ....A         1273               .svn\pristine\0c\0c09e67702caa55d129ade587a157336beb33213.svn-base
+2012-12-12 14:38:02 ....A         2579               .svn\pristine\0c\0c5dd75ba599ec9e4b1539f3e6ff38720a320411.svn-base
+2012-12-12 14:37:09 ....A         6703               .svn\pristine\0c\0c85b5f95cadc6b53e51466752a8c5bbb6b9bd81.svn-base
+2012-12-12 14:36:10 ....A         4100               .svn\pristine\0c\0c98a82a4efac5bc1c5069c01dc9854a6748f1de.svn-base
+2012-12-12 14:38:28 ....A         1465               .svn\pristine\0c\0ca1871a3d4d6cad26f9b3a3f7b2c039f39ba0dd.svn-base
+2012-12-15 23:54:42 ....A       227840               .svn\pristine\0c\0cea44abc0329deb996ae7194903dd7b16b67fdc.svn-base
+2012-12-12 14:38:07 ....A         7842               .svn\pristine\0d\0d05c58b62b7be85c9500bd39233bb93f147571a.svn-base
+2012-12-12 14:53:14 ....A         1312               .svn\pristine\0d\0d32fb80d117a57a2dc0160997f1bb1824b3ab14.svn-base
+2012-12-23 12:26:43 ....A         7493               .svn\pristine\0d\0d6422f3c9c31a6619fb7f3297f024f7a2bd6695.svn-base
+2012-12-12 14:36:30 ....A         1978               .svn\pristine\0d\0dccc95698fee7490d88ccc261ec8476aa5e1e40.svn-base
+2012-12-12 14:53:14 ....A         1371               .svn\pristine\0e\0e99b3a48717c34ee5c6045cf3d5ac48f521ac95.svn-base
+2012-12-12 14:38:28 ....A         1677               .svn\pristine\0e\0ee5c72bbcb2f4d11d0031cf482fe25a9cb18c7d.svn-base
+2012-12-21 22:58:39 ....A         3115               .svn\pristine\0e\0ef6897a77fd2911941ab909c7ce1b91da24adde.svn-base
+2012-12-12 14:38:34 ....A         1298               .svn\pristine\10\10360513a50ae98551fc8fd8d426aeb9e28375d3.svn-base
+2012-12-12 14:38:15 ....A         3924               .svn\pristine\10\10ed8c1468560c02d3ddeb3841a20131657575ff.svn-base
+2012-12-12 14:37:34 ....A         2298               .svn\pristine\11\1105309562e26b4a1b953a10fe5910b4377bc43d.svn-base
+2012-12-21 23:00:08 ....A        81920               .svn\pristine\11\112075150e4bc5cd3a694826658147761ad6f81d.svn-base
+2012-12-17 22:25:08 ....A       230912               .svn\pristine\11\1136d7a2b82c5e79102ac0bcb8a352966fbbf14c.svn-base
+2012-12-22 21:46:32 ....A         4754               .svn\pristine\12\1219bcc3864c27e5560e244d1353d6de1dd4fcd1.svn-base
+2012-12-12 14:37:48 ....A         5050               .svn\pristine\12\12ab2e3b53509853b12f5975907acd0aff202427.svn-base
+2012-12-12 14:38:31 ....A         1130               .svn\pristine\13\130dc01b3022471e601157bc78869654f6f81584.svn-base
+2012-12-12 14:35:08 ....A         6423               .svn\pristine\14\14831d98beed634d31b35ca4b9ef25adef9a75f1.svn-base
+2012-12-12 14:36:10 ....A         4018               .svn\pristine\14\14d0fe6ce01d763a0dc208f914d26365808ea8d4.svn-base
+2012-12-15 23:54:43 ....A         8080               .svn\pristine\15\155555ee1a6f6d38b39755dd5f1a9e89695ebffb.svn-base
+2012-12-12 14:38:36 ....A         1162               .svn\pristine\15\155646f74ddb09e6af6f7c608afd533fc834a847.svn-base
+2012-12-14 23:55:29 ....A         2394               .svn\pristine\17\175dc7010266a0970b539a1ffac827b9832c5a1f.svn-base
+2012-12-12 14:53:15 ....A       106842               .svn\pristine\17\179a9283315aca1d42f829de3199c15b6fde36f8.svn-base
+2012-12-21 22:59:37 ....A         1853               .svn\pristine\18\1801e46b4afb64f8b8bf3df9fe1aad08116f0277.svn-base
+2012-12-15 23:54:42 ....A       632320               .svn\pristine\19\193f0ba21530ccbde8cde03f792390e0db62d2fb.svn-base
+2012-12-12 14:53:14 ....A         1116               .svn\pristine\19\1957f50a6e74b5e9124a80a6192ea8911af9c544.svn-base
+2012-12-21 22:57:48 ....A        13215               .svn\pristine\19\19656fc5b04f7517f7273f00a642787cd357819d.svn-base
+2012-12-12 14:36:29 ....A         2406               .svn\pristine\19\19846656ed71551f2b18cdaf01574344eede3320.svn-base
+2012-12-12 14:37:27 ....A        13879               .svn\pristine\19\19e000c04fa796288408852d799235103c3e122c.svn-base
+2012-12-12 14:38:09 ....A         3515               .svn\pristine\1b\1b069e9102b7d7af62e34200feb2ba67fb078356.svn-base
+2012-12-12 14:35:03 ....A         2042               .svn\pristine\1b\1b55552e088d7b5696764eb103153d7a88e67813.svn-base
+2012-12-17 22:25:08 ....A       552960               .svn\pristine\1b\1b948643bc6ba69562ed9dff3cf7a66fe7343b19.svn-base
+2012-12-12 14:36:32 ....A         2974               .svn\pristine\1d\1d4053e345829ffd76c0b13d29cee0c178a4a6b7.svn-base
+2012-12-12 14:37:26 ....A         3508               .svn\pristine\1d\1d45e13effcf24d60884dd460d46a3e433d6fe36.svn-base
+2012-12-12 14:37:58 ....A         1761               .svn\pristine\1d\1da1154577188a99b4bf49d1d469b792b8f1f8a6.svn-base
+2012-12-14 23:55:35 ....A       621056               .svn\pristine\1d\1dacb82feab3ed32d94ea4a99123443bf92ca96c.svn-base
+2012-12-12 14:35:16 ....A        18828               .svn\pristine\1d\1dd05109e2483fbede4e0661280086320064bdcf.svn-base
+2012-12-12 14:37:47 ....A         4659               .svn\pristine\1f\1f6687ea73c156b27c84cecc2e9931c853d934cf.svn-base
+2012-12-12 14:37:29 ....A         8748               .svn\pristine\1f\1f6a7995a65149cee88a8e6d4b19daaeded3db54.svn-base
+2012-12-12 14:38:36 ....A         7469               .svn\pristine\1f\1f7afc1015adc83c73a9c643e77019e48c6fef79.svn-base
+2012-12-21 23:00:27 ....A        11387               .svn\pristine\21\218737e649a5072c8b988375abe1f8bcb7ad7a50.svn-base
+2012-12-12 14:38:16 ....A         1534               .svn\pristine\21\21b982d33443fd06f2d9656e93966980ad9cd78a.svn-base
+2012-12-14 23:55:29 ....A       225280               .svn\pristine\21\21e510e55c7ebf3b846875ce3b65f7dafe34fbcc.svn-base
+2012-12-12 14:38:16 ....A         2019               .svn\pristine\22\2248c210be8c6954aa6b5531769c4309783c9072.svn-base
+2012-12-12 14:36:08 ....A        12985               .svn\pristine\22\22a2eca25479c4c8f67ea632b51d30a9736c376e.svn-base
+2012-12-12 14:36:32 ....A         1474               .svn\pristine\23\237bfc4a53ddd4d6522406f04bcd53cb3d291d89.svn-base
+2012-12-23 12:26:43 ....A         1962               .svn\pristine\24\242471677689039d118e720f6b09fcf538bedd87.svn-base
+2012-12-21 22:59:34 ....A         3350               .svn\pristine\24\2432f5a0f2e9dc86c975518780c899bdc9d05da6.svn-base
+2012-12-22 23:56:15 ....A        22528               .svn\pristine\24\2469c74e513a7b6ac5314b86bf2fe2accf6dd340.svn-base
+2012-12-19 16:51:30 ....A         2701               .svn\pristine\25\254db41ddfa50c43b7156728da1431f988866409.svn-base
+2012-12-21 23:00:31 ....A        18204               .svn\pristine\25\25b599991ab140f2cecd0859e826c7044ff4f384.svn-base
+2012-12-19 16:51:30 ....A         7981               .svn\pristine\27\2709f40cec73a49e19e38f5988cb716484c041d2.svn-base
+2012-12-14 23:55:29 ....A         1252               .svn\pristine\27\273ae88fd3ed2c21af800be073bd5daeab695adf.svn-base
+2012-12-12 14:37:31 ....A         6178               .svn\pristine\28\28cbae600c214961ad721efbabbf26f0ce0b752f.svn-base
+2012-12-12 14:35:15 ....A        10330               .svn\pristine\28\28cbe02f9ee81063ec6b71d30e9b532c778ca0bb.svn-base
+2012-12-12 14:38:24 ....A         4499               .svn\pristine\29\2991cf3a9b238a3d632e98590118bc63a7be498b.svn-base
+2012-12-22 23:56:15 ....A         3355               .svn\pristine\2b\2b62c1dcfa6be8c17625896c666b1c6d8587c945.svn-base
+2012-12-12 14:36:08 ....A         8211               .svn\pristine\2b\2bdc10388d2e72bc6877323a0eaee85a376987db.svn-base
+2012-12-14 23:55:29 ....A         1360               .svn\pristine\2c\2c559f03c9206e02a0097b9df36f60d20857b9ef.svn-base
+2012-12-12 14:37:37 ....A         2866               .svn\pristine\2c\2c5c36bd7c26b3446a405b9e6e9a74dec07d9bfd.svn-base
+2012-12-12 14:38:03 ....A         2779               .svn\pristine\2e\2ee9bf860da1439617a388b42ea27b8df9109175.svn-base
+2012-12-23 12:26:43 ....A        26112               .svn\pristine\2f\2f57143662c32dc6f6d2cbfce272d965c6ae2f3a.svn-base
+2012-12-12 14:35:23 ....A         3928               .svn\pristine\2f\2fc147b08dc714e7368704c4b51ca6a331b5a5f6.svn-base
+2012-12-12 14:35:09 ....A         5817               .svn\pristine\31\31fb76e5d9babe97a11fea041081f96ce426107a.svn-base
+2012-12-21 22:57:48 ....A         3595               .svn\pristine\32\32216b08510f5b88ad1eb4c3f249d28f373d4e39.svn-base
+2012-12-15 23:54:42 ....A        17612               .svn\pristine\32\3287ef433d9976241857dad77843a4936386ef98.svn-base
+2012-12-21 22:59:39 ....A         2199               .svn\pristine\32\32bfde7fd5ebb2793e2f4cab37ba4bde6b4e4203.svn-base
+2012-12-12 14:53:15 ....A         3950               .svn\pristine\32\32d8b490096f28e99dd8d965a6bb4b01f90b5c5d.svn-base
+2012-12-23 12:26:43 ....A         2254               .svn\pristine\32\32de00439b5c442ad65435f75b96a532e11aa67e.svn-base
+2012-12-22 21:46:32 ....A        11299               .svn\pristine\33\330222bc805b7f9f5633382c98ea39fe042e1d77.svn-base
+2012-12-12 14:37:27 ....A         4369               .svn\pristine\33\33ae9b6bffa966388771148236d0cc79db8fba61.svn-base
+2012-12-21 22:59:44 ....A         1585               .svn\pristine\33\33d2eb709f45d1ebcdbdad77353b7c4ca495e335.svn-base
+2012-12-15 23:54:43 ....A         3046               .svn\pristine\33\33d70d01d99328569b9ed66ae0485e271de9f225.svn-base
+2012-12-12 14:36:45 ....A         2817               .svn\pristine\34\3488b3208e34b67a329e97cc8b96d3ae25b886b4.svn-base
+2012-12-21 22:58:32 ....A         1460               .svn\pristine\34\34a9fc31e6683122e705654982e54997e20d11c8.svn-base
+2012-12-12 14:38:31 ....A         1257               .svn\pristine\35\35294c7b561d72beaca2ebb9e548b4998db6f9ac.svn-base
+2012-12-21 23:00:08 ....A        12541               .svn\pristine\36\361125af8e46846482d1ed6c8cda8473e3d6a5fa.svn-base
+2012-12-12 14:35:33 ....A        20840               .svn\pristine\36\361f6824af0a33f877c4b7f9e60e7f1157a57b8f.svn-base
+2012-12-12 14:37:08 ....A         4302               .svn\pristine\36\36b1c2252f61e59aaa4880ec95b31066933a718e.svn-base
+2012-12-21 22:58:34 ....A        19403               .svn\pristine\37\37548478aa50ecad3110eaf38904d2ca2e0ab18f.svn-base
+2012-12-21 23:00:27 ....A        19312               .svn\pristine\37\37732cc951d3574b4e593846449848b2ed080fa8.svn-base
+2012-12-21 23:00:31 ....A        23221               .svn\pristine\37\37b0ced8be38533c577b58c25ff134620bb990da.svn-base
+2012-12-12 14:36:51 ....A        47702               .svn\pristine\37\37c00f11c4b0c75f38f0c5a87159f80b575bf61f.svn-base
+2012-12-12 14:37:59 ....A         3578               .svn\pristine\37\37dff1125d8d9d3db521e4ebcaeeaf4baee82b99.svn-base
+2012-12-12 14:38:29 ....A         3915               .svn\pristine\37\37eead13dfb03b73370e1eeadaa78e08bb52f225.svn-base
+2012-12-21 22:57:48 ....A         2090               .svn\pristine\39\398ffdeb379d2c55aee1c0b56dbd86d17429bf96.svn-base
+2012-12-12 14:35:13 ....A         5536               .svn\pristine\3a\3a353c1537be081ab4b33e1f0b0b9a3da84a97bb.svn-base
+2012-12-21 23:00:25 ....A         4428               .svn\pristine\3a\3a5c34ed459d0ce73df14903ad496bf5b7813583.svn-base
+2012-12-23 12:26:43 ....A         3355               .svn\pristine\3a\3a862049d862595e5d33342f68690dc6fdf44b7c.svn-base
+2012-12-12 14:53:15 ....A         2661               .svn\pristine\3a\3a93165ef0414803ba910139104d1351f96cb7bf.svn-base
+2012-12-14 23:55:29 ....A        14334               .svn\pristine\3a\3aae3e4603bc636630c8d9a24642c5da5fe77d74.svn-base
+2012-12-12 14:34:50 ....A        14530               .svn\pristine\3a\3acabd2edf3597b58105942ac5fb6886a59b928e.svn-base
+2012-12-17 22:25:08 ....A         7171               .svn\pristine\3d\3d44aa27764b63475722f0d790289265411a15f7.svn-base
+2012-12-22 23:56:16 ....A       820224               .svn\pristine\3d\3dc434f69161711f3e1298deea053fe06dfa3d4c.svn-base
+2012-12-23 12:26:43 ....A       114614               .svn\pristine\3d\3ddd9ddb3fdfc54d3752ed65270e2a8999a38aaa.svn-base
+2012-12-12 14:38:04 ....A         2454               .svn\pristine\3e\3e7fcd92c6affe8137f09231289e0799ec458975.svn-base
+2012-12-21 23:00:31 ....A         2813               .svn\pristine\3f\3f28420837a6f577a5b29fb553b7554f162607dc.svn-base
+2012-12-12 14:37:59 ....A         1462               .svn\pristine\3f\3f6ce0a679676e24028005f432ee9adb34bceb7e.svn-base
+2012-12-21 22:59:39 ....A         4708               .svn\pristine\3f\3fa1182ba96a177640843e6a22aee59c2af31de7.svn-base
+2012-12-23 12:26:43 ....A       827392               .svn\pristine\42\425a941d042a696c8c7b0dd3895e1274392c9124.svn-base
+2012-12-12 14:34:53 ....A         1847               .svn\pristine\42\4297c2800fe6cb6de1a1c5793faba6103b0f7b80.svn-base
+2012-12-12 14:38:01 ....A         1707               .svn\pristine\44\44771f0f0c8351b5036cfad5550d8a71bbfe639f.svn-base
+2012-12-21 22:59:44 ....A       108436               .svn\pristine\44\447b0f7afc33dee878197680ba7635a3fc9a8fda.svn-base
+2012-12-12 14:53:14 ....A         2616               .svn\pristine\44\448b1ced713e703c5e75bc12a7179a06244e33bc.svn-base
+2012-12-12 14:38:16 ....A         4204               .svn\pristine\44\4490231503cc5ebb50ee23a672ed92b97844b388.svn-base
+2012-12-12 14:36:34 ....A        18294               .svn\pristine\45\4551d36587a069a1d17f1601d3c54f593ca9d3e4.svn-base
+2012-12-12 14:37:58 ....A         2115               .svn\pristine\45\4563b5ecac5b433efab19e788065670b0d6eb0be.svn-base
+2012-12-12 14:38:32 ....A         1305               .svn\pristine\46\46300ed815a8fbff9bd84f1b8a1baa9fc479f5c3.svn-base
+2012-12-12 14:37:34 ....A         1386               .svn\pristine\46\46380716669e50bf2402f866614095748ce9dbe3.svn-base
+2012-12-12 14:37:24 ....A         7473               .svn\pristine\46\46b0964807f160563f0da78e81c5772d7ddddac4.svn-base
+2012-12-12 14:38:03 ....A         2665               .svn\pristine\47\4779f0ac16e554074adec5e906f1d3c164f944bb.svn-base
+2012-12-15 23:54:42 ....A        24419               .svn\pristine\47\478283456df64b592c074f10c3155046b7e6817e.svn-base
+2012-12-22 23:56:15 ....A         2198               .svn\pristine\47\47c91f125d8ecfcd36e957d5cb562852b8edc19f.svn-base
+2012-12-19 16:51:30 ....A         7836               .svn\pristine\48\483489205be85d838e2a4e1bb9f47bd95d72e074.svn-base
+2012-12-12 14:37:57 ....A         1070               .svn\pristine\4b\4b490566e9a4b223b269cb6c533198f231a65f76.svn-base
+2012-12-12 14:37:52 ....A         1480               .svn\pristine\4c\4c6b438c3823c0ab22d33b79f976282a389c9596.svn-base
+2012-12-21 22:59:34 ....A       501760               .svn\pristine\4c\4c8aed2465415c544280efeca84f6f43c869864a.svn-base
+2012-12-23 12:26:43 ....A        16244               .svn\pristine\4d\4dc8cb6626dc7fbaa72798d969ada39d1d9a0ce6.svn-base
+2012-12-21 22:57:48 ....A         5693               .svn\pristine\4e\4ef3e4525911a6e4d9287202225e3815218d4c7b.svn-base
+2012-12-12 14:37:57 ....A        33430               .svn\pristine\4f\4ffbf0b597e89a7eb93c56ca2f53341ca7cb551e.svn-base
+2012-12-15 23:54:43 ....A        13544               .svn\pristine\4f\4ffc1a684513fd48bb4f557ae33e168d6fbee99e.svn-base
+2012-12-12 14:38:30 ....A         1650               .svn\pristine\50\502f876c201935f8050fe6b58c7ee51ef2cdf020.svn-base
+2012-12-14 23:55:29 ....A         1971               .svn\pristine\50\503e46f60e3a72fe4ce72c3234f7c08e3b11afbe.svn-base
+2012-12-19 16:51:30 ....A         3437               .svn\pristine\50\505c4a51e66dfe2780c0c131419a8a5d7f59c90e.svn-base
+2012-12-21 22:57:48 ....A         6731               .svn\pristine\50\50ae1cdb54af39b7004e37a516b43ee232d6c00e.svn-base
+2012-12-12 14:37:54 ....A         9423               .svn\pristine\50\50f959667b4a5f556d66123e175555677f881497.svn-base
+2012-12-12 14:35:13 ....A         6401               .svn\pristine\50\50fcd7ef13bbb79cd40edfd7519f217dcc88bd7c.svn-base
+2012-12-21 22:58:32 ....A         4125               .svn\pristine\51\5101660d3d0f9c92005f8b3a64f012ebd9741169.svn-base
+2012-12-12 14:38:02 ....A         2113               .svn\pristine\51\51ac0bdc9bfaef04aef8ab2f43f50e5298b2b26d.svn-base
+2012-12-12 14:38:46 ....A         3019               .svn\pristine\51\51b645c13254748da4908717c4c5e7e913914351.svn-base
+2012-12-15 23:54:43 ....A         2073               .svn\pristine\52\52286c3d8855c225f5bae3289a05e8d7f30ee301.svn-base
+2012-12-12 14:35:16 ....A         3830               .svn\pristine\52\5279478f4aa3a304f40a68816f7f25ab1c2a3493.svn-base
+2012-12-14 23:55:29 ....A         7879               .svn\pristine\52\52c5cc794251a864f0ef4a0711cb14a2640012e5.svn-base
+2012-12-21 22:57:48 ....A         2987               .svn\pristine\53\53c009f6b5b569ba2fa385198af8aca0f9a56bf2.svn-base
+2012-12-12 14:36:37 ....A         2454               .svn\pristine\53\53d68fa95b758875aab51a2193a6f2c09000932c.svn-base
+2012-12-12 14:37:30 ....A         1232               .svn\pristine\54\54a795de8eb1c4c82562c36facd69fd6b676a233.svn-base
+2012-12-12 14:36:21 ....A        30029               .svn\pristine\55\55057a2a8e03e2c7a07ccc65aadd5e6774f5dd0a.svn-base
+2012-12-21 22:59:47 ....A         2681               .svn\pristine\55\552f23b5fe080a3fa9e94ed17f4767c4acb68b23.svn-base
+2012-12-12 14:53:15 ....A         2102               .svn\pristine\55\55f687e5b5641fae6837ce949ef1837489ff4057.svn-base
+2012-12-12 14:35:35 ....A         5373               .svn\pristine\56\56431e537eb24b5baae601c62d49a6872e65817a.svn-base
+2012-12-12 14:37:30 ....A         1228               .svn\pristine\56\56444edc60777e662e717ba83e005a868c27d184.svn-base
+2012-12-12 14:38:14 ....A         1500               .svn\pristine\56\5688c146a3b5565a61032ebbcd366a99f0a6d0e7.svn-base
+2012-12-12 14:38:02 ....A         1277               .svn\pristine\57\578888bf28a8c9185b57283f752cd50c758b5c1c.svn-base
+2012-12-12 14:36:28 ....A         2990               .svn\pristine\57\57ca1d262fb79b9e27f9941705c694d06b2f7420.svn-base
+2012-12-12 14:53:14 ....A         4755               .svn\pristine\57\57e49d1ce59afbc92b3e10aed18df49608d22857.svn-base
+2012-12-23 12:26:43 ....A        51029               .svn\pristine\58\5852512d936f2257454951287d628c7b1f2b27f8.svn-base
+2012-12-23 12:26:43 ....A        12973               .svn\pristine\58\58619207f2b403da31890559df46001ed7da3f65.svn-base
+2012-12-21 23:00:27 ....A         1533               .svn\pristine\58\58992fba971ab801ac4860bb4b30c6800576f96e.svn-base
+2012-12-21 23:00:14 ....A        22493               .svn\pristine\59\59524274f6c8c50cbf7987c3ae72177dc593e5e8.svn-base
+2012-12-12 14:38:17 ....A         1290               .svn\pristine\59\59d9fca753d0f2657aad7c8080e2ecbe183220b3.svn-base
+2012-12-12 14:37:47 ....A          937               .svn\pristine\5a\5a8a705d6579e9143ce046940a358adb2ba7320a.svn-base
+2012-12-12 14:36:14 ....A         3939               .svn\pristine\5a\5a8e5415ee6c4ac59b8cab4dc15f8089a6efe331.svn-base
+2012-12-14 23:55:29 ....A        15408               .svn\pristine\5a\5a901e5046591d602a56351327ddeeb7d2dec7d4.svn-base
+2012-12-12 14:36:31 ....A         3582               .svn\pristine\5a\5a92861755b9661829d97a6cd96aae4d24c15c96.svn-base
+2012-12-12 14:35:06 ....A         1370               .svn\pristine\5b\5b88c986acbc03f7a67d9443a1f7ac665a105981.svn-base
+2012-12-21 22:57:48 ....A         2830               .svn\pristine\5b\5b8ef8d5049c6ea46278e1c31835c104c4cba5a7.svn-base
+2012-12-12 14:53:21 ....A         2208               .svn\pristine\5d\5d4ccda57789a72f2e760241a162aa9de9b8ab10.svn-base
+2012-12-21 22:57:48 ....A       712192               .svn\pristine\5f\5f3dfc7268d21476e8f417ce34ba73d6a58e160b.svn-base
+2012-12-12 14:36:43 ....A         2380               .svn\pristine\5f\5fc97461ca684850d318a786c9428c0009cd7557.svn-base
+2012-12-23 12:26:43 ....A         4889               .svn\pristine\60\6088c8123786b55885922103ab6488852b55a338.svn-base
+2012-12-12 14:35:05 ....A         3747               .svn\pristine\62\623ffaeb2292de76f29a299fab4904b38207205a.svn-base
+2012-12-12 14:38:08 ....A         2283               .svn\pristine\62\62476e708b68b48628f750d98230c76f80a8d0a6.svn-base
+2012-12-12 14:38:46 ....A         7832               .svn\pristine\62\62dfe409ec386559076cf2079dc8e7b65f930d75.svn-base
+2012-12-14 23:55:29 ....A        11711               .svn\pristine\63\630c7289edead689a18315805bb532f8777c6439.svn-base
+2012-12-12 14:35:24 ....A         3018               .svn\pristine\63\6340201fe2be7bef8b6f7bfc3255cddde54fcb77.svn-base
+2012-12-12 14:35:08 ....A        21315               .svn\pristine\63\63479ef86807dee331c7bdcc30a67ca9cd56c27d.svn-base
+2012-12-21 22:59:37 ....A         1797               .svn\pristine\63\6390aef1238e295cec3a7a29b7f14bac38ea2561.svn-base
+2012-12-12 14:35:10 ....A        28732               .svn\pristine\64\644225a2ca718a3be578318046a9e1118473ea2a.svn-base
+2012-12-12 14:36:12 ....A         5300               .svn\pristine\64\64fcedfc213d000933eb6d5432083eb23bb72003.svn-base
+2012-12-12 14:38:01 ....A         4104               .svn\pristine\65\65b368dc097e6aa85924263562b49e3ece3d7c18.svn-base
+2012-12-12 14:38:28 ....A         2134               .svn\pristine\65\65c0a257f9f58c2f5d87e4d60692f515c72dfbf0.svn-base
+2012-12-12 14:37:58 ....A         1209               .svn\pristine\66\6641af863cf215f77133c42e574a31b82f138bc0.svn-base
+2012-12-12 14:38:39 ....A         9087               .svn\pristine\66\667c9d1a94e7a25dc4b39d355840dbcd30d59cab.svn-base
+2012-12-22 23:56:16 ....A        59392               .svn\pristine\66\668ad8cc1f73af8bffb93fb4664cd18485553fa7.svn-base
+2012-12-12 14:37:15 ....A         1011               .svn\pristine\66\66ad8c8151c5c260acee04b7d02dffd85c2443e0.svn-base
+2012-12-12 14:37:45 ....A         2256               .svn\pristine\68\681f98c6a5bc49cc924da73e1f9ffb858dd0d28f.svn-base
+2012-12-21 22:57:48 ....A         3677               .svn\pristine\68\683ca7b54b75f5cd0ec04d36b3bd705f123015d8.svn-base
+2012-12-21 22:57:48 ....A        11652               .svn\pristine\68\683e17f502baaac8cecd44e9574281c2a432a83f.svn-base
+2012-12-12 14:38:05 ....A         9491               .svn\pristine\68\68789e44c8ce52f573f67a181bba634d30534bcf.svn-base
+2012-12-12 14:37:26 ....A         5731               .svn\pristine\69\692fbbb1ea8e208b2f471cf6ad276f228ac8ecf3.svn-base
+2012-12-12 14:37:22 ....A         9591               .svn\pristine\69\69dc6c729ddf8694418f57c82040bf38b1001782.svn-base
+2012-12-23 12:26:43 ....A        22528               .svn\pristine\69\69eedacbb484456f67e5252f325eaf9ffd89cbe9.svn-base
+2012-12-12 14:38:06 ....A         1830               .svn\pristine\6b\6b80b978eba7c750c6f8f7989b82ddf8ece6f3bf.svn-base
+2012-12-12 14:37:55 ....A         3790               .svn\pristine\6b\6b93931bd83de5293dea1035417267dd2958d3ea.svn-base
+2012-12-12 14:37:24 ....A          840               .svn\pristine\6c\6c12cdec7e26d1f7fca98ffeb7e02fca8b0dcd62.svn-base
+2012-12-12 14:38:09 ....A         6748               .svn\pristine\6c\6c885d6f61bf2a3984d3080d10b32ac77d52e33b.svn-base
+2012-12-21 22:59:39 ....A         2445               .svn\pristine\6c\6cc5b9d9cb804f61714124abd1eb7673def2c7a9.svn-base
+2012-12-12 14:35:27 ....A         3700               .svn\pristine\6d\6d15aa346cced77e36aaa7a6273d6c0de35d61c5.svn-base
+2012-12-22 23:56:15 ....A         5010               .svn\pristine\6d\6d8670168ed0b0278cb8989652bd50ca9178626f.svn-base
+2012-12-12 14:35:02 ....A         3667               .svn\pristine\6d\6d8cf8422d0b9c2939ec0a661e832538b4ac0d8e.svn-base
+2012-12-12 14:38:11 ....A         5540               .svn\pristine\6d\6db0e7c0bcc8cf8d07964e1935b89259db588c6a.svn-base
+2012-12-12 14:38:19 ....A         1252               .svn\pristine\6d\6ddb87df5742f2da2f3b1b65e1e3713a2ed6bdc3.svn-base
+2012-12-12 14:35:02 ....A         1001               .svn\pristine\6f\6f70cd4fc475a2ebc7801bee9c03b946a4bee201.svn-base
+2012-12-19 16:51:30 ....A         7694               .svn\pristine\6f\6f724aa0b65f7091548cddc7c644d98a8d6b3d51.svn-base
+2012-12-23 12:26:43 ....A         1830               .svn\pristine\70\70a09e4339d7d9a6fa911be6e7b2ddbf0074eeba.svn-base
+2012-12-12 14:38:04 ....A         4196               .svn\pristine\71\716540812b602553ea742f3b1cbe8458e032beaf.svn-base
+2012-12-15 23:54:43 ....A         2826               .svn\pristine\71\71ad77460da17f151f2d8576b1c04f6d2c22d043.svn-base
+2012-12-12 14:38:07 ....A         1620               .svn\pristine\71\71e24206961e6ab48c9c32a177dd87839977cc83.svn-base
+2012-12-21 22:57:48 ....A         2906               .svn\pristine\72\726f9e4d239bc04583501fde1a90b42a3dfebfa6.svn-base
+2012-12-21 22:57:48 ....A         2052               .svn\pristine\72\72852395c23b0eec6bb02b17a9d86d4e8d1973f7.svn-base
+2012-12-12 14:35:41 ....A         2393               .svn\pristine\74\746ad414e3a5706b9d8def0ee26d608e114f2fb0.svn-base
+2012-12-21 22:58:42 ....A        11346               .svn\pristine\74\74f122f0c8e11bba637c226ee6d5a88c9194b62c.svn-base
+2012-12-12 14:36:13 ....A         2034               .svn\pristine\75\756327e0ddd771e61344c408ed476d71f862e13c.svn-base
+2012-12-12 14:37:35 ....A         1121               .svn\pristine\75\756f6ea55f4a2be18c45575baaa23f482f1c357f.svn-base
+2012-12-21 22:57:48 ....A         2518               .svn\pristine\77\771f19492f735f0a1a785a1042839ff779248838.svn-base
+2012-12-12 14:38:18 ....A         3296               .svn\pristine\77\77c49ef2efdbd7c1ad81e8e2da68a6395229f826.svn-base
+2012-12-14 23:55:29 ....A         1316               .svn\pristine\77\77de9cc4964f712993ea074827940cbbfd8bfa7b.svn-base
+2012-12-12 14:35:24 ....A        12158               .svn\pristine\77\77fe24950299662d38656480c48c47f4be93c60d.svn-base
+2012-12-14 23:55:29 ....A         1491               .svn\pristine\78\781239cdf3cde0ec88acc977406f3f17b6b0a3af.svn-base
+2012-12-12 14:38:08 ....A         2131               .svn\pristine\79\79323a1760a53a5b1ff5f6a6877bb6171bac8680.svn-base
+2012-12-12 14:53:15 ....A        11931               .svn\pristine\79\796649e44d237188f9c826a2d9b239aad526fddd.svn-base
+2012-12-15 23:54:42 ....A         2788               .svn\pristine\7a\7a5dbeee40557594d4acb20cfc4840287f827acc.svn-base
+2012-12-12 14:37:54 ....A         4333               .svn\pristine\7a\7a7ffdd56eb476872eaab6ec13ea54d646b1d49b.svn-base
+2012-12-12 14:35:06 ....A         3068               .svn\pristine\7a\7a9f7783f92fa6db92b8050505e4f67da84e5c4f.svn-base
+2012-12-12 14:38:42 ....A         1586               .svn\pristine\7b\7b003951cc965a02a18b9762dfe6f8b1825ea0ee.svn-base
+2012-12-12 14:37:28 ....A         2382               .svn\pristine\7b\7bf9aa0b68df182f041c018e572ccc9d554bc828.svn-base
+2012-12-15 23:54:42 ....A       552960               .svn\pristine\7c\7c0bd0fde61267c4a75998334a6c9f5dd4e1e0e2.svn-base
+2012-12-12 14:38:34 ....A         2684               .svn\pristine\7c\7c6639316a0418e7d19f0628437ae4e0f441597e.svn-base
+2012-12-12 14:38:25 ....A         1470               .svn\pristine\7c\7c9facd2fac65fe545b6cbb68ad130ea430ab6ab.svn-base
+2012-12-21 22:57:48 ....A         1897               .svn\pristine\7c\7ca1122773ec2b52a81f86bac75dbb4bc46f6e28.svn-base
+2012-12-12 14:37:55 ....A         4335               .svn\pristine\7d\7dc3136571ed94b82c295f42dc8c0daabc564b7d.svn-base
+2012-12-12 14:37:32 ....A         2769               .svn\pristine\7e\7e9318b28b5b90f21c2eb914a4106c97534292d9.svn-base
+2012-12-12 14:53:20 ....A         1414               .svn\pristine\7e\7edc3789c023fed6859c81c950252a627457959c.svn-base
+2012-12-12 14:38:33 ....A         3676               .svn\pristine\7f\7f10eeac482062c0f5a45b51e0df9cab5030cd04.svn-base
+2012-12-12 14:53:18 ....A         1478               .svn\pristine\80\80606de8865a5093eecdfc62fd272747dc6c14bb.svn-base
+2012-12-21 23:00:31 ....A         1986               .svn\pristine\81\8124dc5a1504c67fa012c29b3ae1a0b921a3b3a1.svn-base
+2012-12-12 14:53:14 ....A       552960               .svn\pristine\81\815c02b71a69a7d4cf025b7da823aad97e1037aa.svn-base
+2012-12-12 14:36:35 ....A         5233               .svn\pristine\81\81cb23091b46c0d6b610473b76d2f7163d8efbed.svn-base
+2012-12-19 16:51:30 ....A        24327               .svn\pristine\83\835a757442feaf23b2be958f7780d82283a5ce30.svn-base
+2012-12-21 22:57:48 ....A         4104               .svn\pristine\83\83be58647cbcde9c7174cf71192c4d1608c32c0e.svn-base
+2012-12-19 16:51:30 ....A         9471               .svn\pristine\83\83cc0afbccec2a782e6f66c701700f0e1c83e91a.svn-base
+2012-12-22 21:46:32 ....A         2962               .svn\pristine\84\84ab01b34dc26ff9d591dd244fa690242621afd2.svn-base
+2012-12-12 14:38:00 ....A         1825               .svn\pristine\85\85e30aa1a416cda8fb112157f016d7f6cbf31f18.svn-base
+2012-12-14 23:55:29 ....A         2578               .svn\pristine\86\86b5c221c33fe40351d524ff62d8a2a0b63428ac.svn-base
+2012-12-12 14:37:59 ....A         3685               .svn\pristine\87\875b8cf148e6c8e5f9f2c4808297555ea4f56926.svn-base
+2012-12-12 14:38:47 ....A         1754               .svn\pristine\87\87aba134eb9aa0646f716e7126cf052edd470112.svn-base
+2012-12-21 22:59:37 ....A         1840               .svn\pristine\88\8850bc69d845f21cfd788adfa81f9294d244e1c7.svn-base
+2012-12-17 22:25:08 ....A        13608               .svn\pristine\88\88609b29f162e21895c483736ffd34212b492ec8.svn-base
+2012-12-12 14:38:06 ....A         4890               .svn\pristine\88\889545d933660494b5f3ea97380777e5ef2e9fb2.svn-base
+2012-12-12 14:37:47 ....A          550               .svn\pristine\88\88e23e250ba62611838154a3dda0ae6aa0e62be5.svn-base
+2012-12-12 14:37:34 ....A         2261               .svn\pristine\88\88f6f5bca2e0f6eb7e328cd1123f3371f8ad86fd.svn-base
+2012-12-12 14:36:22 ....A        13308               .svn\pristine\89\89b80e3914bc52fdfade3ca1db6818aa97a9cb97.svn-base
+2012-12-14 23:55:29 ....A       552960               .svn\pristine\8b\8b3d0a99de048d30ec435af5b67f7d0e55afbc81.svn-base
+2012-12-12 14:38:07 ....A         2759               .svn\pristine\8c\8c7ad2f7df6b46d5edccae09b6ea503f35ea3df2.svn-base
+2012-12-22 21:46:33 ....A       231936               .svn\pristine\8c\8c8bfb76d908a5fb60a2b56127bf0edf5f20d122.svn-base
+2012-12-14 23:55:29 ....A         8500               .svn\pristine\8d\8d12ecbdd90570231f9aa09d8e3687289938cd66.svn-base
+2012-12-12 14:38:13 ....A         2688               .svn\pristine\8d\8d5037db6ca7c884c09d0599278c39734fcba5d0.svn-base
+2012-12-12 14:37:29 ....A         2170               .svn\pristine\8f\8f0f834f0f84e11341329103b165ab0c6767ddb2.svn-base
+2012-12-12 14:35:08 ....A        12106               .svn\pristine\8f\8f8a680b26df7361e538d14210ccac44e3f64812.svn-base
+2012-12-14 23:55:29 ....A         2560               .svn\pristine\8f\8f91093c710dce0efff77327d90b4cf5d446ce00.svn-base
+2012-12-12 14:34:50 ....A          207               .svn\pristine\8f\8fa9a4059bf795d1799f4685ad81b07fb2b067a5.svn-base
+2012-12-23 12:26:43 ....A       509440               .svn\pristine\90\906ccec26028cc0a34c04a19b2c814e426dedbff.svn-base
+2012-12-12 14:38:09 ....A         4882               .svn\pristine\91\9146530ebe0117df9781dda437561b1066067044.svn-base
+2012-12-12 14:38:02 ....A         1497               .svn\pristine\91\91931dbeb701763c35ebdf9825abac2dc6d5870a.svn-base
+2012-12-12 14:36:35 ....A         7172               .svn\pristine\91\91af1f489fdbfc7ab66b640d4a069e2eb6dca4ff.svn-base
+2012-12-12 14:37:59 ....A         1614               .svn\pristine\92\9233ce0180157f5536f989eecb64da5f7f49ec23.svn-base
+2012-12-21 22:58:32 ....A         3901               .svn\pristine\92\92364f7a8878f45c50bd26d12f84e400f2d1d38c.svn-base
+2012-12-12 14:38:02 ....A         1290               .svn\pristine\93\9322d7bfe57deba9339ee7766306e73bbd7b4380.svn-base
+2012-12-12 14:38:47 ....A         6535               .svn\pristine\93\93511acc58c014009ba442e345f9b95e9ca94bf4.svn-base
+2012-12-12 14:37:08 ....A         2272               .svn\pristine\93\93d0ed1c4238ecb625553a6bbb5c6cb6576224d8.svn-base
+2012-12-12 14:38:11 ....A         2899               .svn\pristine\97\9713680be06c4305cfe90ceae404f00b29c02b49.svn-base
+2012-12-22 23:56:16 ....A         1509               .svn\pristine\97\976cdccfcdf701948c070181c443f63b8c74ce1b.svn-base
+2012-12-12 14:36:36 ....A        10959               .svn\pristine\99\99023f5ad9c6c52f835b97948f19fa2f36f6f9e5.svn-base
+2012-12-14 23:55:29 ....A        17172               .svn\pristine\99\99b67b7f07989984ad8f40c7151276c1b6aa70ef.svn-base
+2012-12-12 14:38:28 ....A         1263               .svn\pristine\99\99d037b9110e5c724b9437c3f84effa11c309f2d.svn-base
+2012-12-12 14:37:29 ....A         1952               .svn\pristine\9a\9a34c2ad06a5e1c8a2463458eb647faf6a44de2e.svn-base
+2012-12-12 14:38:33 ....A        11634               .svn\pristine\9a\9a415163a1556f408343e30f31cd9c59a03f6ec0.svn-base
+2012-12-12 14:35:30 ....A        21649               .svn\pristine\9a\9a7e21266ee576c737eed25369b9917321cf7c18.svn-base
+2012-12-12 14:38:32 ....A         1813               .svn\pristine\9a\9acee9e8b110e21de5e62fdc79b2c67c25b69671.svn-base
+2012-12-21 23:00:14 ....A         1525               .svn\pristine\9b\9b6434c857ea68521bbeeb2fe5fe7fc8654e45d2.svn-base
+2012-12-14 23:55:29 ....A         1382               .svn\pristine\9b\9b7fa12197b682e771abbb7c7d6558bf5e88cba8.svn-base
+2012-12-12 14:53:21 ....A         2657               .svn\pristine\9c\9c05489f78ee83292390b1b57241398babe31ad4.svn-base
+2012-12-21 23:00:27 ....A         4845               .svn\pristine\9c\9c23c87d0aad2289035120b61d6cdd82d66f2abb.svn-base
+2012-12-12 14:38:30 ....A         1733               .svn\pristine\9c\9c2589b02fe39ecff08cc5cdb1a4ee5f2cd4bcad.svn-base
+2012-12-22 21:46:32 ....A        20166               .svn\pristine\9d\9d120f021133126790aa5ec06c55ae120a46e8ce.svn-base
+2012-12-15 23:54:43 ....A          208               .svn\pristine\9d\9d1e3db9bfd599d9f1c173be4d85932ba346236c.svn-base
+2012-12-12 14:38:37 ....A         2859               .svn\pristine\9d\9d4c810a162ffbd2c4569d2f4735315695ae0c5e.svn-base
+2012-12-12 14:38:43 ....A        24899               .svn\pristine\9d\9dcd03e1748cb057eb81c64249e3f2f6d4f6ccd4.svn-base
+2012-12-12 14:35:08 ....A         2936               .svn\pristine\9e\9e8f8cc935d5924e175bdf1413c4c87e08d46af7.svn-base
+2012-12-12 14:35:40 ....A        77873               .svn\pristine\9e\9e9ac15fff8b318ec61c34e69c955b62bb8c5c07.svn-base
+2012-12-15 23:54:42 ....A         7891               .svn\pristine\9f\9f3cf15a6962139fc972823ec35bd80f49a59738.svn-base
+2012-12-21 23:00:14 ....A        15806               .svn\pristine\9f\9fcda22d7d3eb0ce999b111cb6577c7e20423f1b.svn-base
+2012-12-12 14:35:09 ....A         5635               .svn\pristine\a0\a0041dfb88c89288da9986d690b6cd195bfc9303.svn-base
+2012-12-12 14:35:03 ....A         6495               .svn\pristine\a0\a01329a63ff7be33545f1f0037e874f6f4a73959.svn-base
+2012-12-12 14:38:42 ....A         4015               .svn\pristine\a0\a09624339d88fcf534df8d907343cd43bc876ea6.svn-base
+2012-12-12 14:38:18 ....A         1546               .svn\pristine\a0\a0f0fc927e35f37fb39a7a7e511885ad089e961d.svn-base
+2012-12-12 14:53:21 ....A        25795               .svn\pristine\a1\a1f4665a17bbdfdac112b65ba8f230e0b8187a13.svn-base
+2012-12-12 14:37:31 ....A         1653               .svn\pristine\a1\a1f96174ce3755a16091d74143212a685087a9e9.svn-base
+2012-12-12 14:38:04 ....A         3756               .svn\pristine\a2\a2b69543bd339439ca368351f7a55b1d904b1a85.svn-base
+2012-12-22 21:46:32 ....A        25600               .svn\pristine\a2\a2e8ab0669a5d000ea4ed974a2018c1110e0ba41.svn-base
+2012-12-12 14:32:37 ....A        96768               .svn\pristine\a4\a42e4f0992d3f6fc78a632d29878bc51dc9ae70e.svn-base
+2012-12-21 23:00:14 ....A       110992               .svn\pristine\a4\a4be633e81d3dd66a3ffd81b61092a4ee29da148.svn-base
+2012-12-12 14:38:01 ....A         6224               .svn\pristine\a4\a4cebf2ff5cb1fc260a282fc0910b3276a4723e9.svn-base
+2012-12-21 22:58:39 ....A         3976               .svn\pristine\a5\a5bbfc1de547bfdec0fdc8f98b4b0a2c1adc2545.svn-base
+2012-12-23 12:26:43 ....A         2277               .svn\pristine\a5\a5e69fec9e16f2c4567dfc068201ee09025b7568.svn-base
+2012-12-21 22:59:47 ....A         2397               .svn\pristine\a6\a61ca45eb1be0c3a5f63b0ae3c18e0afe98af7fc.svn-base
+2012-12-12 14:36:36 ....A        11384               .svn\pristine\a6\a67c0eedd1bca413d7fc415e4f059596ef1dad5c.svn-base
+2012-12-21 22:57:48 ....A         3276               .svn\pristine\a6\a6c40716c4dbe4ae60042fade4cf710c99b376e9.svn-base
+2012-12-21 22:59:39 ....A        19998               .svn\pristine\a6\a6d77303346e8fa2b336ff45c585552cc96ae749.svn-base
+2012-12-22 21:46:32 ....A        60928               .svn\pristine\a7\a70b0e460f15a6c8a07940771919c7ab9ee445ce.svn-base
+2012-12-12 14:37:29 ....A         1265               .svn\pristine\a7\a73556eeb4eb7301407ea2c3d306a5f3ae72c3cb.svn-base
+2012-12-21 22:58:39 ....A         1349               .svn\pristine\a7\a76bf688f1ae74d86bdde55bc278cf6045b19883.svn-base
+2012-12-12 14:53:21 ....A         2687               .svn\pristine\a7\a76f64dcaa429605235c03a9a219a6582829e205.svn-base
+2012-12-12 14:53:16 ....A        48851               .svn\pristine\a7\a7f03ddb363ee8599e857eae60a4a9dc3ec2ccce.svn-base
+2012-12-23 12:26:43 ....A        59392               .svn\pristine\a8\a81b2a6d36952c12144755829e1420336b946816.svn-base
+2012-12-12 14:38:36 ....A        12849               .svn\pristine\a8\a81f91a1804c738ad112fe1802b4a79f7f19fe3a.svn-base
+2012-12-12 14:34:50 ....A         1848               .svn\pristine\a8\a826037eb18dd621998f9bbb8ca9fe9273b5dca2.svn-base
+2012-12-12 14:38:15 ....A         2963               .svn\pristine\a9\a913d4d03f54461469b69a7232856b95153f5f6a.svn-base
+2012-12-12 14:35:28 ....A        21803               .svn\pristine\a9\a920dfc3f010d0cc4bee0c442bdf77f6af3b0cae.svn-base
+2012-12-12 14:37:24 ....A         5729               .svn\pristine\a9\a9c045f34d26a41a0a8ad9ee3eae8d0948ba54c1.svn-base
+2012-12-12 14:38:00 ....A         1619               .svn\pristine\aa\aacc144854d3ccf738bf794a607085dfc76858a5.svn-base
+2012-12-12 14:53:19 ....A         1685               .svn\pristine\aa\aaf4449f886148f57c9ecfce7824efaefdc28fe6.svn-base
+2012-12-14 23:55:29 ....A         2575               .svn\pristine\ab\ab22804c11028637957b42ca841ea013220d82df.svn-base
+2012-12-12 14:35:23 ....A         6328               .svn\pristine\ab\abe6f654885a1ea76cb316d8d111bc4ca2722ddf.svn-base
+2012-12-22 21:46:32 ....A       841216               .svn\pristine\ac\ac1f462ec605430696590d35c1a85dad2f516b6e.svn-base
+2012-12-21 23:00:25 ....A        25600               .svn\pristine\ac\ac792ef25b61ecf886f12c049d570c9c50e6b926.svn-base
+2012-12-12 14:35:34 ....A        11171               .svn\pristine\ac\acb32727cb0ada97ded8efdaa16020eafe14b9b2.svn-base
+2012-12-12 14:37:14 ....A        38927               .svn\pristine\ad\ad176cb8f5222cd5b6b042797309e8e2b19f3681.svn-base
+2012-12-12 14:38:33 ....A         1447               .svn\pristine\ad\ad4ec4415f8c2f474942d385cb5998e3644883a5.svn-base
+2012-12-12 14:34:21 ....A       151040               .svn\pristine\ad\ad8ec49116b026eee2dd04d6434ede7ddce9734d.svn-base
+2012-12-12 14:38:19 ....A         1223               .svn\pristine\ad\adc08890c96d6d81b7ed176b2cefb229c5466437.svn-base
+2012-12-12 14:37:25 ....A         2570               .svn\pristine\ae\ae32539424862063fc3f99892511820c6e055013.svn-base
+2012-12-12 14:36:07 ....A        12673               .svn\pristine\ae\ae67262382cc0afd55f35b385e21a85789a58c31.svn-base
+2012-12-12 14:53:15 ....A         2662               .svn\pristine\af\af2c401f8dfbe62f1832785b724df0db65d31416.svn-base
+2012-12-14 23:55:29 ....A         1457               .svn\pristine\af\af4f6af0193c6928e9eb596725c83d953a749424.svn-base
+2012-12-12 14:53:20 ....A         5276               .svn\pristine\af\afcbbf802bc9f934aaae950636b956ac4ebe409e.svn-base
+2012-12-12 14:53:15 ....A         1542               .svn\pristine\b0\b0237e88e21d5a6e523d72bf732cc7e1f95671ca.svn-base
+2012-12-21 22:57:48 ....A         3100               .svn\pristine\b0\b02f177d1163f5491370219b413f20ffc6264ada.svn-base
+2012-12-12 14:38:11 ....A         3937               .svn\pristine\b0\b03cc81e76e356ee872f743001ada55949b3a544.svn-base
+2012-12-12 14:37:59 ....A         2807               .svn\pristine\b1\b1503bc40f28ea8dc31a392b7ee4370d346870b9.svn-base
+2012-12-12 14:36:28 ....A         7412               .svn\pristine\b1\b1a29c3b5a73436b97592448fddc1af585d6b5a0.svn-base
+2012-12-12 14:37:57 ....A          940               .svn\pristine\b2\b212a30335f77f1b4c410d6e1610c2941b7e5ab0.svn-base
+2012-12-12 14:38:04 ....A         1258               .svn\pristine\b4\b461d51b02b7cf6f95a007300fbd6948d7e4e3f7.svn-base
+2012-12-15 23:54:42 ....A         3266               .svn\pristine\b4\b473a875ac25cef30f2b892796f1d252a74d40b1.svn-base
+2012-12-12 14:36:33 ....A         2668               .svn\pristine\b4\b4771e816ce8705924eca6c42e7e8c39e9ee7ab2.svn-base
+2012-12-14 23:55:29 ....A         1259               .svn\pristine\b4\b4c8e0ed46d249a275f92bb1c2c0f4ddc75ef67b.svn-base
+2012-12-12 14:38:09 ....A         3129               .svn\pristine\b5\b510402b92ab32f85b2f67d89334b4c35c7574f0.svn-base
+2012-12-12 14:38:16 ....A         3210               .svn\pristine\b5\b511e75f9069e51fcb29faf05261c6273a52b30a.svn-base
+2012-12-14 23:55:29 ....A         2455               .svn\pristine\b5\b5c4ba2b314c606a542f2596bf9f7364fd4cdffa.svn-base
+2012-12-23 12:26:43 ....A       110659               .svn\pristine\b6\b6728c551d648372937b2d6699a46cd33c610821.svn-base
+2012-12-15 23:54:43 ....A         1267               .svn\pristine\b7\b725143c2b83e35c7d2fabf8150c367373c32444.svn-base
+2012-12-12 14:38:21 ....A         1774               .svn\pristine\b7\b733b51f19996face184d800bb55e88fc07a3991.svn-base
+2012-12-19 16:51:30 ....A         1213               .svn\pristine\b7\b7536802e490abb09a9cb720520dd4a1fcb1ea63.svn-base
+2012-12-12 14:38:02 ....A         2587               .svn\pristine\b7\b76b45165eab3c76e2b5d19f3a08e76c39770edc.svn-base
+2012-12-12 14:35:14 ....A         6013               .svn\pristine\b7\b7f077fd5c5176183966674dd79e7aa74808adcd.svn-base
+2012-12-14 23:55:29 ....A         2895               .svn\pristine\b8\b85b9ade82942d21be1e986a4105f1ed95e8f3e4.svn-base
+2012-12-19 16:51:30 ....A         5703               .svn\pristine\b8\b868cd74b6b0ce3e99043a6771e3c2908101b51e.svn-base
+2012-12-21 22:57:48 ....A        23514               .svn\pristine\b8\b8ade06e21dcbfb093389cd0d2126e551660e40b.svn-base
+2012-12-12 14:35:05 ....A         2435               .svn\pristine\b8\b8d7e155379f10197fc1f433e9f26a6c60f92f30.svn-base
+2012-12-12 14:36:45 ....A          882               .svn\pristine\b9\b90aeb5bcd903dc9bf2b6d3cc9b051e55947b296.svn-base
+2012-12-21 22:59:34 ....A         7185               .svn\pristine\b9\b977383c23eb7ae6deeb391b14e275349a3f1d10.svn-base
+2012-12-12 14:53:21 ....A         1303               .svn\pristine\ba\ba23a77e6bc35ab3628639215058ca0cd6b357ab.svn-base
+2012-12-12 14:37:09 ....A         3958               .svn\pristine\bb\bbd6785bdf9a176918b637358b09517a6cce751c.svn-base
+2012-12-12 14:38:07 ....A         6997               .svn\pristine\bb\bbfbe4c85c01c79d3f66fc20be43fc0f70612929.svn-base
+2012-12-12 14:37:52 ....A          907               .svn\pristine\bc\bc4e2794302630bca68e74758ef68114012752a8.svn-base
+2012-12-12 14:38:21 ....A         2600               .svn\pristine\bd\bd7407ae066d08a8a808c6e5d9c2989dca2e4f2f.svn-base
+2012-12-12 14:35:09 ....A         1912               .svn\pristine\bd\bdb577b2b07b3965714e5cdb6749fed56cfe64f5.svn-base
+2012-12-15 23:54:43 ....A         1241               .svn\pristine\bd\bdd818dfd259e3c95f11a82f63d5838604bbc390.svn-base
+2012-12-12 14:36:13 ....A         6957               .svn\pristine\be\be47021e700d87aa9904cd8ca3621772d021eaf9.svn-base
+2012-12-12 14:35:22 ....A       147782               .svn\pristine\bf\bf2649fb27ccc075524bd7c703f2c5793b9566f2.svn-base
+2012-12-21 22:58:39 ....A         5017               .svn\pristine\bf\bf80eb3f1027a08062a8fa9292279b318bc1e00c.svn-base
+2012-12-19 16:51:29 ....A         7541               .svn\pristine\c0\c0c3091a664b3828269e0596ea201d56efafdc87.svn-base
+2012-12-22 23:56:16 ....A         7209               .svn\pristine\c0\c0e53439d3f4a5b736b118771c4283f330eb8f06.svn-base
+2012-12-22 21:46:33 ....A       501760               .svn\pristine\c1\c157b9f9a9ce2fe8d55b99d86513dbc92cb9455a.svn-base
+2012-12-12 14:53:18 ....A       560640               .svn\pristine\c1\c18029ffa5e8965f42b2e77d770051c74179f7c4.svn-base
+2012-12-12 14:34:53 ....A         7625               .svn\pristine\c2\c20b128ff5d9c7ab329bb61b7fa68941a267a789.svn-base
+2012-12-12 14:53:19 ....A         2647               .svn\pristine\c2\c21d7d52a9019e45aafc4c9e4dca80acb2f21ac3.svn-base
+2012-12-21 22:58:32 ....A         1553               .svn\pristine\c3\c310294735e369bc027a47eb9360a083c8da005d.svn-base
+2012-12-12 14:53:15 ....A         1254               .svn\pristine\c3\c357d0fd968421d77fbd869a11234e378938b00d.svn-base
+2012-12-19 16:51:30 ....A       231936               .svn\pristine\c3\c3ab2d5f8651a1bbbd04f5068e5b81d2bc4cd7ca.svn-base
+2012-12-12 14:53:15 ....A         2476               .svn\pristine\c3\c3d8fc11e3aec1c698ba6f6159192e2f8bb32351.svn-base
+2012-12-12 14:53:15 ....A         4711               .svn\pristine\c3\c3ee976242c4d78fa7a18fd0769641fe498de4a8.svn-base
+2012-12-23 12:26:43 ....A         2116               .svn\pristine\c4\c410d0b92b03ff06f9ac1fc1e823ddef6eb6c39d.svn-base
+2012-12-12 14:36:34 ....A         6135               .svn\pristine\c4\c4856d77cd674fdfa025f86d2e19eac75adb3dde.svn-base
+2012-12-12 14:37:50 ....A        17661               .svn\pristine\c5\c5c5ddb2aced37db250e635031b49332a486ab2b.svn-base
+2012-12-12 14:34:51 ....A         4102               .svn\pristine\c5\c5c7db745ee426a18295cd7d000b6b1bb07142cb.svn-base
+2012-12-14 23:55:29 ....A         1141               .svn\pristine\c5\c5d9327a946febe71c19d063432a7f17a87f25d4.svn-base
+2012-12-21 22:59:37 ....A         1487               .svn\pristine\c5\c5fe9c620e54489cb78b372cbf9743b48daabccd.svn-base
+2012-12-14 23:55:29 ....A         3204               .svn\pristine\c6\c604f87ab96835db75178f67960572467fafc3b1.svn-base
+2012-12-19 16:51:30 ....A         5231               .svn\pristine\c6\c67900b24f8c1dada98852d658667c07cce992b0.svn-base
+2012-12-12 14:35:05 ....A         1323               .svn\pristine\c7\c70e8c4ffe05bcbfec132fc4b5addafff6c3c2eb.svn-base
+2012-12-12 14:37:07 ....A         2797               .svn\pristine\c8\c88b08f359fe029a14f0ef2f42d5d8955c861ffc.svn-base
+2012-12-21 22:58:32 ....A       225280               .svn\pristine\c8\c8a9aa4255c07cfaa6932a090871d53e86d64564.svn-base
+2012-12-12 14:38:36 ....A         4278               .svn\pristine\c8\c8cefc44ff8f38c1f7fea0dd3baf05e3f23207b6.svn-base
+2012-12-12 14:53:19 ....A         1923               .svn\pristine\c8\c8f38c69aaca5f5f7ce810fecfb45d7fd96ca486.svn-base
+2012-12-12 14:36:30 ....A         1703               .svn\pristine\cb\cb6802f91c5d572bf4fd3d8dfb0ddad47fc1b489.svn-base
+2012-12-22 21:46:32 ....A        33429               .svn\pristine\cb\cbf125fa2b856331cfbae81ac9000543e0f082b1.svn-base
+2012-12-12 14:38:02 ....A         6813               .svn\pristine\cb\cbf2eb8350da76dc1ec05a7429e2e4aae20331f0.svn-base
+2012-12-12 14:38:03 ....A         1516               .svn\pristine\cc\ccec605e5383279491e8f9731cc176aed67ead43.svn-base
+2012-12-23 12:26:43 ....A         7163               .svn\pristine\cf\cf58f065a98966cfbff206a2076267cf4c6cc244.svn-base
+2012-12-22 21:46:32 ....A         5066               .svn\pristine\d0\d0536ec0760a46db34f263ca893adbe8d3bb4dde.svn-base
+2012-12-12 14:38:03 ....A         2845               .svn\pristine\d0\d0e93d99b908818aa02b46f5e9a583a9101fd946.svn-base
+2012-12-12 14:38:06 ....A         1878               .svn\pristine\d2\d20f19786d6589a1b119a325e9bf69b3864f40a0.svn-base
+2012-12-17 22:25:08 ....A         3916               .svn\pristine\d2\d25edcc2370c59568d57761c7d90cadd2e600910.svn-base
+2012-12-12 14:38:31 ....A         2644               .svn\pristine\d2\d287bb673e0a090670297df36e612cd93c715523.svn-base
+2012-12-12 14:38:00 ....A         3794               .svn\pristine\d2\d2a9065668a7224d358f40006297da9950483f6f.svn-base
+2012-12-12 14:37:26 ....A         7557               .svn\pristine\d2\d2efc337354a98f9112355362bb6ab748aa70f59.svn-base
+2012-12-19 16:51:30 ....A         3729               .svn\pristine\d3\d358aac4e9cd1f9f1d95dba288cc8c968525cf16.svn-base
+2012-12-12 14:36:08 ....A         1801               .svn\pristine\d3\d3986649ffa17ae7644bc9a602ce7aaf397c907b.svn-base
+2012-12-12 14:36:33 ....A         4654               .svn\pristine\d3\d39f1083559ba39f60067fd4f6d6002288a93c24.svn-base
+2012-12-12 14:37:57 ....A         2679               .svn\pristine\d3\d3c892384b0f6c571f9936894dea7ec61fa27e4f.svn-base
+2012-12-12 14:38:00 ....A         1312               .svn\pristine\d4\d4037e028504ba263eeef9a9705c2be039ab922a.svn-base
+2012-12-12 14:38:23 ....A         1469               .svn\pristine\d4\d493c52695b4c4ce8f3452ae28ce4781e7df31cc.svn-base
+2012-12-12 14:38:31 ....A         1964               .svn\pristine\d4\d4ec9c5956f86b0095349590f39eb84ca1981df6.svn-base
+2012-12-12 14:35:03 ....A         2034               .svn\pristine\d5\d533c5574a5ef9d31b4925431ef0a0e66926bd4f.svn-base
+2012-12-19 16:51:30 ....A       552960               .svn\pristine\d5\d5df761ceccbd7136926da1414820ff44c62560f.svn-base
+2012-12-12 14:53:19 ....A         2758               .svn\pristine\d6\d6131b4bfa246301e9616135cd7c55755265c6c6.svn-base
+2012-12-12 14:38:11 ....A         1787               .svn\pristine\d7\d716aa1f2ac9746319a1187d21b3415c4526e50d.svn-base
+2012-12-12 14:36:42 ....A        43943               .svn\pristine\d7\d7a3396dc9615eeb88aede105e9819fd00505614.svn-base
+2012-12-23 12:26:43 ....A        20206               .svn\pristine\d8\d86dcae008220021c92c2b01afcc51d438ef0880.svn-base
+2012-12-12 14:35:13 ....A        12952               .svn\pristine\d9\d98750fce6f9474f0040583ff41f134fe54617a0.svn-base
+2012-12-22 23:56:15 ....A       231936               .svn\pristine\da\da51ae7c3a42b802fd5ccb101c580b1467d329c9.svn-base
+2012-12-12 14:38:29 ....A         1593               .svn\pristine\da\dad0d773544f7fcb7cbe67048376e78142f224fe.svn-base
+2012-12-12 14:53:14 ....A         1308               .svn\pristine\db\db055329387056f69c43e379e8326ba8c82f40a4.svn-base
+2012-12-22 23:56:15 ....A         1524               .svn\pristine\db\db30226a2c7d7d17e30c68466f890b873ca0b7e9.svn-base
+2012-12-17 22:25:08 ....A        17608               .svn\pristine\db\db8dc1b66f614033ac4a2e3f3d9017376d8c3d9c.svn-base
+2012-12-12 14:37:29 ....A          923               .svn\pristine\db\db9283c0c946efbedb913e00c58b32c22e228145.svn-base
+2012-12-12 14:37:17 ....A         1092               .svn\pristine\dc\dc1cd336f0636643be6eddfb905b3e87ac97a743.svn-base
+2012-12-21 22:57:48 ....A         1072               .svn\pristine\dc\dcab1f0ce487ac0896bae63515a2c38ccb31878b.svn-base
+2012-12-12 14:37:34 ....A         2019               .svn\pristine\dc\dccfc1bb5fc505171ac43ff0664ccd54a0acc3e8.svn-base
+2012-12-12 14:35:03 ....A         2487               .svn\pristine\dd\dd06a56836918ec099fcb790529377d966d0e0ef.svn-base
+2012-12-12 14:38:30 ....A         1429               .svn\pristine\dd\dd1b061e6b73e36432b880bfe08d57b229cf5123.svn-base
+2012-12-12 14:38:33 ....A         3139               .svn\pristine\dd\dd51a65007da8a5a4240ff6024a980efa79872bf.svn-base
+2012-12-12 14:37:25 ....A         3561               .svn\pristine\dd\dd7aba7828bc20d34d64ae100e6e70cc329a5ab3.svn-base
+2012-12-19 16:51:29 ....A          101               .svn\pristine\de\de28f97b8b92d4a8bab23eca4223b50ebaf669e6.svn-base
+2012-12-21 22:57:48 ....A         5246               .svn\pristine\de\de7f409632ad6da9c2e0d0b99dea25683fce63d6.svn-base
+2012-12-12 14:37:44 ....A        19908               .svn\pristine\de\dea659ef2d8b798b79d386293a0e9085e9a1df0d.svn-base
+2012-12-21 22:58:40 ....A        50259               .svn\pristine\de\dedcffd469c935e5e6c1f07a93e1b9be16c6a24e.svn-base
+2012-12-19 16:51:29 ....A        14034               .svn\pristine\df\df7f2b7eb110074759145cfb73b43f3b90c46ba1.svn-base
+2012-12-12 14:38:04 ....A         4025               .svn\pristine\df\dfb3fb2d59f65d0454ac76278f068a59c0424fbb.svn-base
+2012-12-17 22:25:08 ....A       676352               .svn\pristine\e0\e04b1e3fecca2041b1d86614d9d92bafa9a58563.svn-base
+2012-12-21 22:59:34 ....A         2166               .svn\pristine\e0\e0d94bc6b27ad9092d5d9ea6d6cdb1adc7778432.svn-base
+2012-12-12 14:53:20 ....A         1556               .svn\pristine\e0\e0f93bcc3996ea04982d9d4d7f4e2b01805d72e2.svn-base
+2012-12-12 14:38:04 ....A         1341               .svn\pristine\e1\e1382442c088034cec9a64c716bc0b5de39a6aa2.svn-base
+2012-12-12 14:36:32 ....A         2342               .svn\pristine\e1\e17f38fcdcf7f02d3c317870879eb3c667b35fd3.svn-base
+2012-12-12 14:38:11 ....A         1578               .svn\pristine\e2\e20ec3315a2e66c8555016d518ab1ce3db96288d.svn-base
+2012-12-12 14:53:14 ....A       109867               .svn\pristine\e2\e21bd65461edaf91fc44c7921b899d3290ff2ed0.svn-base
+2012-12-12 14:38:06 ....A         2425               .svn\pristine\e2\e265328813a214c6c3511ece7b7875c18228d418.svn-base
+2012-12-12 14:37:45 ....A         3142               .svn\pristine\e3\e30281a03cfd6122b0b1f45d1a9c1db8ba1ed710.svn-base
+2012-12-12 14:35:08 ....A         7413               .svn\pristine\e3\e34e32134ff0dfad848768d6f69e8b206cda2dca.svn-base
+2012-12-22 21:46:32 ....A         8451               .svn\pristine\e3\e39f6c7ac8651aedb97d7297c05168afe241bfb6.svn-base
+2012-12-12 14:38:09 ....A         2908               .svn\pristine\e4\e47fb3e1620c535489c4ae86a784a59401bcef2a.svn-base
+2012-12-12 14:36:28 ....A         3111               .svn\pristine\e5\e58647ac1976ac0be234fa6e3344ac5ac154272b.svn-base
+2012-12-12 14:36:36 ....A         1598               .svn\pristine\e5\e5979f04d6f5f5c9df06b305a42d8965f7dd0a5f.svn-base
+2012-12-12 14:34:50 ....A          695               .svn\pristine\e5\e5e0b7e53d85baa325cab050e6940e6f1529ee58.svn-base
+2012-12-12 14:38:37 ....A         2871               .svn\pristine\e7\e70030535f55ce43b34bb22c9b86651cb24ad25b.svn-base
+2012-12-12 14:38:37 ....A         1128               .svn\pristine\e7\e7cf1c4c54edadb30580c03325586a7ea52a5566.svn-base
+2012-12-12 14:53:14 ....A       214528               .svn\pristine\e8\e857c26b36b504dd5e3104159c21e9fb4cc745ec.svn-base
+2012-12-12 14:37:03 ....A        32929               .svn\pristine\e8\e89f6927dd6458d42b424efc2303e316a37aeb33.svn-base
+2012-12-23 12:26:43 ....A        14374               .svn\pristine\e8\e8da2646f90fff31466b4c9aae06831b1a7b32cf.svn-base
+2012-12-21 23:00:30 ....A        16299               .svn\pristine\e9\e97ecc9f52009847bf509f66bb160733f4f21aca.svn-base
+2012-12-21 23:00:30 ....A         4304               .svn\pristine\e9\e9f5c52de1683bc5a8a22723c29092d79aa0f801.svn-base
+2012-12-15 23:54:43 ....A         9656               .svn\pristine\ea\ea070f63b05c85e71dcaa443991713555979e423.svn-base
+2012-12-21 23:00:31 ....A         2355               .svn\pristine\ea\ea279fc7719031e93a1f2f54678d3885e7beca9e.svn-base
+2012-12-21 22:58:32 ....A         6121               .svn\pristine\ea\eabd4117ea18e9283c5f05f3a3ecfc5bc5c434fb.svn-base
+2012-12-22 23:56:15 ....A         5409               .svn\pristine\eb\eb24d1a75c89df2334e9bd986cfe80a93af55e00.svn-base
+2012-12-22 23:56:15 ....A        26112               .svn\pristine\eb\eb5d706cbc244c64a47ff935266b0a5eb0d9416b.svn-base
+2012-12-23 12:26:43 ....A         1618               .svn\pristine\eb\eb826533002a4133efc57f6f08284794da13bf7c.svn-base
+2012-12-12 14:34:22 ....A         4384               .svn\pristine\ec\ec9a64d8c906e52bbb1a7a272927056ffc4e3162.svn-base
+2012-12-12 14:37:32 ....A         1224               .svn\pristine\ed\edb8c52e990c8c13946e25bffc89d0495589d244.svn-base
+2012-12-12 14:35:06 ....A         6011               .svn\pristine\ed\edbcefc11df6bd6251228814f6c98f1a2bee39ca.svn-base
+2012-12-14 23:55:29 ....A         2082               .svn\pristine\ee\ee91b3a73e87059c144250506bd698c3106c987d.svn-base
+2012-12-12 14:37:16 ....A         1021               .svn\pristine\ee\eed8484305bbfb472e57883abb4c67801c33ce20.svn-base
+2012-12-21 23:00:08 ....A         3013               .svn\pristine\ef\ef79967a417be6502a2f0267d72aab648a14be8b.svn-base
+2012-12-17 22:25:08 ....A         9565               .svn\pristine\f0\f0eb8aacc1fb9b654393337066e6a34403fd059d.svn-base
+2012-12-12 14:38:24 ....A         1819               .svn\pristine\f1\f1789aeeccab9b8ba0629397ec0954a446d7ad76.svn-base
+2012-12-19 16:51:30 ....A         3191               .svn\pristine\f2\f25ffd757b4bdfbc5b0e606efa65c0985e55a0c9.svn-base
+2012-12-12 14:38:06 ....A         2828               .svn\pristine\f3\f33c891105847d7dc4230780b6a7441ceee945f7.svn-base
+2012-12-21 22:58:50 ....A       231936               .svn\pristine\f3\f34ec22cc32f73df9a9b1d6b99af74301fbc51a0.svn-base
+2012-12-23 12:26:43 ....A         3915               .svn\pristine\f3\f3a2172807d7f8a1f330873fbc8a0118113366b9.svn-base
+2012-12-14 23:55:29 ....A          171               .svn\pristine\f4\f405f68cf5a13e2db50d964058bad238a8ebf4d9.svn-base
+2012-12-14 23:55:29 ....A         1296               .svn\pristine\f4\f435f10526f8c1d6a4777b526aead6f9200296a6.svn-base
+2012-12-12 14:37:35 ....A         1763               .svn\pristine\f5\f50b68b8d7d6489801b481c87e7c11ca866d47ec.svn-base
+2012-12-21 22:57:48 ....A         6641               .svn\pristine\f5\f5716e00d0864e251f94692344c078101270e40f.svn-base
+2012-12-12 14:38:36 ....A         1181               .svn\pristine\f5\f5abe839d9e66d1f4da7e95b29e00352ab85820a.svn-base
+2012-12-12 14:37:43 ....A        35446               .svn\pristine\f6\f6aac4ea969ef7b6aed5a50a65fa1da08d60bb7b.svn-base
+2012-12-12 14:37:54 ....A         2357               .svn\pristine\f7\f778f6309b07899a4ab79591d730c3759a21e0a3.svn-base
+2012-12-12 14:37:50 ....A         2914               .svn\pristine\f7\f79cf587ed06ebad9736be5bd4ec927afaee6eaa.svn-base
+2012-12-14 23:55:29 ....A         2927               .svn\pristine\f7\f7d2eabd878a89b91ad305773339448c9f225731.svn-base
+2012-12-12 14:38:04 ....A         1419               .svn\pristine\f8\f84069060a5f08a23024def16e62d79aa3911daf.svn-base
+2012-12-12 14:35:25 ....A         8986               .svn\pristine\f8\f86e9f4a1576b9b7caa8b411ef54ca45e0186fbe.svn-base
+2012-12-12 14:53:21 ....A         9780               .svn\pristine\f8\f8a3248715f8c3b5fc3663511d47eb0b50f0b907.svn-base
+2012-12-12 14:38:04 ....A         1724               .svn\pristine\fa\faafc3cd4365fbfff3e007998fb03db3def8bedc.svn-base
+2012-12-12 14:38:24 ....A         4634               .svn\pristine\fb\fb18d3dbf017a8427e9e1f4b0f566bcff83a3a4c.svn-base
+2012-12-14 23:55:29 ....A         3376               .svn\pristine\fb\fb8d815a81ccaa23f7e05e2c0e2ecb9c2679c850.svn-base
+2012-12-12 14:38:01 ....A         1128               .svn\pristine\fb\fbfc545a71b1a670acd25ee46c018e0f11681959.svn-base
+2012-12-12 14:37:26 ....A         1092               .svn\pristine\fc\fc5b9741492c8811485454774175353f43021ae4.svn-base
+2012-12-12 14:37:07 ....A        25214               .svn\pristine\fc\fc982eb9211e361b8788af87745f7db6efc39959.svn-base
+2012-12-12 14:37:57 ....A         1202               .svn\pristine\fc\fce9229636931da5e19d818447d73ffd4b6b6785.svn-base
+2012-12-14 23:55:29 ....A        15178               .svn\pristine\fd\fd4fbfb9943666aaff076811bde52edc2d24b3a4.svn-base
+2012-12-12 14:35:10 ....A        15838               .svn\pristine\fd\fd9551466f8dd1a8a44b666b30dec897dbd705c0.svn-base
+2012-12-12 14:38:00 ....A         4081               .svn\pristine\fd\fdad46a6ed282ef19e394eab9b47e8214db12fee.svn-base
+2012-12-12 14:35:03 ....A         1339               .svn\pristine\fe\fe883f13334319489cd9dbb6c76806190c3c819e.svn-base
+2012-12-12 14:38:36 ....A         5718               .svn\pristine\fe\feb2a99e443a4607e39377bc960022f802c9a5fb.svn-base
+2012-12-12 14:37:58 ....A         2271               .svn\pristine\fe\fecadadcc9cc6b6204691562826995033106324d.svn-base
+2012-12-21 22:57:48 ....A            0            0  .svn\pristine\da\da39a3ee5e6b4b0d3255bfef95601890afd80709.svn-base
+2017-05-03 09:52:56 D....            0            0  WinRenderers\SlimDX\Video
+2017-05-03 09:52:55 D....            0            0  WinRenderers\SlimDX\Input
+2017-05-03 09:52:55 D....            0            0  WinRenderers\SlimDX\Audio
+2017-05-03 09:52:56 D....            0            0  WinRenderers\SlimDX
+2017-05-03 09:52:55 D....            0            0  WinRenderers\Shared
+2017-05-03 09:52:55 D....            0            0  WinRenderers\Properties
+2017-05-03 09:52:56 D....            0            0  WinRenderers
+2017-05-03 09:52:55 D....            0            0  VS Templates
+2017-05-03 09:52:55 D....            0            0  Renderers\Types
+2017-05-03 09:52:55 D....            0            0  Renderers\Shared
+2017-05-03 09:52:55 D....            0            0  Renderers\Settings
+2017-05-03 09:52:55 D....            0            0  Renderers\Properties
+2017-05-03 09:52:55 D....            0            0  Renderers
+2017-05-03 09:52:55 D....            0            0  Releases
+2017-05-03 09:52:55 D....            0            0  NesCore\Types
+2017-05-03 09:52:55 D....            0            0  NesCore\ROM
+2017-05-03 09:52:55 D....            0            0  NesCore\Properties
+2017-05-03 09:52:55 D....            0            0  NesCore\PPU
+2017-05-03 09:52:55 D....            0            0  NesCore\IO\Output
+2017-05-03 09:52:55 D....            0            0  NesCore\IO\Input
+2017-05-03 09:52:55 D....            0            0  NesCore\IO
+2017-05-03 09:52:55 D....            0            0  NesCore\GameGenie
+2017-05-03 09:52:55 D....            0            0  NesCore\Exceptions
+2017-05-03 09:52:55 D....            0            0  NesCore\Debug\DefaultCommands
+2017-05-03 09:52:55 D....            0            0  NesCore\Debug
+2017-05-03 09:52:55 D....            0            0  NesCore\Database
+2017-05-03 09:52:55 D....            0            0  NesCore\CPU\Types
+2017-05-03 09:52:55 D....            0            0  NesCore\CPU
+2017-05-03 09:52:55 D....            0            0  NesCore\Controls
+2017-05-03 09:52:55 D....            0            0  NesCore\Boards\Sunsoft
+2017-05-03 09:52:55 D....            0            0  NesCore\Boards\Other (Mappers)
+2017-05-03 09:52:55 D....            0            0  NesCore\Boards\Nintendo
+2017-05-03 09:52:54 D....            0            0  NesCore\Boards\Konami
+2017-05-03 09:52:54 D....            0            0  NesCore\Boards\FFE
+2017-05-03 09:52:54 D....            0            0  NesCore\Boards\Discreet
+2017-05-03 09:52:55 D....            0            0  NesCore\Boards
+2017-05-03 09:52:54 D....            0            0  NesCore\APU\VRC6
+2017-05-03 09:52:54 D....            0            0  NesCore\APU\Sunsoft5B
+2017-05-03 09:52:54 D....            0            0  NesCore\APU\Namco163
+2017-05-03 09:52:54 D....            0            0  NesCore\APU\MMC5
+2017-05-03 09:52:54 D....            0            0  NesCore\APU
+2017-05-03 09:52:55 D....            0            0  NesCore
+2017-05-03 09:52:54 D....            0            0  MyNes\Types
+2017-05-03 09:52:54 D....            0            0  MyNes\Resources
+2017-05-03 09:52:54 D....            0            0  MyNes\Properties
+2017-05-03 09:52:54 D....            0            0  MyNes\Forms\SettingForms\InputSettingControls
+2017-05-03 09:52:54 D....            0            0  MyNes\Forms\SettingForms
+2017-05-03 09:52:53 D....            0            0  MyNes\Forms\AddEditForms
+2017-05-03 09:52:54 D....            0            0  MyNes\Forms
+2017-05-03 09:52:53 D....            0            0  MyNes\Debug\Controls
+2017-05-03 09:52:53 D....            0            0  MyNes\Debug\ConsoleCommands
+2017-05-03 09:52:53 D....            0            0  MyNes\Debug
+2017-05-03 09:52:53 D....            0            0  MyNes\Controls
+2017-05-03 09:52:53 D....            0            0  MyNes\Browser Types
+2017-05-03 09:52:54 D....            0            0  MyNes
+2017-05-03 09:52:53 D....            0            0  CPRenderers\Shared\Input
+2017-05-03 09:52:53 D....            0            0  CPRenderers\Shared
+2017-05-03 09:52:53 D....            0            0  CPRenderers\SDL\Video
+2017-05-03 09:52:53 D....            0            0  CPRenderers\SDL\Sound
+2017-05-03 09:52:53 D....            0            0  CPRenderers\SDL\Input
+2017-05-03 09:52:53 D....            0            0  CPRenderers\SDL
+2017-05-03 09:52:53 D....            0            0  CPRenderers\Properties
+2017-05-03 09:52:53 D....            0            0  CPRenderers
+2017-05-03 09:52:53 D....            0            0  .svn\tmp
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\fe
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\fd
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\fc
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\fb
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\fa
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f8
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f7
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f6
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f5
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f4
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f3
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f2
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f1
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\f0
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\ef
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\ee
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\ed
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\ec
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\eb
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\ea
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e9
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e8
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e7
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e5
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e4
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e3
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e2
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e1
+2017-05-03 09:52:53 D....            0            0  .svn\pristine\e0
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\df
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\de
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\dd
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\dc
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\db
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\da
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d9
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d8
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d7
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d6
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d5
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d4
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d3
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d2
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\d0
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\cf
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\cc
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\cb
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c8
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c7
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c6
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c5
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c4
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c3
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c2
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c1
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\c0
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\bf
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\be
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\bd
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\bc
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\bb
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\ba
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\b9
+2017-05-03 09:52:52 D....            0            0  .svn\pristine\b8
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\b7
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\b6
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\b5
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\b4
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\b2
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\b1
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\b0
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\af
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\ae
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\ad
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\ac
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\ab
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\aa
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a9
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a8
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a7
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a6
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a5
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a4
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a2
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a1
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\a0
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\9f
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\9e
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\9d
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\9c
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\9b
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\9a
+2017-05-03 09:52:51 D....            0            0  .svn\pristine\99
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\97
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\93
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\92
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\91
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\90
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\8f
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\8d
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\8c
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\8b
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\89
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\88
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\87
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\86
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\85
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\84
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\83
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\81
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\80
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\7f
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\7e
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\7d
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\7c
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\7b
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\7a
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\79
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\78
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\77
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\75
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\74
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\72
+2017-05-03 09:52:50 D....            0            0  .svn\pristine\71
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\70
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\6f
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\6d
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\6c
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\6b
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\69
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\68
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\66
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\65
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\64
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\63
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\62
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\60
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\5f
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\5d
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\5b
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\5a
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\59
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\58
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\57
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\56
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\55
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\54
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\53
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\52
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\51
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\50
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\4f
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\4e
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\4d
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\4c
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\4b
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\48
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\47
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\46
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\45
+2017-05-03 09:52:49 D....            0            0  .svn\pristine\44
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\42
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\3f
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\3e
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\3d
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\3a
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\39
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\37
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\36
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\35
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\34
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\33
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\32
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\31
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\2f
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\2e
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\2c
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\2b
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\29
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\28
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\27
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\25
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\24
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\23
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\22
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\21
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\1f
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\1d
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\1b
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\19
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\18
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\17
+2017-05-03 09:52:48 D....            0            0  .svn\pristine\15
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\14
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\13
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\12
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\11
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\10
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\0f
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\0e
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\0d
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\0c
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\0a
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\09
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\08
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\07
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\06
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\05
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\03
+2017-05-03 09:52:47 D....            0            0  .svn\pristine\01
+2017-05-03 09:52:53 D....            0            0  .svn\pristine
+2017-05-03 09:52:53 D.H..            0            0  .svn
+------------------- ----- ------------ ------------  ------------------------
+2017-05-03 09:52:56           21544963      1036909  912 files, 276 folders

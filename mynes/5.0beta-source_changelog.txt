@@ -1,0 +1,9 @@
+Version 5.0 BETA RELEASE:
+==========================
+This is the beta release which means it's not stable and not complete. Development in progress.
+* Added support for large count of boards and mappers (almost full set)
+* Added external sound channels (MMC5, Namcot106, Sunsoft5 and VRC6) 
+* Added SDL .NET renderer which render using sdl dotnet library.
+* Added ability to support multi-renderer.
+* Added filtering tool for the browser.
+* Fixed some minor bugs in the core.

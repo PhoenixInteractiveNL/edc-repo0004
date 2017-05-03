@@ -1,0 +1,17 @@
+What's New in version 6.1.2
+---------------------------
+* Added: Support for these mappers: # 41 and 42
+* Added: High quality downsampler for audio output. Now My Nes sounds better.
+* Added: Options in Audio options allow to change sound channels playback enable.
+* Added: Ability to show boards/mappers status with My Nes via the new Boards List dialog.
+* Added: New option in input settings, allows to switch back to keyboard mapping for a device when mapped device disconnected.
+* Fixed: mappers # 23, 24, 26 and 90. 
+* Fixed: MMC 5 (mapper 5) external sound channels 
+* Fixed: Interrupts issue, branches was delaying nmi and irq instead of irq alone. some games are now playable (Dragon Quest III is one of them)
+* Fixed: Bug in Inputs settings, never save device selection for joypad1.
+* Fixed: Bug with inputs when trying to play in fullscreen sometimes inputs disconnected.
+* Fixed: Soft reset for internal sound channels.
+* Fixed: Bugs in few mappers.
+* Improved: external sound channels of mapper 19 (Namco 163), still choppy but works.
+* Improved: Few things in the video renderer such as 'cursor now it hides when entering fullscreen mode'.
+* Improved: Input settings when trying to set mapping for all buttons sometimes the same mapping assigned to more than one button. 

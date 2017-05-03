@@ -1,0 +1,19 @@
+What's new in Version 5.1:
+===========================
+* Added: Net play ability. (prototype)
+* Added: ability to show FPS and notification texts on render screen at play time.
+* Added: new video options: Keep aspect ratio, Show fps and Show notifications.
+* Improved: SlimDX renderer; now it can render video stretched in fullscreen mode.
+* Improved: the target .net framework version changed to 4.0 for compatibility with windows xp.
+* Improved: the speed limiter for more performance.
+* Improved: reduced the size of state files by using zlip compressing.
+* Fixed: SDL .NET renderer; crashes when attempting to switch to fullscreen.
+* Fixed: INES header fixer get wrong chr count number from database.
+* Fixed: when taking a snapshot, the older snap file get replaced instead of creating new one.
+* Fixed: when pressing a shortcut button (like take snapshot shortcut), the input keep executing without break.
+* Fixed: issue when loading state using the welcome window with fullscreen mode.
+* Fixed: issue when pause/resume emulation the sound muted sometimes.
+* Fixed: issue in emulation shutdown.
+* Fixed: issue when toggling the speed limiter, the sound delays.
+* Fixed: issue when attempting to load state that not exist, the emulation engine crashes.
+* Fixed: issue when attempting to load state using the Welcome Window, sometimes the emulation engine crashes.
